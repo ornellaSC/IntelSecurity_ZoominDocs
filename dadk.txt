@@ -117,6 +117,7 @@ HandlerUsersResetPasswordError: Fejl nulstilling adgangskode
 HandlerUsersRolesUpdated: brugerroller Opdateret
 HandlerUsersUnableToAssignUserPermissionRole: Kan ikke tildele brugeren tilladelse rolle
 HandlerUsersUnknownError: Ukendt fejl
+HideTOC: Skjul Indholdsfortegnelse
 ImportAddHelperProblemRunningAddHelper: Problem kører addHelper
 ImportBundlesTooManyTopics num @ Int: Maksimalt # {show num} emner kan offentliggøres. Vælg færre emner, og prøv igen.
 ImportElasticAnalyzerError: - Bemærk: Brugerdefineret analysator fejl, se log for detaljer. Brug standard analysator.
@@ -144,12 +145,14 @@ ImportUsersInvalidPass: Ugyldig adgangskode: valgt password skal være mindst 8 
 LoggedInAs email @ Tekst: Logget ind som # {email}.
 Manuals: Manualer
 PDFPage: Side
+ProductDocumentationSplashTitle: Dokumentation
 PublishHowto: Publish
 ResultsPerPage: Resultater per side
 ResultsPerPageShow: Vis xx pr side
 Search: Søg produkt Dokumentation
 SearchContent: Søg dette indhold
 SearchHome: Søg produkt Dokumentation
+ShowTOC: Vis Indholdsfortegnelse
 SSOLoginParamError: Der opstod en fejl med SSO login parametre
 SSOLoginTryAgain: Prøv at logge ind igen i med
 SwitchLang: Skift sprog

@@ -117,6 +117,7 @@ HandlerUsersResetPasswordError: Feil å tilbakestille passordet
 HandlerUsersRolesUpdated: brukerroller Oppdatert
 HandlerUsersUnableToAssignUserPermissionRole: Kan ikke tildele brukeren tillatelse rolle
 HandlerUsersUnknownError: Ukjent feil
+HideTOC: Skjul Innhold
 ImportAddHelperProblemRunningAddHelper: Problem kjører addHelper
 ImportBundlesTooManyTopics num @ Int: Maksimalt # {showet num} emner kan bli publisert. Velg færre emner og prøv igjen.
 ImportElasticAnalyzerError: - Merk: Custom analysator feil, se logg for detaljer. Ved hjelp av standard analysator.
@@ -144,12 +145,14 @@ ImportUsersInvalidPass: Ugyldig passord valgt passord må være minst 8 tegn, in
 Loggedinas epost @ Tekst: Logget inn som # {email}.
 Manuals: Håndbøker
 PDFPage: Side
+ProductDocumentationSplashTitle: Produktdokumentasjon
 PublishHowto: Publish
 Resultsperpage: Resultat pr side
 ResultsPerPageShow: Vis xx per side
 Search: Søk Produktdokumentasjon
 SearchContent: Søk dette innholdet
 SearchHome: Søk Produktdokumentasjon
+ShowTOC: Vis Innhold
 SSOLoginParamError: Det oppstod en feil med SSO påloggingsparametrene
 SSOLoginTryAgain: Prøv å logge inn igjen på med
 SwitchLang: Endre språk

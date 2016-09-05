@@ -117,6 +117,7 @@ HandlerUsersResetPasswordError: 오류 재설정 암호
 HandlerUsersRolesUpdated: 사용자 역할 업데이트
 HandlerUsersUnableToAssignUserPermissionRole: 사용자 권한 역할을 할당 할 수 없습니다
 HandlerUsersUnknownError: 알 수없는 오류
+HideTOC: 목차 숨기기 표
 ImportAddHelperProblemRunningAddHelper: 문제 실행 addHelper
 ImportBundlesTooManyTopics 납입 @ 지능: # 최대 {쇼 NUM} 항목을 게시 할 수 있습니다. 적은 수의 주제를 선택하고 다시 시도하십시오.
 ImportElasticAnalyzerError: - 참고: 사용자 정의 분석 오류, 자세한 내용은 로그를 참조하십시오. 기본 분석기를 사용.
@@ -144,12 +145,14 @@ ImportUsersInvalidPass: 잘못된 암호: 선택한 암호는 적어도 한 대�
 LoggedInAs 이메일 @ 텍스트: # {전자 우편}로 기록됩니다.
 Manuals: 매뉴얼
 PDFPage: 페이지
+ProductDocumentationSplashTitle: 제품 설명서
 PublishHowto: 게시
 ResultsPerPage: 페이지 당 결과
 ResultsPerPageShow: 페이지 당 표시 XX
 Search: 검색 제품 설명서
 SearchContent:이 콘텐츠를 검색
 SearchHome: 검색 제품 설명서
+ShowTOC: 내용의 테이블 표시
 SSOLoginParamError는: SSO 로그인 매개 변수에 오류가 발생했습니다
 SSOLoginTryAgain:과에 다시 로그인 시도
 SwitchLang: 언​​어 변경

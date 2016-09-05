@@ -118,6 +118,7 @@ HandlerUsersRolesUpdated: käyttäjärooleja Päivitetty
 HandlerUsersUnableToAssignUserPermissionRole: Ei voi antaa käyttäjälle lupaa rooli
 HandlerUsersUnknownError: Tuntematon virhe
 ImportAddHelperProblemRunningAddHelper: Ongelma käynnissä addHelper
+HideTOC: Piilota sisällysluettelo
 ImportBundlesTooManyTopics num @ Int: Korkeintaan # {osoittavat num} aiheita voidaan julkaista. Valitse vähemmän aiheita ja yritä uudelleen.
 ImportElasticAnalyzerError: - Huomautus: Custom analysaattori virhe, katso loki lisätietoja. Käyttämällä default analysaattori.
 ImportElasticErrorRebuilding: Error uudelleenrakentaminen index - katso loki lisätietoja.
@@ -144,12 +145,14 @@ ImportUsersInvalidPass: Virheellinen salasana: valitun salasanan on oltava vähi
 LoggedInAs email @ Teksti: Kirjautuneena # {email}.
 Manuals: Käyttöohjeet
 PDFPage: Page
+ProductDocumentationSplashTitle: tuotteen ohjeet
 PublishHowto: Julkaise
 ResultsPerPage: Tuloksia sivulla
 ResultsPerPageShow: Näytä xx per sivu
 Search: Haku Tuotedokumentointi
 SearchContent: Etsi tämän sisällön
 SearchHome: Hae Tuotedokumentointi
+ShowTOC: Näytä sisällysluettelo
 SSOLoginParamError: virhe SSO kirjautumisparametreja
 SSOLoginTryAgain: Yritä kirjautua uudelleen sisään
 SwitchLang: Vaihda kieli

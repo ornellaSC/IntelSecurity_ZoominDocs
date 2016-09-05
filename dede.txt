@@ -117,6 +117,7 @@ HandlerUsersResetPasswordError: Fehler Zurücksetzen Passwort
 HandlerUsersRolesUpdated: Benutzerrollen Aktualisiert
 HandlerUsersUnableToAssignUserPermissionRole: Es konnte keine Benutzerberechtigung Rolle zuweisen
 HandlerUsersUnknownError: Unbekannter Fehler
+HideTOC: Ausblenden Inhaltsverzeichnis
 ImportAddHelperProblemRunningAddHelper: Problem läuft addHelper
 ImportBundlesTooManyTopics num @ Int: Maximal # {Show num} Themen veröffentlicht werden können. Bitte wählen Sie weniger Themen und versuchen Sie es erneut.
 ImportElasticAnalyzerError: - Hinweis: Benutzerdefinierte Analysefehler, siehe Protokoll für Details. Die Verwendung von Standardanalyse. 
@@ -144,12 +145,14 @@ ImportUsersInvalidPass: Ungültige Passwort: gewähltes Passwort muss mindestens
 LoggedInAs E-Mail @ Text: Angemeldet als # {email}.
 Manuals: Handbücher
 PDFPage: Seite
+ProductDocumentationSplashTitle: Produktdokumentation
 PublishHowto: Veröffentlichen
 Resultsperpage: Ergebnisse pro Seite
 ResultsPerPageShow: Show xx pro Seite
 Search: Die Suche Produktdokumentation
 SearchContent: Diesen Inhalt
 SearchHome: Suchen Produktdokumentation
+ShowTOC: Inhaltsverzeichnis anzeigen
 SSOLoginParamError: Es wurde ein Fehler mit SSO-Login-Parameter
 SSOLoginTryAgain: Versuchen Sie sich erneut einloggen mit
 SwitchLang: Sprache ändern

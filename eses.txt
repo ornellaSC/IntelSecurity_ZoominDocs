@@ -117,6 +117,7 @@ HandlerUsersResetPasswordError: Error de contraseña restablecer
 HandlerUsersRolesUpdated: Roles de usuario actualizada
 HandlerUsersUnableToAssignUserPermissionRole: No es posible asignar el papel de permiso de usuario
 HandlerUsersUnknownError: Error desconocido
+HideTOC: Ocultar tabla de contenido
 ImportAddHelperProblemRunningAddHelper: Problema addHelper corriendo
 ImportBundlesTooManyTopics num @ Int: Un máximo de # {num} muestran los temas pueden ser publicados. Por favor, seleccione un menor número de temas y vuelve a intentarlo.
 ImportElasticAnalyzerError: - Nota: Error de analizador personalizado, consulte el registro para obtener más detalles. Utilizando el analizador por defecto.
@@ -144,12 +145,14 @@ ImportUsersInvalidPass: Contraseña no válida: seleccionado contraseña debe te
 LoggedInAs correo electrónico @ Texto: Conectado como #} {email.
 Manuals: Manuales
 PDFPage: Página
+ProductDocumentationSplashTitle: Documentación del producto
 PublishHowto: Publica
 ResultsPerPage: Resultados por página
 ResultsPerPageShow: Mostrar xx por página
 Search: La búsqueda de documentación de productos
 SearchContent: Buscar este contenido
 SearchHome: Búsqueda de documentación del producto
+ShowTOC: Mostrar tabla de contenido
 SSOLoginParamError: Se produjo un error con parámetros de conexión de SSO
 SSOLoginTryAgain: Intente de nuevo con
 SwitchLang: Cambiar idioma

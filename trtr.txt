@@ -117,6 +117,7 @@ HandlerUsersResetPasswordError: Hata sıfırlama şifresi
 HandlerUsersRolesUpdated: Kullanıcı Rolleri Güncellendi
 HandlerUsersUnableToAssignUserPermissionRole: Kullanıcı izni rol atamak için açılamıyor
 HandlerUsersUnknownError: Bilinmeyen hata
+HideTOC: İçindekiler gizle Tablosu
 ImportAddHelperProblemRunningAddHelper: Problem çalışan addHelper
 ImportBundlesTooManyTopics num @ Int: # maksimum {gösteri num} konular yayınlanabilir. Daha az konuları seçin ve tekrar deneyin.
 ImportElasticAnalyzerError: - Not: Özel analizörü hatası, ayrıntılı bilgi için oturum bkz. Varsayılan analizörü kullanılarak.
@@ -144,12 +145,14 @@ ImportUsersInvalidPass: Geçersiz parola: Seçilen şifre en az 1 büyük harf, 
 Loggedinas e-posta @ Metin: # {e-posta} olarak kaydedilir.
 Manuals: Kılavuzlar
 PDFPage: Sayfa
+ProductDocumentationSplashTitle: Ürün Belgeleri 
 PublishHowto: Yayınla
 Resultsperpage: Sayfa başına Sonuçlar
 ResultsPerPageShow: Sayfa başına göster xx
 Search: Arama Ürün Belgeleri
 SearchContent: Bu içeriği ara
 SearchHome: Ara Ürün Belgeleri
+ShowTOC: İçindekiler Tablo Göster
 SSOLoginParamError: TOA giriş parametreleri ile bir hata oluştu
 SSOLoginTryAgain: ile tekrar giriş yapmak için çalışın
 SwitchLang: Dili Değiştir

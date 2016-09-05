@@ -117,6 +117,7 @@ HandlerUsersResetPasswordError: Ошибка сброса пароля
 HandlerUsersRolesUpdated: Роли пользователей Обновлено
 HandlerUsersUnableToAssignUserPermissionRole: Невозможно назначить разрешения роли пользователя
 HandlerUsersUnknownError: неизвестная ошибка
+HideTOC: Скрыть Оглавление
 ImportAddHelperProblemRunningAddHelper: Проблема запуска addHelper
 ImportBundlesTooManyTopics Num @ Int: Максимум # {показать номер} темы могут быть опубликованы. Выберите меньшее количество тем и повторите попытку.
 ImportElasticAnalyzerError: - Примечание: Ошибка пользовательского анализатора, см подробности в журнале. Использование анализатора по умолчанию.
@@ -144,12 +145,14 @@ ImportUsersInvalidPass: Неверный пароль: выбранный пар
 LoggedInAs электронная почта @ Текст: Вы вошли как # {} электронной почты.
 Manuals: Руководства
 PDFPage: Страница
+ProductDocumentationSplashTitle: Документация по продукту
 PublishHowto: Опубликовать
 ResultsPerPage: Результатов на странице:
 ResultsPerPageShow: Показать на странице хх
 Search: Поиск Документация по продукту
 SearchContent: Поиск этого контента
 SearchHome: Документация Поиск по продукции
+ShowTOC: Показать Содержание
 SSOLoginParamError: Был ошибка с параметрами входа в SSO
 SSOLoginTryAgain: Попробуйте снова войти в систему с
 SwitchLang: Изменить язык

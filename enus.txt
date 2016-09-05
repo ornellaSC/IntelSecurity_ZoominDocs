@@ -117,6 +117,7 @@ HandlerUsersResetPasswordError: Error resetting password
 HandlerUsersRolesUpdated: User Roles Updated
 HandlerUsersUnableToAssignUserPermissionRole: Unable to assign user permission role
 HandlerUsersUnknownError: Unknown error
+HideTOC: Hide Table of Contents
 ImportAddHelperProblemRunningAddHelper: Problem running addHelper
 ImportBundlesTooManyTopics num@Int: A maximum of #{show num} topics can be published. Please select fewer topics and try again.
 ImportElasticAnalyzerError: - Note: Custom analyzer error, see log for details. Using default analyzer. 
@@ -144,12 +145,14 @@ ImportUsersInvalidPass: Invalid password: selected password must be at least 8 c
 LoggedInAs email@Text: Logged in as #{email}.
 Manuals: Manuals
 PDFPage: Page
+ProductDocumentationSplashTitle: Product Documentation 
 PublishHowto: Publish
 ResultsPerPage: Results per page
 ResultsPerPageShow: Show xx per page
 Search: Search Product Documentation
 SearchContent: Search this content
 SearchHome: Search Product Documentation
+ShowTOC: Show Table of Contents
 SSOLoginParamError: There was an error with SSO login parameters
 SSOLoginTryAgain: Try to login again in with
 SwitchLang: Change Language

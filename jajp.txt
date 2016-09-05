@@ -117,6 +117,7 @@ HandlerUsersResetPasswordError：エラーリセットパスワード
 HandlerUsersRolesUpdated：ユーザの役割は、更新します
 HandlerUsersUnableToAssignUserPermissionRole：ユー​​ザー権限の役割を割り当てることができません。
 HandlerUsersUnknownError：不明なエラー
+HideTOC: 目次を隠す表
 ImportAddHelperProblemRunningAddHelper：問題実行中はaddHelper
 ImportBundlesTooManyTopics NUM @のInt：＃{ショーNUM}トピックの最大を公開することができます。少ないのトピックを選択して、もう一度お試しください。
 ImportElasticAnalyzerError： - 注：カスタム・アナライザのエラー、詳細についてはログを参照してください。デフォルトのアナライザを使用します。
@@ -144,6 +145,7 @@ ImportUsersInvalidPass：無効なパスワード：選択したパスワード�
 LoggedInAs電子メール@テキスト：＃{メール}として記録されます。
 マニュアル：マニュアル
 PDFPage：ページ
+ProductDocumentationSplashTitle: 製品ドキュメント
 PublishHowto：公開
 ResultsPerPage：ページあたりの検索結果
 ResultsPerPageShow：ページあたりの表示XX
@@ -151,6 +153,7 @@ ResultsPerPageShow：ページあたりの表示XX
 SearchContent：このコンテンツを検索
 SearchHome：検索製品マニュアル
 SSOLoginParamErrorは：SSOログイン・パラメータを使用してエラーが発生しました
+ShowTOC: 内容のテーブルの表示
 SSOLoginTryAgain：付きで再度ログインしてみてください
 SwitchLang：言語の変更
 TemplaesBundlesTitle：ドキュメント・ライブラリ

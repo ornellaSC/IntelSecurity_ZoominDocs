@@ -118,6 +118,7 @@ HandlerUsersRolesUpdated: Gebruikersrollen Bijgewerkt
 HandlerUsersUnableToAssignUserPermissionRole: Kan gebruiker toestemming rol toewijzen
 HandlerUsersUnknownError: Onbekende fout
 ImportAddHelperProblemRunningAddHelper: Problem running addHelper
+HideTOC: Skjul Indholdsfortegnelse
 ImportBundlesTooManyTopics num @ Int: Een maximum van # {tonen num} onderwerpen kunnen worden gepubliceerd. Selecteer minder thema's en probeer het opnieuw.
 ImportElasticAnalyzerError: - Opmerking: Custom analyzer fout, zie log voor details. Met behulp van standaard analyzer.
 ImportElasticErrorRebuilding: Fout verbouwing index - zie log voor meer details.
@@ -144,12 +145,14 @@ ImportUsersInvalidPass: Ongeldig wachtwoord: gekozen wachtwoord moet minstens 8 
 LoggedInAs email @ Tekst: ingelogd als # {e}.
 Manuals: Handleidingen
 PDFPage: Pagina
+ProductDocumentationSplashTitle: Dokumentation
 PublishHowto: Publiceer
 ResultsPerPage: Resultaten per pagina
 ResultsPerPageShow: Show xx per pagina
 Search: Zoek product Documentatie
 SearchContent: Zoek door deze inhoud
 SearchHome: Zoek product Documentatie
+ShowTOC: Vis Indholdsfortegnelse
 SSOLoginParamError: Er is een fout met SSO login parameters
 SSOLoginTryAgain: Probeer opnieuw in te loggen in met
 SwitchLang: Taal wijzigen

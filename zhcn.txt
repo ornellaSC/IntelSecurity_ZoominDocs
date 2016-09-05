@@ -117,6 +117,7 @@ HandlerUsersResetPasswordError：错误密码重置
 HandlerUsersRolesUpdated：用户角色更新
 HandlerUsersUnableToAssignUserPermissionRole：无法分配用户权限角色
 HandlerUsersUnknownError：未知的错误
+HideTOC: 隐藏目录
 ImportAddHelperProblemRunningAddHelper：问题运行addHelper
 ImportBundlesTooManyTopics NUM // @诠释：最多＃{的表演NUM}主题可以发布。请选择较少的主题，然后再试一次。
 ImportElasticAnalyzerError： - 注：自定义分析错误，请参阅日志了解详情。使用默认的分析仪。
@@ -144,12 +145,14 @@ ImportUsersInvalidPass：无效的密码：选定的密码必须至少8个字符
 LoggedInAs电子邮件@文字：登录身份＃{EMAIL}。
 Manuals：使用手册
 PDFPage：页
+ProductDocumentationSplashTitle: 产品文档
 PublishHowto：发布
 ResultsPerPage：结果每页
 ResultsPerPageShow：每页显示XX
 Search：搜索产品文档
 SearchContent：搜索该内容
 SearchHome：搜索产品文档
+ShowTOC: 显示内容表格
 SSOLoginParamError：有一个与SSO登录参数错误
 SSOLoginTryAgain：尝试在重新登录
 SwitchLang：更改语言

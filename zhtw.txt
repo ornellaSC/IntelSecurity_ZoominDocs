@@ -117,6 +117,7 @@ HandlerUsersResetPasswordError：錯誤密碼重置
 HandlerUsersRolesUpdated：用戶角色更新
 HandlerUsersUnableToAssignUserPermissionRole：無法分配用戶權限角色
 HandlerUsersUnknownError：未知的錯誤
+HideTOC: 隱藏目錄
 ImportAddHelperProblemRunningAddHelper：問題運行addHelper
 ImportBundlesTooManyTopics NUM // @詮釋：最多＃{的表演NUM}主題可以發布。請選擇較少的主題，然後再試一次。
 ImportElasticAnalyzerError： - 注：自定義分析錯誤，請參閱日誌了解詳情。使用默認的分析儀。
@@ -144,12 +145,14 @@ ImportUsersInvalidPass：無效的密碼：選定的密碼必須至少8個字符
 LoggedInAs電子郵件@文字：登錄身份＃{EMAIL}。
 Manuals:使用手冊
 PDFPage：頁
+ProductDocumentationSplashTitle: 產品文檔
 PublishHowto：發布
 ResultsPerPage：結果每頁
 ResultsPerPageShow：每頁顯示XX
 Search:搜索產品文檔
 SearchContent：搜索該內容
 SearchHome：搜索產品文檔
+ShowTOC: 顯示內容表格
 SSOLoginParamError：有一個與SSO登錄參數錯誤
 SSOLoginTryAgain：嘗試在重新登錄
 SwitchLang：更改語言

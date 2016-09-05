@@ -117,6 +117,7 @@ HandlerUsersResetPasswordError: Erro de senha redefinir
 HandlerUsersRolesUpdated: Funções do usuário Atualizado
 HandlerUsersUnableToAssignUserPermissionRole: Não é possível atribuir função de permissão do usuário
 HandlerUsersUnknownError: Erro desconhecido
+HideTOC: Ocultar Sumário
 ImportAddHelperProblemRunningAddHelper: addHelper correndo Problema
 ImportBundlesTooManyTopics num @ Int: Um máximo de # {espectáculo num} tópicos podem ser publicados. Selecione menos tópicos e tente novamente.
 ImportElasticAnalyzerError: - Nota: erro analisador personalizado, consulte o log para obter detalhes. Usando analisador padrão.
@@ -144,12 +145,14 @@ ImportUsersInvalidPass: senha inválida: selecionado senha deve ter pelo menos 8
 LoggedInAs email @ texto: Logado como # {email}.
 Manuals: Manuais
 PDFPage: Página
+ProductDocumentationSplashTitle: Documentação do produto
 PublishHowto: Publicar
 ResultsPerPage: Resultados por página
 ResultsPerPageShow: Show xx por página
 Search: Pesquisa Documentação do produto
 SearchContent: Procurar este conteúdo
 SearchHome: Documentação Product Search
+ShowTOC: Mostrar Tabela de Conteúdos
 SSOLoginParamError: Houve um erro com parâmetros de login SSO
 SSOLoginTryAgain: Tente fazer o login novamente com
 SwitchLang: Alterar idioma

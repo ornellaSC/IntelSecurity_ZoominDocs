@@ -117,6 +117,7 @@ HandlerUsersResetPasswordError: Errore di reimpostare la password
 HandlerUsersRolesUpdated: Ruoli utente aggiornata
 HandlerUsersUnableToAssignUserPermissionRole: impossibile assegnare ruolo permesso dell'utente
 HandlerUsersUnknownError: Errore sconosciuto
+HideTOC: Hide Table of Contents
 ImportAddHelperProblemRunningAddHelper: Problema addHelper esecuzione
 ImportBundlesTooManyTopics num @ Int: Un massimo di # {spettacolo num} argomenti possono essere pubblicati. Si prega di selezionare un minor numero di argomenti e riprova.
 ImportElasticAnalyzerError: - Nota: errore di analizzatore personalizzati, consultare il login per i dettagli. Utilizzando analizzatore di default.
@@ -144,12 +145,14 @@ ImportUsersInvalidPass: Password non valida: selezionato password deve essere lu
 LoggedInAs email @ Testo: Collegato come # {email}.
 Manuali: Manuali
 PDFPage: Pagina
+ProductDocumentationSplashTitle: Documentazione del prodotto
 PublishHowto: Pubblica
 ResultsPerPage: Risultati per pagina
 ResultsPerPageShow: Mostra xx per pagina
 Ricerca: La ricerca Product Documentation
 SearchContent: Cerca questo contenuto
 SearchHome: Documentazione Ricerca Prodotto
+ShowTOC: Mostra Sommario
 SSOLoginParamError: C'è stato un errore con i parametri d'accesso SSO
 SSOLoginTryAgain: Cercate di accedere di nuovo con
 SwitchLang: Cambia lingua

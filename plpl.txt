@@ -117,6 +117,7 @@ HandlerUsersResetPasswordError: Błąd resetowania hasła
 HandlerUsersRolesUpdated: Role użytkowników Zaktualizowano
 HandlerUsersUnableToAssignUserPermissionRole: Nie można przypisać rolę uprawnień użytkownika
 HandlerUsersUnknownError: Nieznany błąd
+HideTOC: Ukryj Spis treści
 ImportAddHelperProblemRunningAddHelper: Problem z uruchomieniem addHelper
 ImportBundlesTooManyTopics num @ Int: Maksymalnie # {pokaż num} tematy mogą być publikowane. Proszę wybrać mniej tematów i spróbuj ponownie.
 ImportElasticAnalyzerError: - Uwaga: błąd Analizator klienta, zobacz zalogować aby poznać szczegóły. Korzystanie z domyślnego analizatora.
@@ -145,11 +146,13 @@ LoggedInAs email @ Tekst: Zalogowany jako # {email}.
 Manuals: Instrukcje
 PDFPage: Page
 PublishHowto: Publikowanie
+ProductDocumentationSplashTitle: Dokumentacja produktu
 Resultsperpage: Wyniki na stronie:
 ResultsPerPageShow: Pokaż na stronie xx
 Search: Wyszukiwanie Dokumentacja produktu
 SearchContent: Szukaj zawartość
 SearchHome: Dokumentacja Wyszukiwarka produktów
+ShowTOC: Pokaż spis treści
 SSOLoginParamError: Wystąpił błąd z parametrami logowania SSO
 SSOLoginTryAgain: Spróbuj ponownie zalogować się z
 SwitchLang: Zmień język

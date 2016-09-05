@@ -117,6 +117,7 @@ HandlerUsersResetPasswordError: Fel återställning lösenord
 HandlerUsersRolesUpdated: Användarroller Uppdaterad
 HandlerUsersUnableToAssignUserPermissionRole: Det går inte att tilldela användarbehörighet roll
 HandlerUsersUnknownError: Okänt fel
+HideTOC: Hide Innehållsförteckning
 ImportAddHelperProblemRunningAddHelper: Problem kör addHelper
 ImportBundlesTooManyTopics num @ Int: Maximalt # {visa num} ämnen kan publiceras. Välj färre ämnen och försök igen.
 ImportElasticAnalyzerError: - Obs: Custom analysator fel, se log för detaljer. Använda standard analysatorn.
@@ -144,12 +145,14 @@ ImportUsersInvalidPass: Ogiltigt lösenord: valda lösenord måste vara minst 8 
 LoggedInAs e @ Text: Inloggad som # {email}.
 Manuals: Handböcker
 PDFPage: Sida
+ProductDocumentationSplashTitle: produktdokumentationen
 PublishHowto: Publicera
 Resultsperpage: Resultat per sida
 ResultsPerPageShow: Visa xx per sida
 Search: Sök produktdokumentationen
 SearchContent: Sök i innehåll
 SearchHome: Sök produktdokumentationen
+ShowTOC: Visa Innehållsförteckning
 SSOLoginParamError: Det uppstod ett fel med enkel inloggning parametrar
 SSOLoginTryAgain: Försök att logga in igen i med
 SwitchLang: Ändra språk
