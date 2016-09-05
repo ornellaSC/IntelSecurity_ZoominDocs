@@ -1,0 +1,275 @@
+AdvancedSearch: Advanced Search 
+AdvancedSearchTooltip: Select content filters
+BreadcrumbsProductDocumentationHome: Product Documentation Home
+BreadcrumbsSearch: Search
+Cancel: Cancel
+Close: Close
+DeleteText: Delete
+ErrorOccured: An error occurred
+FilterUsers: Filter users:
+FoundationLoginOnly: Log on
+FoundationLoginRegister: Log on / Register
+HandlerAdminOnlyAdmin: Access denied
+HandlerBundlePageAltCSHResult: Alternate CSH Topic Found
+HandlerCategoriesCategoryXMLFileUploaded: Category XML File Uploaded
+HandlerClassificationUpdated: Classification map updated
+HandlerClassificationXMLFile: Updated Classification Map
+HandlerCommentsComments: comments
+HandlerCommentsOneComment: 1 comment
+HandlerCommentsPostedCommentOn: posted a comment on:
+HandlerContentRolesAreYouSureDelete: Are you sure you want to delete this Content Role?
+HandlerContentRolesCRDeleted: Content Role deleted
+HandlerContentRolesErrorDeleting: A problem occurred. The content role was not deleted.
+HandlerCshAlternateCSHTopicFound: Alternate CSH Topic found
+HandlerCshCSHRulesUpdated: CSH Rules Updated
+HandlerCshInvalidAliases: Invalid Alias Keys Found in CSH URL
+HandlerCshInvalidCSHRulesFile: Invalid CSH Rules file
+HandlerCshNewCshFile: Upload new CSH Config File
+HandlerCshReservedAliasesUsed: Reserved Aliases Used in CSH Config File
+HandlerCustomError400H2: 400
+HandlerCustomError400H3: Bad Request
+HandlerCustomError401H2: 401
+HandlerCustomError401H3: Unauthorized
+HandlerCustomError403H2: 403
+HandlerCustomError403H3: Forbidden
+HandlerCustomError404H2: 404
+HandlerCustomError404H3: Not Found
+HandlerCustomError405H2: 405
+HandlerCustomError405H3: Method Not Allowed
+HandlerCustomError500H2: 500
+HandlerCustomError500H3: Internal Server Error
+HandlerFontoDocumentSaved: Document saved
+HandlerFontoErrorGeneratingUUID: Error generating UUID
+HandlerFontoErrorParsingID: Error parsing ID
+HandlerFontoErrorParsingXML: Error parsing XML
+HandlerFontoErrorParsingXMLToDocument: Error Parsing XML to Document
+HandlerFontoNoFileFound: File not found
+HandlerFontoNoIDFound: ID not found
+HandlerFontoUntitledFromCursor: Untitled - from Cursor
+HandlerGroupsErrorReadingGroupID: Error reading group ID
+HandlerGroupsGroupUpdated: Group Updated
+HandlerGroupsMustUseUniqueGroupName: Must use unique group name
+HandlerGroupsNoGroupNameFound: No group name found
+HandlerGroupsUnableAssignRole: Unable to assign role
+HandlerHowtoContent: Content
+HandlerHowtoDeleted: Article deleted
+HandlerHowtoInsufficientPermissions: Insufficient permissions to edit this Article
+HandlerHowtoSaved: Saved
+HandlerHowtoTitle: Title
+HandlerHtmlEmptyMyDocs: Empty MyDocs
+HandlerLangDefaultLanguageCodeFileUpdated: Updated Default Language Code File
+HandlerLangNewLangFile: Upload New Default Language Code File
+HandlerMyPubSourcePublication: Source Publication
+HandlerProfileDisplayName: Display name
+HandlerProfileScreenName: Screen name
+HandlerProfileUpdated: Profile updated
+HandlerProfileUsernameInUse: Username exists
+HandlerRatingsInvalidRating: Invalid rating
+HandlerRatingsRatingRecorded: Your rating has been recorded
+HandlerRatingsRatingUpdated: Your rating has been updated
+HandlerRolesErrorReadingRoleID: Error reading role ID
+HandlerRolesMustUseUniqueRoleName: Use a unique role name
+HandlerRolesNoRoleNameFound: No role name found
+HandlerRolesNotEnoughAdminUsersRemaining: Unable to assign users
+HandlerRolesSelectedPermissionsLessThenDefault: Unable to assign permissions: Selected permissions are less than default permission set
+HandlerSearchAllResults: All results
+HandlerSearchNoResults: No results
+HandlerSearchOneResult: One result
+HandlerSitemapFile: Sitemap file
+HandlerSitemapFileUploaded: Updated Sitemap successfully.
+HandlerSubjectSchemeInvalidSubjectSchemeLocalizationFile: Invalid Subject Scheme Localization File
+HandlerSubjectSchemeLangDeleted lang@Text: #{lang} Deleted Localization File
+HandlerSubjectSchemeLangsAvailable: Available Languages
+HandlerSubjectSchemeLangsDeleteConfirm: Are you sure to want to delete the Localization file? 
+HandlerSubjectSchemeLangsDeleteError: Error deleting localization file.
+HandlerSubjectSchemeLangsNewFile: Upload New SubjectScheme Localization File
+HandlerSubjectSchemeLangUpdated lang@Text: #{lang} Updated Localization File
+HandlerSubjectSchemeLangUploaded lang@Text: #{lang} Uploaded Localization File 
+HandlerSubjectSchemeProblemOccurredWhileUploadingSubjectScheme: A problem occurred while uploading the Subject Scheme.
+HandlerSubjectSchemeSubjectSchemeUploadedSuccessfully: Subject scheme uploaded successfully
+HandlerSubjectSchemeUnknownLanguageCode: Unknown Language Code
+HandlerSubjectSchemeUpdated: Subject scheme updated
+HandlerSubjectSchemeXMLFile: Subject scheme XML file
+HandlerUploadBundleBundle: bundle
+HandlerUploadBundleDeleteError x@Text: Error deleting #{x}
+HandlerUploadBundleDeleteSuccess x@Text: Successfully deleted #{x}
+HandlerUploadBundleError: Error
+HandlerUploadBundleErrorPleaseUpdateSuiteBundleVersion: Error - Please update your bundle version
+HandlerUploadBundleNoContentToDelete x@Text: No content to delete in #{x} 
+HandlerUploadBundleOneBundleError: Error populating uploaded bundle
+HandlerUploadBundlePublicationUploadedSuccessfully: Publication uploaded successfully
+HandlerUploadBundleSheaf: sheaf
+HandlerUsersAddedSuccess: User successfully added
+HandlerUsersBadEmail: That email address is not registered
+HandlerUsersCRCreated: Content Role Group created
+HandlerUsersCRGroupNameInUse: Content Role name is already in use
+HandlerUsersCRSetGroupName: Please set a name for this Content Role Group
+HandlerUsersCRUpdated: Content Role Group updated
+HandlerUsersDefineCR: Define New Content Role Group
+HandlerUsersDeleteSuccess: Deleted User successfully
+HandlerUsersEmailError: Error sending password reset email
+HandlerUsersInvalidToken: Invalid Token
+HandlerUsersNoResetToken: No reset token
+HandlerUsersNoRoleIdFound: No role id found
+HandlerUsersPasswordEmailSent: Password reset email sent
+HandlerUsersRegisterSuccess: Registered User succesfully
+HandlerUsersResetPasswordError: Error resetting password
+HandlerUsersRolesUpdated: User Roles Updated
+HandlerUsersUnableToAssignUserPermissionRole: Unable to assign user permission role
+HandlerUsersUnknownError: Unknown error
+ImportAddHelperProblemRunningAddHelper: Problem running addHelper
+ImportBundlesTooManyTopics num@Int: A maximum of #{show num} topics can be published. Please select fewer topics and try again.
+ImportElasticAnalyzerError: - Note: Custom analyzer error, see log for details. Using default analyzer. 
+ImportElasticErrorRebuilding: Error rebuilding index - see log for more details.
+ImportElasticErrorUpdating: Error updating index - see log for more details.
+ImportElasticIndexRebuilt x@Text: Index successfully rebuilt #{x}
+ImportElasticIndexUpdated x@Text: Index successfully updated #{x}
+ImportElasticNoPagesFound: No Pages found in database - index reset.
+ImportElasticNoPagesInBundle: No Pages found in upload
+ImportInvalidPassword: Invalid password
+ImportRatingsOneRating: 1 Rating
+ImportRatingsRatings: Ratings
+ImportRolesPermissionDenied: Permission denied
+ImportSearchNoCategoriesUploaded: No Categories XML file Uploaded
+ImportSearchUnknownTopicLink: *** unknown topic link ***
+ImportUsersCaptchaError: Invalid reCAPTCHA 
+ImportUsersCaptchaParseError: reCAPTCHA Error
+ImportUsersEmailFieldError: No email field found.
+ImportUsersFldEmail: Email
+ImportUsersFldFirstName: First Name
+ImportUsersFldLastName: Last Name
+ImportUsersFldPassword: Password
+ImportUsersFldReenterPass: Reenter Password
+ImportUsersInvalidPass: Invalid password: selected password must be at least 8 characters including at least 1 uppercase letter, 1 lowercase letter, 1 special character, and 1 number.
+LoggedInAs email@Text: Logged in as #{email}.
+Manuals: Manuals
+PDFPage: Page
+PublishHowto: Publish
+ResultsPerPage: Results per page
+ResultsPerPageShow: Show xx per page
+Search: Search Product Documentation
+SearchContent: Search this content
+SearchHome: Search Product Documentation
+SSOLoginParamError: There was an error with SSO login parameters
+SSOLoginTryAgain: Try to login again in with
+SwitchLang: Change Language
+TemplaesBundlesTitle: Documentation Library
+TemplateAddHelperCancel: Cancel
+TemplateAddHelperSave: Save
+TemplateAddHelperSaveAndClose: Save and Close
+TemplateAddUserAddUser: Add User
+TemplateAddUserCancel: Cancel
+TemplateAddUserPasswordMessage: Password must be at least 8 characters including at least 1 uppercase letter, 1 lowercase letter, 1 special character, and 1 number.
+TemplateAdminArticleManagement: Article Management
+TemplateAdminContentRoleGroups: Content Role Groups
+TemplateAdminCSHConfigFile: Download or update CSH Configuration file
+TemplateAdminElasticReindex: Rebuild Search Index
+TemplateAdminExportComments: Export Comments
+TemplateAdminExportRatings: Export Ratings
+TemplateAdminManageManuals: Manage Manuals
+TemplateAdminManageResourceManuals: Manage Resource Packages
+TemplateAdminResourceIdCsv: Download ResourceIds Excel file
+TemplateAdminSitemap: Manage Sitemap
+TemplateAdminSubjectSchemeLocalization: Manage Subject Scheme Localization
+TemplateAdminTitle: Administration
+TemplateAdminUploadCategoryXML: Manage Category XML file
+TemplateAdminUploadCategoryXml: Upload a new Category XML file
+TemplateAdminUploadNewLangFile: Upload a new Default Languge Code file
+TemplateAdminUploadSubjectScheme: Manage Subject Scheme
+TemplateAdminUserGroups: User Groups
+TemplateAdminUserManagement: User Management
+TemplateAdminUserRoles: User Roles
+TemplateBundlePageCollapse: Collapse
+TemplateBundlePageCollapseTooltip: Collapse All Titles
+TemplateBundlePageComments: Comments
+TemplateBundlePageContents: Contents
+TemplateBundlePageExpand: Expand
+TemplateBundlePageExpandTooltip: Expand Table of Contents
+TemplateBundlePageFeedback: Feedback
+TemplateBundlePageFeedbackThankYou: Thank you! Your comments were sent. 
+TemplateBundlePageFeedbackTooltip: Submit Feedback
+TemplateBundlePageFilterTitle: Select one or more options
+TemplateBundlePageNext: Next
+TemplateBundlePageNextTopicTooltip: Go to Next Topic
+TemplateBundlePageNo: No
+TemplateBundlePagePrevious: Previous 
+TemplateBundlePagePrevTopicTooltip: Go to Previous Topic
+TemplateBundlePagePrint: Print
+TemplateBundlePagePrintTooltip: Print Topic
+TemplateBundlePagePrivacy: To protect your privacy, do not include contact information in your feedback. Review our privacy policy.
+TemplateBundlePageProvideFeedbackTooltip: Provide Feedback
+TemplateBundlePageSaveAsPDF: Save as PDF
+TemplateBundlePageSavePDFTooltip: Save as PDF
+TemplateBundlePageSaveSelectedTopic: Save selected topic
+TemplateBundlePageSaveSelectedTopicAndSubtopics: Save selected topic and subtopics
+TemplateBundlePageSeeAlso: See also
+TemplateBundlePageSend: Send
+TemplateBundlePageSendLink: Send
+TemplateBundlePageSendLinkTooltip: Send Link to Topic
+TemplateBundlePageSubmit: Submit
+TemplateBundlePageWasThisInformationHelpful: Was this information helpful?
+TemplateBundlePageYEs: Yes
+TemplateBundlesDeleteLanguage: Delete language
+TemplateBundlesDeleteManual: Delete manual
+TemplateBundlesDownload: Download bundle
+TemplateBundlesDownloadClassification: Download Classification XML
+TemplateBundlesHiddenBundle: Hidden manual
+TemplateBundlesSearchManuals: Search Manuals
+TemplateBundlesUploadClassification: Upload Classification XML
+TemplateClassificationForManual: For manual
+TemplateClassificationUploadClassificationMap: Upload Classification Map XML
+TemplateClassificationWarnReindex: NOTE: Uploading a Classification Map will cause the entire site to be re-indexed. This may take several minutes.
+TemplateContentRolesCRGroups: Content Role Groups
+TemplateContentRolesDefineNewCR: Define New Content Role
+TemplateDefaultLayoutAdministration: Administration
+TemplateDefaultLayoutArticles: Articles
+TemplateDefaultLayoutBrowseDocumentation: Browse
+TemplateDefaultLayoutDocumentation: Documentation Library
+TemplateDefaultLayoutHome: Home
+TemplateDefaultLayoutLanguages: United States - English
+TemplateDefaultLayoutLinksCareers: Careers
+TemplateDefaultLayoutLinksContactUs: Contact Us
+TemplateDefaultLayoutLinksIntelCorp: © Intel Corporation
+TemplateDefaultLayoutLinksLegalContractsandTerms: Legal Contracts and Terms
+TemplateDefaultLayoutLinksLegalNotices: Legal Notices  
+TemplateDefaultLayoutLinksSiteMap: Site Map
+TemplateDefaultLayoutLinksWebsiteFeedback: Website Feedback
+TemplateDefaultLayoutLogout: Sign out
+TemplateDefaultLayoutProfile: Profile
+TemplateDefaultLayoutVideos: Videos
+TemplateFilterCurrentPublication: Current Publication
+TemplateRequestResetPasswordEmail: Email
+TemplateRequestResetPasswordSubmit: Request Password Reset Email
+TemplateSearchCurrentPublication name@Text: Current search is limited to the '#{name}' publication
+TemplateSearchPageClearTooltip: Clear Filters
+TemplateSearchPageFirstPageTooltip: Go to First Page
+TemplateSearchPageLastPageTooltip: Go to Last Page
+TemplateSearchPageNextPageTooltip: Go to Next Page
+TemplateSearchPagePrevPageTooltip: Go to the previous page
+TemplateSearchPublicationTitle: Publication
+TemplateSearchSortbyCreatedAsc: Date Created - Ascending
+TemplateSearchSortbyCreatedDec: Date Created - Decending
+TemplateSearchSortbyScore: Score
+TemplateSearchSortbyUpdatedAsc: Date Added - Ascending
+TemplateSearchSortbyUpdatedDec: Date Added - Decending
+TemplateSearchSortbyViews: Number of Views
+TemplatesSearchPageClear: Clear
+TemplatesSearchPageCurrentResults: Results xx-yy of zzz
+TemplatesSearchPageRefilneResults: Refine Results
+TemplatesSearchPageResultUpdated: Updated
+TemplateUploadSitemapDisable: Disable sitemap
+TemplateUploadSitemapDisabled: Sitemap disabled
+TemplateUploadSitemapDisabledWord: Disabled
+TemplateUploadSitemapDownloadSitemap: Download sitemap.xml
+TemplateUploadSitemapEnable: Enable sitemap
+TemplateUploadSitemapEnabled: Sitemap enabled
+TemplateUploadSitemapEnabledWord: Enabled
+TemplateUploadSitemapLegend: Upload sitemap.xml
+TemplateUploadSitemapStatus sts@Text: Sitemap is #{sts}
+TemplTemplateBundlePageProvideFeedbackTooltip: Submit feedback
+TextPass txt@Text: #{txt}
+Upload: Upload
+UploadLink: Upload publication
+YesodAuthStormPathSSOErrorOccured: An error occured
+YesodAuthStormPathSSOLoginParamError: There was an error with SSO login parameters
+YesodAuthStormPathSSOLoginTryAgain: Try to login again in with
