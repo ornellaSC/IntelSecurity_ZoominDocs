@@ -96,7 +96,7 @@ HandlerUploadBundleDeleteSuccess x @ texte: # avec succès supprimé {x}
 HandlerUploadBundleError: Erreur
 HandlerUploadBundleErrorPleaseUpdateSuiteBundleVersion: Erreur - S'il vous plaît mettre à jour votre version bundle
 HandlerUploadBundleNoContentToDelete x @ texte: Aucun à supprimer dans # {x}
-bundle Erreur peuplement téléchargé: HandlerUploadBundleOneBundleError
+HandlerUploadBundleOneBundleError: bundle Erreur peuplement téléchargé 
 HandlerUploadBundlePublicationUploadedSuccessfully: Publication téléchargé avec succès
 HandlerUploadBundleSheaf: gerbe
 HandlerUsersAddedSuccess: Utilisateur ajouté avec succès
@@ -204,7 +204,7 @@ TemplateBundlePagePrivacy: Pour protéger votre vie privée, ne comprennent pas 
 TemplateBundlePageProvideFeedbackTooltip: Faire un commentaire
 TemplateBundlePageSaveAsPDF: Enregistrer au format PDF
 TemplateBundlePageSavePDFTooltip: Enregistrer au format PDF
-Sujet Sauf sélectionné: TemplateBundlePageSaveSelectedTopic
+TemplateBundlePageSaveSelectedTopic: Sujet Sauf sélectionné
 TemplateBundlePageSaveSelectedTopicAndSubtopics: Enregistrer choisi le sujet et sous-thèmes
 TemplateBundlePageSeeAlso: Voir aussi
 TemplateBundlePageSend: Envoyer

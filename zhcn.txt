@@ -1,4 +1,4 @@
-填写AdvancedSearch：高级搜索
+AdvancedSearch：高级搜索
 AdvancedSearchTooltip：选择的内容过滤器
 BreadcrumbsProductDocumentationHome：产品文档首页
 BreadcrumbsSearch：搜索

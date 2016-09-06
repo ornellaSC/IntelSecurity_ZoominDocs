@@ -23,7 +23,7 @@ HandlerContentRolesErrorDeleting: Un problema si è verificato. Il ruolo contenu
 HandlerCshAlternateCSHTopicFound: Alternate CSH Tema trovato
 HandlerCshCSHRulesUpdated: Regole CSH Aggiornato
 HandlerCshInvalidAliases: non validi Alias ​​chiavi trovate nella URL CSH
-file di regole non valido CSH: HandlerCshInvalidCSHRulesFile
+HandlerCshInvalidCSHRulesFile: file di regole non valido CSH
 HandlerCshNewCshFile: caricare file di nuovo CSH Config
 HandlerCshReservedAliasesUsed: riservato alias usati nel file di configurazione CSH
 HandlerCustomError400H2: 400
@@ -117,7 +117,7 @@ HandlerUsersResetPasswordError: Errore di reimpostare la password
 HandlerUsersRolesUpdated: Ruoli utente aggiornata
 HandlerUsersUnableToAssignUserPermissionRole: impossibile assegnare ruolo permesso dell'utente
 HandlerUsersUnknownError: Errore sconosciuto
-HideTOC: Hide Table of Contents
+HideTOC: Nascondi Sommario
 ImportAddHelperProblemRunningAddHelper: Problema addHelper esecuzione
 ImportBundlesTooManyTopics num @ Int: Un massimo di # {spettacolo num} argomenti possono essere pubblicati. Si prega di selezionare un minor numero di argomenti e riprova.
 ImportElasticAnalyzerError: - Nota: errore di analizzatore personalizzati, consultare il login per i dettagli. Utilizzando analizzatore di default.

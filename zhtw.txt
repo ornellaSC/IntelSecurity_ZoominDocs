@@ -16,7 +16,7 @@ HandlerClassificationUpdated：分類地圖更新
 HandlerClassificationXMLFile：更新的分類地圖
 HandlerCommentsComments：評論
 HandlerCommentsOneComment：1條評論
-HandlerCommentsPostedCommentOn：發布了評論：
+HandlerCommentsPostedCommentOn：發布了評論
 HandlerContentRolesAreYouSureDelete：您確定要刪除這個內容的角色？
 HandlerContentRolesCRDeleted：內容刪除角色
 HandlerContentRolesErrorDeleting：出現問題。內容的作用是不會被刪除。
@@ -271,7 +271,7 @@ TemplateUploadSitemapLegend：上傳sitemap.xml的
 TemplateUploadSitemapStatus STS @文字：網頁是＃{} STS
 TemplTemplateBundlePageProvideFeedbackTooltip：提交反饋
 TextPass TXT文本@：＃{} TXT
-Uplaod：上傳
+Upload：上傳
 UploadLink：上傳發布
 YesodAuthStormPathSSOErrorOccured：時出錯
 YesodAuthStormPathSSOLoginParamError：有一個與SSO登錄參數錯誤
