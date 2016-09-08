@@ -117,7 +117,7 @@ HandlerUsersResetPasswordError: Erreur mot de passe réinitialiser
 HandlerUsersRolesUpdated: Rôles de l'utilisateur Mise à jour
 HandlerUsersUnableToAssignUserPermissionRole: Impossible d'attribuer le rôle de l'autorisation de l'utilisateur
 HandlerUsersUnknownError: Erreur inconnue
-HideTOC: Hide Table des matières
+HideTOC: Masquer Table des matières
 ImportAddHelperProblemRunningAddHelper: Problème addHelper course
 ImportBundlesTooManyTopics num @ Int: Un maximum de # {spectacle num} sujets peuvent être publiés. S'il vous plaît sélectionner moins de sujets et essayez à nouveau.
 ImportElasticAnalyzerError: - Note: erreur d'analyse personnalisée, reportez-vous connecter pour plus de détails. Utilisation de l'analyseur par défaut.
@@ -152,7 +152,7 @@ ResultsPerPageShow: Show xx par page
 Search: Recherche Documentation produit
 SearchContent: Rechercher ce contenu
 SearchHome: Documentation Recherche de produit
-ShowTOC: Show Table of Contents
+ShowTOC: Afficher Table des matières
 SearchHome: Documentation Recherche de produit
 SSOLoginParamError: Il y avait une erreur avec SSO paramètres de connexion
 SSOLoginTryAgain: Essayez de vous connecter à nouveau avec
