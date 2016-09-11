@@ -1,0 +1,278 @@
+AdvancedSearch: Advanced Search
+AdvancedSearchTooltip: Selecteer inhoud filters
+BreadcrumbsProductDocumentationHome: Product Documentation Huis
+BreadcrumbsSearch: Zoeken
+Cancel: annuleren
+Close: Sluiten
+DeleteText: Delete
+ErrorOccured: Er is een fout opgetreden
+FilterUsers: gebruikers Filter:
+FoundationLoginOnly: Meld u aan
+FoundationLoginRegister: Meld u aan / Registreren
+HandlerAdminOnlyAdmin: Toegang geweigerd
+HandlerBundlePageAltCSHResult: Alternate CSH Topic Gevonden
+HandlerCategoriesCategoryXMLFileUploaded: Categorie XML File geupload
+HandlerClassificationUpdated: Classificatie update van de kaart
+HandlerClassificationXMLFile: geactualiseerd Kaart van de Classificatie
+HandlerCommentsComments: commentaar
+HandlerCommentsOneComment: 1 reactie
+HandlerCommentsPostedCommentOn: gepost een reactie:
+HandlerContentRolesAreYouSureDelete: Weet je zeker dat je dit wilt Content Role verwijderen?
+HandlerContentRolesCRDeleted: Content Rol schrappen
+HandlerContentRolesErrorDeleting: een probleem opgetreden. De inhoud rol werd niet verwijderd.
+HandlerCshAlternateCSHTopicFound: Alternate CSH Topic gevonden
+HandlerCshCSHRulesUpdated: CSH Regels Bijgewerkt
+HandlerCshInvalidAliases: Invalid Alias ​​gevonden sleutels in CSH URL
+HandlerCshInvalidCSHRulesFile: Invalid CSH Rules bestand
+HandlerCshNewCshFile: Upload nieuwe CSH Config File
+HandlerCshReservedAliasesUsed: Gereserveerde Alias ​​Gebruikt in CSH Config File
+HandlerCustomError400H2: 400
+HandlerCustomError400H3: Bad Request
+HandlerCustomError401H2: 401
+HandlerCustomError401H3: Ongeautoriseerde
+HandlerCustomError403H2: 403
+HandlerCustomError403H3: Verboden
+HandlerCustomError404H2: 404
+HandlerCustomError404H3: Not Found
+HandlerCustomError405H2: 405
+HandlerCustomError405H3: Methode niet toegestaan
+HandlerCustomError500H2: 500
+HandlerCustomError500H3: Internal Server Error
+HandlerFontoDocumentSaved: Document gered
+HandlerFontoErrorGeneratingUUID: Fout bij het genereren van UUID
+HandlerFontoErrorParsingID: Error parsing ID
+HandlerFontoErrorParsingXML: Error parsing XML
+HandlerFontoErrorParsingXMLToDocument: Fout bij parseren XML naar Document
+HandlerFontoNoFileFound: Bestand niet gevonden
+HandlerFontoNoIDFound: ID niet gevonden
+HandlerFontoUntitledFromCursor: Untitled - van Cursor
+HandlerGroupsErrorReadingGroupID: Fout leesgroep ID
+HandlerGroupsGroupUpdated: Group Bijgewerkt
+HandlerGroupsMustUseUniqueGroupName: Moet gebruiken unieke groepsnaam
+HandlerGroupsNoGroupNameFound: Geen groepsnaam gevonden
+HandlerGroupsUnableAssignRole: Kan geen rol toewijzen
+HandlerHowtoContent: Content
+HandlerHowtoDeleted: Artikel geschrapt
+HandlerHowtoInsufficientPermissions: Onvoldoende rechten om dit artikel te bewerken
+HandlerHowtoSaved: Opgeslagen
+HandlerHowtoTitle: Titel
+HandlerHtmlEmptyMyDocs: Lege MyDocs
+HandlerLangDefaultLanguageCodeFileUpdated: geactualiseerd Standaard Taal Code File
+HandlerLangNewLangFile: Upload Nieuwe standaard Taal Code File
+HandlerMyPubSourcePublication: Source Publication
+HandlerProfileDisplayName: Toon naam
+HandlerProfileScreenName: naam Screen
+HandlerProfileUpdated: profiel geüpdatet
+HandlerProfileUsernameInUse: gebruikersnaam bestaat
+HandlerRatingsInvalidRating: Ongeldige waardering
+HandlerRatingsRatingRecorded: Uw beoordeling is opgeslagen
+HandlerRatingsRatingUpdated: Uw beoordeling is bijgewerkt
+HandlerRolesErrorReadingRoleID: Fout bij het lezen rol ID
+HandlerRolesMustUseUniqueRoleName: Gebruik een unieke rol naam
+HandlerRolesNoRoleNameFound: Geen rol naam gevonden
+HandlerRolesNotEnoughAdminUsersRemaining: Kan gebruikers toewijzen
+HandlerRolesSelectedPermissionsLessThenDefault: Kan rechten toekennen: Geselecteerde permissies zijn minder dan standaard toestemming set
+HandlerSearchAllResults: alle resultaten
+HandlerSearchNoResults: Geen resultaten
+HandlerSearchOneResult: Een gevolg
+HandlerSitemapFile: Sitemap file
+HandlerSitemapFileUploaded: geactualiseerd Sitemap succes.
+HandlerSubjectSchemeInvalidSubjectSchemeLocalizationFile: Invalid Onderwerp Scheme Localization File
+HandlerSubjectSchemeLangDeleted lang@Text: #{lang} Deleted Localization File
+HandlerSubjectSchemeLangUpdated lang@Text: #{lang} geactualiseerd Localization File
+HandlerSubjectSchemeLangUploaded lang@Text: #{lang} geupload Localization File
+HandlerSubjectSchemeLangsAvailable: Beschikbare talen
+HandlerSubjectSchemeLangsDeleteConfirm: Weet je zeker te willen het Localization bestand te verwijderen?
+HandlerSubjectSchemeLangsDeleteError: Fout bij verwijderen lokalisatie bestand.
+HandlerSubjectSchemeLangsNewFile: Upload New SubjectScheme Localization File
+HandlerSubjectSchemeProblemOccurredWhileUploadingSubjectScheme: Er is een probleem opgetreden bij het uploaden van de Subject Scheme.
+HandlerSubjectSchemeSubjectSchemeUploadedSuccessfully: Onderwerp regeling geupload succes
+HandlerSubjectSchemeUnknownLanguageCode: Onbekend Taal Code
+HandlerSubjectSchemeUpdated: Subject regeling bijgewerkt
+HandlerSubjectSchemeXMLFile: Onderwerp schema XML-bestand
+HandlerUploadBundleBundle: bundel
+HandlerUploadBundleDeleteError x@Text: Fout bij het verwijderen #{x}
+HandlerUploadBundleDeleteSuccess x@Text: zijn verwijderd #{x}
+HandlerUploadBundleError: Error
+HandlerUploadBundleErrorPleaseUpdateSuiteBundleVersion: Fout - Update uw bundel versie
+HandlerUploadBundleNoContentToDelete x@Text: Geen inhoud te verwijderen in het #{x}
+HandlerUploadBundleOneBundleError: Fout bevolken geupload bundel
+HandlerUploadBundlePublicationUploadedSuccessfully: Publicatie geüpload
+HandlerUploadBundleSheaf: schoof
+HandlerUsersAddedSuccess: Gebruiker succesvol toegevoegd
+HandlerUsersBadEmail: Dit e-mailadres wordt niet geregistreerd
+HandlerUsersCRCreated: Content Role Group gecreëerd
+HandlerUsersCRGroupNameInUse: Content Rol naam is al in gebruik
+HandlerUsersCRSetGroupName: Stel een naam voor deze Content Role Group
+HandlerUsersCRUpdated: Content Role Group bijgewerkt
+HandlerUsersDefineCR: Definieer nieuwe inhoud Role Group
+HandlerUsersDeleteSuccess: verwijderde gebruiker met succes
+HandlerUsersEmailError: Fout bij het verzenden van e-mail password reset
+HandlerUsersInvalidToken: Invalid Token
+HandlerUsersNoResetToken: Geen reset token
+HandlerUsersNoRoleIdFound: Geen rol id gevonden
+HandlerUsersPasswordEmailSent: wachtwoord reset e-mail verzonden
+HandlerUsersRegisterSuccess: Registered User succesvol
+HandlerUsersResetPasswordError: Fout resetten van het wachtwoord
+HandlerUsersRolesUpdated: Gebruikersrollen Bijgewerkt
+HandlerUsersUnableToAssignUserPermissionRole: Kan gebruiker toestemming rol toewijzen
+HandlerUsersUnknownError: Onbekende fout
+HideTOC: Skjul Indholdsfortegnelse
+ImportAddHelperProblemRunningAddHelper: Problem running addHelper
+ImportBundlesTooManyTopics num@Int: Een maximum van #{show num} onderwerpen kunnen worden gepubliceerd. Selecteer minder thema's en probeer het opnieuw.
+ImportElasticAnalyzerError: - Opmerking: Custom analyzer fout, zie log voor details. Met behulp van standaard analyzer.
+ImportElasticErrorRebuilding: Fout verbouwing index - zie log voor meer details.
+ImportElasticErrorUpdating: Fout bij het bijwerken index - zie log voor meer details.
+ImportElasticIndexRebuilt x@Text: Index met succes herbouwd #{x}
+ImportElasticIndexUpdated x@Text: Index bijgewerkt #{x}
+ImportElasticNoPagesFound: Geen pagina's gevonden in de database - index reset.
+ImportElasticNoPagesInBundle: Geen pagina's gevonden in upload
+ImportInvalidPassword: Ongeldig wachtwoord
+ImportRatingsOneRating: 1 Beoordeling
+ImportRatingsRatings: Ratings
+ImportRolesPermissionDenied: Permission denied
+ImportSearchNoCategoriesUploaded: Geen Categories XML-bestand geupload
+ImportSearchUnknownTopicLink: *** onbekend onderwerp Link ***
+ImportUsersCaptchaError: Ongeldige reCAPTCHA
+ImportUsersCaptchaParseError: reCAPTCHA Error
+ImportUsersEmailFieldError: Geen e-mail veld gevonden.
+ImportUsersFldEmail: E-mail
+ImportUsersFldFirstName: Voornaam
+ImportUsersFldLastName: Achternaam
+ImportUsersFldPassword: Wachtwoord
+ImportUsersFldReenterPass: Herhaal het wachtwoord
+ImportUsersInvalidPass: Ongeldig wachtwoord: gekozen wachtwoord moet minstens 8 karakters waarvan ten minste 1 hoofdletter, 1 kleine letter, 1 speciaal karakter, en 1 nummer.
+LoggedInAs email@Text: ingelogd als #{email}.
+Manuals: Handleidingen
+PDFPage: Pagina
+ProductDocumentationSplashTitle: Dokumentation
+PublishHowto: Publiceer
+ResultsPerPage: Resultaten per pagina
+ResultsPerPageShow: Show xx per pagina
+SSOLoginParamError: Er is een fout met SSO login parameters
+SSOLoginTryAgain: Probeer opnieuw in te loggen in met
+Search: Zoek product Documentatie
+SearchContent: Zoek door deze inhoud
+SearchHome: Zoek product Documentatie
+ShowTOC: Vis Indholdsfortegnelse
+SwitchLang: Taal wijzigen
+TemplTemplateBundlePageProvideFeedbackTooltip: Feedback verzenden
+TemplaesBundlesTitle: Bibliotheek Documentatie
+TemplateAddHelperCancel: Afbreken
+TemplateAddHelperSave: Save
+TemplateAddHelperSaveAndClose: Opslaan en sluiten
+TemplateAddUserAddUser: Gebruiker toevoegen
+TemplateAddUserCancel: Afbreken
+TemplateAddUserPasswordMessage: Wachtwoord moet minimaal 8 karakters waarvan ten minste 1 hoofdletter, 1 kleine letter, 1 speciaal karakter, en 1 nummer.
+TemplateAdminArticleManagement: Artikel Beheer
+TemplateAdminCSHConfigFile: Download of bijwerken CSH Configuratiebestand
+TemplateAdminContentRoleGroups: Content Rol Groepen
+TemplateAdminElasticReindex: Rebuild zoekindex
+TemplateAdminExportComments: Reacties Export
+TemplateAdminExportRatings: Ratings Export
+TemplateAdminManageManuals: Manage Handleidingen
+TemplateAdminManageResourceManuals: Manage Resource Packages
+TemplateAdminResourceIdCsv: Download ResourceIds Excel-bestand
+TemplateAdminSitemap: Manage Sitemap
+TemplateAdminSubjectSchemeLocalization: Beheer Subject Scheme Localization
+TemplateAdminTitle: Administratie
+TemplateAdminUploadCategoryXML: Beheer Categorie XML-bestand
+TemplateAdminUploadCategoryXml: Upload een nieuwe categorie XML-bestand
+TemplateAdminUploadNewLangFile: Upload een nieuwe Standaard Languge Code bestand
+TemplateAdminUploadSubjectScheme: Manage Subject Scheme
+TemplateAdminUserGroups: User Groups
+TemplateAdminUserManagement: User Management
+TemplateAdminUserRoles: Gebruikersrollen
+TemplateBundlePageCollapse: Collapse
+TemplateBundlePageCollapseTooltip: samenvouwen Alle Titels
+TemplateBundlePageComments: Comments
+TemplateBundlePageContents: Contents
+TemplateBundlePageExpand: Expand
+TemplateBundlePageExpandTooltip: Uitbreiden Inhoudsopgave
+TemplateBundlePageFeedback: Respons
+TemplateBundlePageFeedbackThankYou: Dank je wel! Uw opmerkingen werden gestuurd.
+TemplateBundlePageFeedbackTooltip: Feedback
+TemplateBundlePageFilterTitle: Selecteer een of meer opties
+TemplateBundlePageNext: Next
+TemplateBundlePageNextTopicTooltip: Ga naar Volgend Onderwerp
+TemplateBundlePageNo: Nee
+TemplateBundlePagePrevTopicTooltip: Ga naar Vorig onderwerp
+TemplateBundlePagePrevious: Vorige
+TemplateBundlePagePrint: Print
+TemplateBundlePagePrintTooltip: Print Topic
+TemplateBundlePagePrivacy: Om uw privacy te beschermen, geen contactgegevens in uw feedback. Geef je mening over ons privacybeleid.
+TemplateBundlePageProvideFeedbackTooltip: Feedback geven
+TemplateBundlePageSaveAsPDF: Opslaan als PDF
+TemplateBundlePageSavePDFTooltip: Opslaan als PDF
+TemplateBundlePageSaveSelectedTopic: Save geselecteerde onderwerp
+TemplateBundlePageSaveSelectedTopicAndSubtopics: Save geselecteerde onderwerp en subonderwerpen
+TemplateBundlePageSeeAlso: Zie ook
+TemplateBundlePageSend: Stuur
+TemplateBundlePageSendLink: Stuur
+TemplateBundlePageSendLinkTooltip: Stuur link naar Topic
+TemplateBundlePageSubmit: Submit
+TemplateBundlePageWasThisInformationHelpful: Was deze informatie nuttig?
+TemplateBundlePageYEs: Ja
+TemplateBundlesDeleteLanguage: Delete language
+TemplateBundlesDeleteManual: handmatig verwijderen
+TemplateBundlesDownload: bundel Download
+TemplateBundlesDownloadClassification: Download Classification XML
+TemplateBundlesHiddenBundle: Verborgen manual
+TemplateBundlesSearchManuals: Zoeken Handleidingen
+TemplateBundlesUploadClassification: Upload Classification XML
+TemplateClassificationForManual: Voor handmatige
+TemplateClassificationUploadClassificationMap: Upload Kaart van de Classificatie XML
+TemplateClassificationWarnReindex: LET OP: Het uploaden van een Kaart van de Classificatie zorgt ervoor dat de hele site opnieuw worden geïndexeerd. Dit kan enkele minuten duren.
+TemplateContentRolesCRGroups: Content Rol Groepen
+TemplateContentRolesDefineNewCR: Definieer nieuwe inhoud Rol
+TemplateDefaultLayoutAdministration: Administratie
+TemplateDefaultLayoutArticles: Artikelen
+TemplateDefaultLayoutBrowseDocumentation: Browse
+TemplateDefaultLayoutDocumentation: Bibliotheek Documentatie
+TemplateDefaultLayoutHome: Home
+TemplateDefaultLayoutLanguages: Verenigde Staten - Engels
+TemplateDefaultLayoutLinksCareers: Careers
+TemplateDefaultLayoutLinksContactUs: Contact
+TemplateDefaultLayoutLinksIntelCorp: © Intel Corporation
+TemplateDefaultLayoutLinksLegalContractsandTerms: juridische contracten en voorwaarden
+TemplateDefaultLayoutLinksLegalNotices: Wettelijke bepalingen
+TemplateDefaultLayoutLinksSiteMap: Site Map
+TemplateDefaultLayoutLinksWebsiteFeedback: Website feedback
+TemplateDefaultLayoutLogout: Afmelden
+TemplateDefaultLayoutProfile: Profiel
+TemplateDefaultLayoutVideos: Video's
+TemplateFilterCurrentPublication: Actueel Publicatie
+TemplateRequestResetPasswordEmail: E-mail
+TemplateRequestResetPasswordSubmit: Request Password Reset Email
+TemplateSearchCurrentPublication name@Text: Huidige zoekopdracht is beperkt tot de '#{name}' publicatie
+TemplateSearchPageClearTooltip: Clear Filters
+TemplateSearchPageFirstPageTooltip: Ga naar de eerste pagina
+TemplateSearchPageLastPageTooltip: Ga naar de laatste pagina
+TemplateSearchPageNextPageTooltip: Ga naar volgende pagina
+TemplateSearchPagePrevPageTooltip: Ga naar de vorige pagina
+TemplateSearchPublicationTitle: Publicatie
+TemplateSearchSortbyCreatedAsc: Gemaakt - oplopend
+TemplateSearchSortbyCreatedDec: Gemaakt - Decending
+TemplateSearchSortbyScore: Score
+TemplateSearchSortbyUpdatedAsc: Datum toegevoegd - oplopend
+TemplateSearchSortbyUpdatedDec: Datum toegevoegd - Decending
+TemplateSearchSortbyViews: Aantal Views
+TemplateUploadSitemapDisable: Disable sitemap
+TemplateUploadSitemapDisabled: Sitemap uitgeschakeld
+TemplateUploadSitemapDisabledWord: met een handicap
+TemplateUploadSitemapDownloadSitemap: sitemap.xml Download
+TemplateUploadSitemapEnable: inschakelen sitemap
+TemplateUploadSitemapEnabled: Sitemap enabled
+TemplateUploadSitemapEnabledWord: Ingeschakeld
+TemplateUploadSitemapLegend: Upload sitemap.xml
+TemplateUploadSitemapStatus sts@Text: Sitemap is #{sts}
+TemplatesSearchPageClear: Clear
+TemplatesSearchPageCurrentResults: Resultaten xx-yy van zzz
+TemplatesSearchPageRefilneResults: Resultaat verfijnen
+TemplatesSearchPageResultUpdated: geactualiseerd
+TextPass txt@Text: #{txt}
+Upload: Upload
+UploadLink: Upload publicatie
+YesodAuthStormPathSSOErrorOccured: Er is een fout opgetreden
+YesodAuthStormPathSSOLoginParamError: Er is een fout met SSO login parameters
+YesodAuthStormPathSSOLoginTryAgain: Probeer opnieuw in te loggen in met
