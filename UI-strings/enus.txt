@@ -1,4 +1,4 @@
-AdvancedSearch: Advanced Search 
+﻿AdvancedSearch: Advanced Search 
 AdvancedSearchTooltip: Select content filters
 BreadcrumbsProductDocumentationHome: Product Documentation Home
 BreadcrumbsSearch: Search
@@ -275,4 +275,4 @@ Upload: Upload
 UploadLink: Upload publication
 YesodAuthStormPathSSOErrorOccured: An error occured
 YesodAuthStormPathSSOLoginParamError: There was an error with SSO login parameters
-YesodAuthStormPathSSOLoginTryAgain: Try to login again in with
+YesodAuthStormPathSSOLoginTryAgain: Please login again in with
