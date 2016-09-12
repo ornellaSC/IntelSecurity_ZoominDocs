@@ -1,0 +1,296 @@
+AdvancedSearch: Расширенный поиск
+AdvancedSearchTooltip: Выберите контент-фильтры
+BreadcrumbsProductDocumentationHome: Документация по продукции Главная
+BreadcrumbsSearch: Поиск
+
+
+Cancel: Отменить
+Close: Закрыть
+DeleteText: Удалить
+ErrorOccured: Произошла ошибка
+FilterUsers: пользователи Фильтр:
+FoundationLoginOnly: Вход в систему
+FoundationLoginRegister: Вход в систему / регистрация
+HandlerAdminOnlyAdmin: Доступ запрещен
+HandlerBundlePageAltCSHResult: Альтернативные CSH Тема Найдено
+HandlerCategoriesCategoryXMLFileUploaded: Прислал Категория XML-файла
+HandlerClassificationUpdated: Классификация карта обновляется
+HandlerClassificationXMLFile: Обновлено Классификация Карта
+HandlerCommentsComments: комментарии
+
+HandlerCommentsOneComment: 1 комментарий
+HandlerCommentsPostedCommentOn: разместил комментарий дальше:
+HandlerContentRolesAreYouSureDelete: Вы уверены, что хотите удалить этот контент роль?
+HandlerContentRolesCRDeleted: Содержание Роль удалена
+HandlerContentRolesErrorDeleting: Возникла проблема. Роль контента не был удален.
+HandlerCshAlternateCSHTopicFound: Альтернативные CSH Тема найдено
+HandlerCshCSHRulesUpdated: CSH Правила Обновлено
+HandlerCshInvalidAliases: Недействительные псевдонимов Ключи Найденное в CSH URL
+HandlerCshInvalidCSHRulesFile: Invalid CSH Правила файл
+HandlerCshNewCshFile: Загрузить новый CSH Config File
+
+HandlerCshReservedAliasesUsed: Псевдонимы Reserved используемые в CSH Config File
+
+HandlerCustomError400H2: 400
+HandlerCustomError400H3: Bad Request
+HandlerCustomError401H2: 401
+HandlerCustomError401H3: Несанкционированное
+HandlerCustomError403H2: 403
+HandlerCustomError403H3: запрещенный
+HandlerCustomError404H2: 404
+HandlerCustomError404H3: не найдены
+HandlerCustomError405H2: 405
+HandlerCustomError405H3: Method Not Allowed
+HandlerCustomError500H2: 500
+HandlerCustomError500H3: Внутренняя ошибка сервера
+
+HandlerFontoDocumentSaved: Документ сохранен
+HandlerFontoErrorGeneratingUUID: Ошибка генерирования UUID
+HandlerFontoErrorParsingID: разборе Идентификатор ошибки
+HandlerFontoErrorParsingXML: Ошибка синтаксического анализа XML
+HandlerFontoErrorParsingXMLToDocument: Ошибка синтаксического анализа XML в документе
+HandlerFontoNoFileFound: Файл не найден
+
+HandlerFontoNoIDFound: ID не найдены
+HandlerFontoUntitledFromCursor: Без названия - от курсора
+HandlerGroupsErrorReadingGroupID: Ошибка чтения идентификатора группы
+HandlerGroupsGroupUpdated: Группа Обновлено
+HandlerGroupsMustUseUniqueGroupName: Необходимо использовать уникальное имя группы
+HandlerGroupsNoGroupNameFound: имя группы не найдены
+HandlerGroupsUnableAssignRole: Невозможно присвоить роль
+HandlerHowtoContent: Содержание
+HandlerHowtoDeleted: Статья удалена
+HandlerHowtoInsufficientPermissions: Недостаточно прав для редактирования этой статьи
+HandlerHowtoSaved: Сохраненный
+
+HandlerHowtoTitle: Название
+HandlerHtmlEmptyMyDocs: Пустые MyDocs
+HandlerLangDefaultLanguageCodeFileUpdated: Обновленный Язык по умолчанию код файла
+HandlerLangNewLangFile: Загрузить Новый Язык по умолчанию Код файла
+HandlerMyPubSourcePublication: Источник публикации
+HandlerProfileDisplayName: Отображаемое имя
+HandlerProfileScreenName: Имя экрана
+HandlerProfileUpdated: Профиль обновлен
+HandlerProfileUsernameInUse: Имя пользователя существует
+HandlerRatingsInvalidRating: Invalid рейтинг
+HandlerRatingsRatingRecorded: Ваш рейтинг был записан
+HandlerRatingsRatingUpdated: Ваш рейтинг был обновлен
+HandlerRolesErrorReadingRoleID: Ошибка чтения роль ID
+HandlerRolesMustUseUniqueRoleName: Используйте уникальное имя роли
+HandlerRolesNoRoleNameFound: Нет Имя роли не найдено
+HandlerRolesNotEnoughAdminUsersRemaining: Невозможно назначить пользователей
+HandlerRolesSelectedPermissionsLessThenDefault: Невозможно назначить разрешения: Отдельные разрешения меньше набора разрешений по умолчанию
+
+HandlerSearchAllResults: Все
+HandlerSearchNoResults: Нет результатов
+HandlerSearchOneResult: Одним из результатов
+HandlerSitemapFile: Карта сайта файл
+HandlerSitemapFileUploaded: Обновленный Sitemap успешно.
+HandlerSubjectSchemeInvalidSubjectSchemeLocalizationFile: Invalid Тема Схема локализации файла
+
+
+HandlerSubjectSchemeLangDeleted lang@Text:  #{lang} языки Удаляется Локализация файла
+HandlerSubjectSchemeLangUpdated lang@Text:  #{lang} Обновление языки Локализация файла
+HandlerSubjectSchemeLangUploaded lang@Text: #{lang} Ланг Прислал Локализация файла
+HandlerSubjectSchemeLangsAvailable: Доступные Языки
+HandlerSubjectSchemeLangsDeleteConfirm: Вы уверены, что хотите удалить файл локализации?
+HandlerSubjectSchemeLangsDeleteError: Ошибка при удалении файла локализации.
+HandlerSubjectSchemeLangsNewFile: Загрузить New SubjectScheme Локализация файла
+HandlerSubjectSchemeProblemOccurredWhileUploadingSubjectScheme: Возникла проблема при загрузке схемы субъекта.
+HandlerSubjectSchemeSubjectSchemeUploadedSuccessfully: Тема схема успешно загружен
+HandlerSubjectSchemeUnknownLanguageCode: неизвестно Код языка
+HandlerSubjectSchemeUpdated: Тема схема обновлена
+HandlerSubjectSchemeXMLFile: Тема Схема файла XML
+HandlerUploadBundleBundle: расслоение
+
+HandlerUploadBundleDeleteError x@Text: Ошибка при удалении #{x}
+HandlerUploadBundleDeleteSuccess x@Text:  #{x} успешно удален
+HandlerUploadBundleError: Ошибка
+HandlerUploadBundleErrorPleaseUpdateSuiteBundleVersion: Ошибка - Необходимо обновить версию пакет
+HandlerUploadBundleNoContentToDelete x@Text: Нет содержания для удаления в #{x}
+HandlerUploadBundleOneBundleError: заселение Ошибка загрузил пакет
+HandlerUploadBundlePublicationUploadedSuccessfully: Публикация успешно загружен
+HandlerUploadBundleSheaf: пучок
+
+HandlerUsersAddedSuccess: Пользователь успешно добавлен
+HandlerUsersBadEmail: Этот адрес электронной почты не зарегистрирован
+HandlerUsersCRCreated: Содержание группы ролей создано
+HandlerUsersCRGroupNameInUse: Содержание Имя роли уже используется
+HandlerUsersCRSetGroupName: Пожалуйста, установите имя для этого содержимого группы ролей
+HandlerUsersCRUpdated: Содержание группы ролей обновлен
+HandlerUsersDefineCR: Определить новый контент группы ролей
+HandlerUsersDeleteSuccess: Удаленный пользователь успешно
+HandlerUsersEmailError: Ошибка при отправке электронной почты сброса пароля
+
+HandlerUsersInvalidToken: Invalid Токен
+HandlerUsersNoResetToken: Нет сброса маркера
+HandlerUsersNoRoleIdFound: Нет Идентификатор роли не найдено
+
+HandlerUsersPasswordEmailSent: Восстановление пароля электронной почты было отправлено
+HandlerUsersRegisterSuccess: Зарегистрированный пользователь успешно
+HandlerUsersResetPasswordError: Ошибка сброса пароля
+HandlerUsersRolesUpdated: Роли пользователей Обновлено
+
+HandlerUsersUnableToAssignUserPermissionRole: Невозможно назначить разрешения роли пользователя
+HandlerUsersUnknownError: неизвестная ошибка
+HideTOC: Скрыть Оглавление
+
+ImportAddHelperProblemRunningAddHelper: Проблема запуска addHelper
+ImportBundlesTooManyTopics num@Int: Максимум #{show num} темы могут быть опубликованы. Выберите меньшее количество тем и повторите попытку.
+ImportElasticAnalyzerError: - Примечание: Ошибка пользовательского анализатора, см подробности в журнале. Использование анализатора по умолчанию.
+ImportElasticErrorRebuilding: перестраивает индекс ошибки - см журнал для получения более подробной информации.
+ImportElasticErrorUpdating: Индекс Ошибка обновления - см журнал для получения более подробной информации.
+ImportElasticIndexRebuilt x@Text: индекс успешно восстановлен #{x}
+ImportElasticIndexUpdated x@Text: Индекс успешно обновлен #{x}
+
+ImportElasticNoPagesFound: Нет Страницы найден в базе данных - сброс индекса.
+ImportElasticNoPagesInBundle: Нет Страницы, найденные в загрузке
+ImportInvalidPassword: Неверный пароль
+ImportRatingsOneRating: 1 Рейтинг
+ImportRatingsRatings: Рейтинги
+ImportRolesPermissionDenied: Отказано
+ImportSearchNoCategoriesUploaded: Нет Категории XML файла Загружено
+ImportSearchUnknownTopicLink: *** неизвестная тема ссылка ***
+ImportUsersCaptchaError: Invalid рекапчи
+ImportUsersCaptchaParseError: рекапчи Ошибка
+ImportUsersEmailFieldError: Нет поле электронной почты найдено.
+ImportUsersFldEmail: Email
+ImportUsersFldFirstName: Имя
+ImportUsersFldLastName: Фамилия
+ImportUsersFldPassword: Пароль
+ImportUsersFldReenterPass: Reenter Пароль
+ImportUsersInvalidPass: Неверный пароль: выбранный пароль должен быть не менее 8 символов, включая по меньшей мере, 1 прописной буквы, 1 строчной буквы, 1 специальный символ, и 1 числа.
+LoggedInAs email@Text: Вы вошли как #{email} электронной почты.
+Manuals: Руководства
+PDFPage: Страница
+ProductDocumentationSplashTitle: Документация по продукту
+PublishHowto: Опубликовать
+ResultsPerPage: Результатов на странице:
+ResultsPerPageShow: Показать на странице хх
+SSOLoginParamError: Был ошибка с параметрами входа в SSO
+SSOLoginTryAgain: Попробуйте снова войти в систему с
+Search: Поиск Документация по продукту
+SearchContent: Поиск этого контента
+SearchHome: Документация Поиск по продукции
+ShowTOC: Показать Содержание
+SwitchLang: Изменить язык
+TemplTemplateBundlePageProvideFeedbackTooltip: Отправить отзыв
+TemplaesBundlesTitle: Библиотека документации
+TemplateAddHelperCancel: Отменить
+TemplateAddHelperSave: Сохранить
+TemplateAddHelperSaveAndClose: Сохранить и закрыть
+TemplateAddUserAddUser: Добавить пользователя
+TemplateAddUserCancel: Отменить
+TemplateAddUserPasswordMessage: Пароль должен быть не менее 8 символов, включая по меньшей мере, 1 прописной буквы, 1 строчной буквы, 1 специальный символ, и 1 числа.
+TemplateAdminArticleManagement: Управление Статья
+TemplateAdminCSHConfigFile: Скачать или обновить CSH файл конфигурации
+TemplateAdminContentRoleGroups: Содержание групп ролей
+TemplateAdminElasticReindex: Rebuild Search Index
+TemplateAdminExportComments: Экспорт Комментарии
+TemplateAdminExportRatings: Экспорт рейтинги
+TemplateAdminManageManuals: Управление Руководства
+TemplateAdminManageResourceManuals: Управление пакетами ресурсов
+TemplateAdminResourceIdCsv: Скачать файл ResourceIds Excel
+TemplateAdminSitemap: Управление Sitemap
+TemplateAdminSubjectSchemeLocalization: Управление Тема Схема Локализация
+TemplateAdminTitle: Администрация
+TemplateAdminUploadCategoryXML: Управление XML-файл Категория
+TemplateAdminUploadCategoryXml: Загрузить новый файл XML Категория
+TemplateAdminUploadNewLangFile: Загрузить новый файл по умолчанию Languge код
+TemplateAdminUploadSubjectScheme: Управление Subject Scheme
+TemplateAdminUserGroups: Группы пользователей
+TemplateAdminUserManagement: Управление пользователями
+TemplateAdminUserRoles: Роли пользователей
+TemplateBundlePageCollapse: Collapse
+TemplateBundlePageCollapseTooltip: Свернуть все названия
+TemplateBundlePageComments: Комментарии
+TemplateBundlePageContents: Содержание
+TemplateBundlePageExpand: Expand
+TemplateBundlePageExpandTooltip: Expand Содержание
+TemplateBundlePageFeedback: Обратная связь
+TemplateBundlePageFeedbackThankYou: Спасибо! Ваши комментарии были отправлены.
+TemplateBundlePageFeedbackTooltip: Оставить отзыв
+TemplateBundlePageFilterTitle: Выберите один или несколько параметров
+TemplateBundlePageNext: Следующий
+TemplateBundlePageNextTopicTooltip: Перейти к Следующая тема
+TemplateBundlePageNo: Нет
+TemplateBundlePagePrevTopicTooltip: Перейти к предыдущей теме
+TemplateBundlePagePrevious: Предыдущая
+TemplateBundlePagePrint: Печать
+TemplateBundlePagePrintTooltip: Печать темы
+TemplateBundlePagePrivacy: Чтобы защитить вашу частную жизнь, не включают в себя контактную информацию в вашей обратной связи. Ознакомьтесь с нашей политикой конфиденциальности.
+TemplateBundlePageProvideFeedbackTooltip: ваше мнение
+TemplateBundlePageSaveAsPDF: Сохранить как PDF
+TemplateBundlePageSavePDFTooltip: Сохранить как PDF
+TemplateBundlePageSaveSelectedTopic: Сохранить выбранная тема
+TemplateBundlePageSaveSelectedTopicAndSubtopics: Сохранить выбранную тему и подтемы
+TemplateBundlePageSeeAlso: Смотрите также
+TemplateBundlePageSend: Отправить
+TemplateBundlePageSendLink: Отправить
+TemplateBundlePageSendLinkTooltip: Отправить ссылку на сообщение
+TemplateBundlePageSubmit: Отправить
+TemplateBundlePageWasThisInformationHelpful: Полезна ли эта информация?
+TemplateBundlePageYEs: Да
+TemplateBundlesDeleteLanguage: Удалить язык
+TemplateBundlesDeleteManual: Удалить инструкцию
+TemplateBundlesDownload: Скачать пакет
+TemplateBundlesDownloadClassification: Загрузить Классификация XML
+TemplateBundlesHiddenBundle: Скрытый ручной
+TemplateBundlesSearchManuals: Поиск Руководства
+TemplateBundlesUploadClassification: Загрузить Классификация XML
+TemplateClassificationForManual: Для руководства
+TemplateClassificationUploadClassificationMap: Загрузить Классификация XML Карта
+TemplateClassificationWarnReindex: Примечание: Загрузка классификации Map заставит весь сайт будет повторно индексироваться. Это займет несколько минут.
+TemplateContentRolesCRGroups: Содержание групп ролей
+TemplateContentRolesDefineNewCR: Определить роль новых публикаций
+TemplateDefaultLayoutAdministration: Администрация
+TemplateDefaultLayoutArticles: Статьи
+TemplateDefaultLayoutBrowseDocumentation: Обзор
+TemplateDefaultLayoutDocumentation: Библиотека документации
+TemplateDefaultLayoutHome: Главная
+TemplateDefaultLayoutLanguages: United States - English
+TemplateDefaultLayoutLinksCareers: Карьера
+TemplateDefaultLayoutLinksContactUs: Обратная связь
+TemplateDefaultLayoutLinksIntelCorp: © Корпорация Intel
+TemplateDefaultLayoutLinksLegalContractsandTerms: Юридические контракты и условия
+TemplateDefaultLayoutLinksLegalNotices: Юридическая информация
+TemplateDefaultLayoutLinksSiteMap: Карта сайта
+TemplateDefaultLayoutLinksWebsiteFeedback: Веб-сайт Обратная связь
+TemplateDefaultLayoutLogout: Выйти
+TemplateDefaultLayoutProfile: Профиль
+TemplateDefaultLayoutVideos: Видео
+TemplateFilterCurrentPublication: Текущая публикация
+TemplateRequestResetPasswordEmail: Email
+TemplateRequestResetPasswordSubmit: Запрос сброса пароля E-mail
+TemplateSearchCurrentPublication name@Text: Текущий поиск ограничивается "#{name}" публикации
+TemplateSearchPageClearTooltip: Очистить фильтры
+TemplateSearchPageFirstPageTooltip: на первую страницу
+TemplateSearchPageLastPageTooltip: Перейти к последней страницы
+TemplateSearchPageNextPageTooltip: Переход на следующую страницу
+TemplateSearchPagePrevPageTooltip: Перейти на предыдущую страницу
+TemplateSearchPublicationTitle: Публикация
+TemplateSearchSortbyCreatedAsc: Дата создания - по возрастанию
+TemplateSearchSortbyCreatedDec: Дата создания - По убыванию
+TemplateSearchSortbyScore: Оценка
+TemplateSearchSortbyUpdatedAsc: Дата добавления - по возрастанию
+TemplateSearchSortbyUpdatedDec: Дата добавления - По убыванию
+TemplateSearchSortbyViews: Число просмотров
+TemplateUploadSitemapDisable: Отключить карта сайта
+TemplateUploadSitemapDisabled: Карта сайта отключена
+TemplateUploadSitemapDisabledWord: Отключено
+TemplateUploadSitemapDownloadSitemap: Скачать sitemap.xml
+TemplateUploadSitemapEnable: Включить карту сайта
+TemplateUploadSitemapEnabled: включен Карта сайта
+TemplateUploadSitemapEnabledWord: Enabled
+TemplateUploadSitemapLegend: Загрузить sitemap.xml
+TemplateUploadSitemapStatus sts@Text: Карта сайта является #{sts}
+TemplatesSearchPageClear: Очистить
+TemplatesSearchPageCurrentResults: Результаты хх-уу ZZZ
+TemplatesSearchPageRefilneResults: Уточнить результаты
+TemplatesSearchPageResultUpdated: Обновлено
+TextPass txt@Text: #{txt}
+Upload: Загрузить
+UploadLink: Загрузить публикацию
+YesodAuthStormPathSSOErrorOccured: Произошла ошибка
+YesodAuthStormPathSSOLoginParamError: Был ошибка с параметрами входа в SSO
+YesodAuthStormPathSSOLoginTryAgain: Попробуйте снова войти в систему с
