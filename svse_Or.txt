@@ -1,0 +1,279 @@
+AdvancedSearch: Avancerad sökning
+AdvancedSearchTooltip: Välj innehållsfilter
+BreadcrumbsProductDocumentationHome: produktdokumentation Hem
+BreadcrumbsSearch: Sök
+Cancel: Annullera
+Close: Stäng
+DeleteText: Ta bort
+ErrorOccured: Ett fel uppstod
+FilterUsers: Filter användare:
+FoundationLoginOnly: Logga in
+FoundationLoginRegister: Logga in / Registrera
+HandlerAdminOnlyAdmin: Åtkomst nekad
+HandlerBundlePageAltCSHResult: Alternate CSH ämne funnet
+HandlerCategoriesCategoryXMLFileUploaded: Kategori XML-fil Uppladdad
+HandlerClassificationUpdated: Klassificering karta uppdateras
+HandlerClassificationXMLFile: Uppdaterad Klassificering Karta
+HandlerCommentsComments: kommentarer
+HandlerCommentsOneComment: 1 kommentar
+HandlerCommentsPostedCommentOn: skrivit kommenterar:
+HandlerContentRolesAreYouSureDelete: Är du säker på att du vill ta bort detta innehåll roll?
+HandlerContentRolesCRDeleted: Innehåll Roll bort
+HandlerContentRolesErrorDeleting: Ett problem uppstod. Innehållet roll togs inte bort.
+HandlerCshAlternateCSHTopicFound: Alternate CSH ämne hittades
+HandlerCshCSHRulesUpdated: CSH Rules Uppdaterad
+HandlerCshInvalidAliases: Ogiltiga Alias ​​Keys Funna i CSH URL
+HandlerCshInvalidCSHRulesFile: Ogiltig CSH Regler fil
+HandlerCshNewCshFile: Ladda upp ett nytt CSH konfigurationsfil
+HandlerCshReservedAliasesUsed: reserverade alias används i CSH konfigurationsfil
+HandlerCustomError400H2: 400
+HandlerCustomError400H3: Bad Request
+HandlerCustomError401H2: 401
+HandlerCustomError401H3: Obehörig
+HandlerCustomError403H2: 403
+HandlerCustomError403H3: Förbjuden
+HandlerCustomError404H2: 404
+HandlerCustomError404H3: Not Found
+HandlerCustomError405H2: 405
+HandlerCustomError405H3: Metod inte tillåten
+HandlerCustomError500H2: 500
+HandlerCustomError500H3: Internal Server Error
+HandlerFontoDocumentSaved: Dokument sparade
+HandlerFontoErrorGeneratingUUID: Fel genere UUID
+HandlerFontoErrorParsingID: Fel tolkning ID
+HandlerFontoErrorParsingXML: Fel tolkning XML
+HandlerFontoErrorParsingXMLToDocument: Fel Analysera XML till dokument
+HandlerFontoNoFileFound: Fil hittades inte
+HandlerFontoNoIDFound: ID hittades inte
+HandlerFontoUntitledFromCursor: Untitled - från Markör
+HandlerGroupsErrorReadingGroupID: Fel vid läsning grupp-ID
+HandlerGroupsGroupUpdated: Uppdaterat
+HandlerGroupsMustUseUniqueGroupName: Måste använda unikt gruppnamn
+HandlerGroupsNoGroupNameFound: Ingen gruppnamnet hittades
+HandlerGroupsUnableAssignRole: Det går inte att tilldela roll
+HandlerHowtoContent: Innehåll
+HandlerHowtoDeleted: Artikeln utgår
+HandlerHowtoInsufficientPermissions: Otillräcklig behörighet att redigera denna artikel
+HandlerHowtoSaved: Spara
+HandlerHowtoTitle: Titel
+HandlerHtmlEmptyMyDocs: Tomma MyDocs
+HandlerLangDefaultLanguageCodeFileUpdated: Uppdaterad Standardspråk kodfil
+HandlerLangNewLangFile: Ladda upp nytt Standardspråk kodfil
+HandlerMyPubSourcePublication: Source Publikation
+HandlerProfileDisplayName: Visningsnamn
+HandlerProfileScreenName: Signaturen
+HandlerProfileUpdated: Profil uppdaterad
+HandlerProfileUsernameInUse: Användarnamn existerar
+HandlerRatingsInvalidRating: Ogiltigt Betyg
+HandlerRatingsRatingRecorded: Ditt betyg har registrerats
+HandlerRatingsRatingUpdated: Ditt betyg har uppdaterats
+HandlerRolesErrorReadingRoleID: Fel vid läsning roll ID
+HandlerRolesMustUseUniqueRoleName: Använd en unik roll namn
+HandlerRolesNoRoleNameFound: Ingen roll namn hittades
+HandlerRolesNotEnoughAdminUsersRemaining: Det går inte att tilldela användare
+HandlerRolesSelectedPermissionsLessThenDefault: Det går inte att tilldela behörigheter: Selected behörigheter är mindre än standard tillstånd set
+HandlerSearchAllResults: Alla resultat
+HandlerSearchNoResults: Inga resultat
+HandlerSearchOneResult: Ett resultat
+HandlerSitemapFile: webbplatskartfil
+HandlerSitemapFileUploaded: Uppdaterad Översikt framgångsrikt.
+HandlerSubjectSchemeInvalidSubjectSchemeLocalizationFile: Ogiltigt Ämne Schema lokaliseringsfil
+HandlerSubjectSchemeLangDeleted lang@Text: #{lang} Bort Lokalisering Arkiv
+HandlerSubjectSchemeLangUpdated lang@Text: #{lang} Uppdaterad Lokalisering Arkiv
+HandlerSubjectSchemeLangUploaded lang@Text: #{lang} Uppladdade Lokalisering Arkiv
+HandlerSubjectSchemeLangsAvailable: Tillgängliga språk
+HandlerSubjectSchemeLangsDeleteConfirm: Är du säker på att vill ta bort Lokalisering fil?
+HandlerSubjectSchemeLangsDeleteError: Fel vid borttagning lokalisering fil.
+HandlerSubjectSchemeLangsNewFile: Ladda upp nytt SubjectScheme Lokalisering fil
+HandlerSubjectSchemeProblemOccurredWhileUploadingSubjectScheme: Ett problem uppstod när ämnesschema.
+HandlerSubjectSchemeSubjectSchemeUploadedSuccessfully: Angående system förts
+HandlerSubjectSchemeUnknownLanguageCode: okänd språkkod
+HandlerSubjectSchemeUpdated: Angående system uppdateras
+HandlerSubjectSchemeXMLFile: Angående system XML-fil
+HandlerUploadBundleBundle: bunt
+HandlerUploadBundleDeleteError x@Text: Fel vid radering #{x}
+HandlerUploadBundleDeleteSuccess x@Text: tagits bort #{x}
+HandlerUploadBundleError: Fel
+HandlerUploadBundleErrorPleaseUpdateSuiteBundleVersion: Fel - Uppdatera din bunt version
+HandlerUploadBundleNoContentToDelete x@Text: Inget innehåll att ta bort i #{x}
+HandlerUploadBundleOneBundleError: Fel befolka uppladdade bunt
+HandlerUploadBundlePublicationUploadedSuccessfully: Offentliggörande förts
+HandlerUploadBundleSheaf: kärve
+HandlerUsersAddedSuccess: Användaren har lagts
+HandlerUsersBadEmail: E-postadressen är inte registrerad
+HandlerUsersCRCreated: Innehåll Roll Grupp skapad
+HandlerUsersCRGroupNameInUse: Innehåll Roll namn används redan
+HandlerUsersCRSetGroupName: Vänligen ange ett namn för denna innehålls Roll Group
+HandlerUsersCRUpdated: Innehåll Roll Group uppdaterad
+HandlerUsersDefineCR: Definiera nytt innehåll Roll Group
+HandlerUsersDeleteSuccess: borttagna användaren framgångsrikt
+HandlerUsersEmailError: Fel att skicka återställning av lösenord
+HandlerUsersInvalidToken: Ogiltigt Token
+HandlerUsersNoResetToken: Ingen reset token
+HandlerUsersNoRoleIdFound: Ingen roll id hittades
+HandlerUsersPasswordEmailSent: återställning av lösenord skickas
+HandlerUsersRegisterSuccess: Registered User framgångsrikt
+HandlerUsersResetPasswordError: Fel återställning lösenord
+HandlerUsersRolesUpdated: Användarroller Uppdaterad
+HandlerUsersUnableToAssignUserPermissionRole: Det går inte att tilldela användarbehörighet roll
+HandlerUsersUnknownError: Okänt fel
+HideTOC: Hide Innehållsförteckning
+ImportAddHelperProblemRunningAddHelper: Problem kör addHelper
+ImportBundlesTooManyTopics num@Int: Maximalt #{show num} ämnen kan publiceras. Välj färre ämnen och försök igen.
+ImportElasticAnalyzerError: - Obs: Custom analysator fel, se log för detaljer. Använda standard analysatorn.
+ImportElasticErrorRebuilding: Fel ombyggnad index - se log för mer information.
+ImportElasticErrorUpdating: Fel vid uppdatering av index - se log för mer information.
+ImportElasticIndexRebuilt x@Text: Index framgångsrikt ombyggd #{x}
+ImportElasticIndexUpdated x@Text: Index har uppdaterats #{x}
+ImportElasticNoPagesFound: Inga sidor som finns i databasen - index återställs.
+ImportElasticNoPagesInBundle: Inga sidor som finns i uppladdning
+ImportInvalidPassword: Ogiltigt lösenord
+ImportRatingsOneRating: 1 Betyg
+ImportRatingsRatings: Betyg
+ImportRolesPermissionDenied: Åtkomst nekad
+ImportSearchNoCategoriesUploaded: Inga kategorier XML-fil Uppladdade
+ImportSearchUnknownTopicLink: *** okänt ämne länk ***
+ImportUsersCaptchaError: Ogiltigt reCAPTCHA
+ImportUsersCaptchaParseError: reCAPTCHA Fel
+ImportUsersEmailFieldError: Ingen e-postfältet hittades.
+ImportUsersFldEmail: E
+ImportUsersFldFirstName: Förnamn
+ImportUsersFldLastName: Efternamn
+ImportUsersFldPassword: Lösenord
+ImportUsersFldReenterPass: Ange lösenord igen
+ImportUsersInvalidPass: Ogiltigt lösenord: valda lösenord måste vara minst 8 tecken varav minst en stor bokstav, en liten bokstav, en speciell karaktär, och ett nummer.
+LoggedInAs email@Text: Inloggad som #{email}.
+Manuals: Handböcker
+PDFPage: Sida
+ProductDocumentationSplashTitle: produktdokumentationen
+PublishHowto: Publicera
+ResultsPerPageShow: Visa xx per sida
+ResultsPerPage: Resultat per sida
+SSOLoginParamError: Det uppstod ett fel med enkel inloggning parametrar
+SSOLoginTryAgain: Försök att logga in igen i med
+Search: Sök produktdokumentationen
+SearchContent: Sök i innehåll
+SearchHome: Sök produktdokumentationen
+ShowTOC: Visa Innehållsförteckning
+
+SwitchLang: Ändra språk
+TemplTemplateBundlePageProvideFeedbackTooltip: Skicka feedback
+TemplaesBundlesTitle: n Documentation Library
+TemplateAddHelperCancel: Avbryt
+TemplateAddHelperSave: Spara
+TemplateAddHelperSaveAndClose: Spara och stäng
+TemplateAddUserAddUser: Lägg till användare
+TemplateAddUserCancel: Avbryt
+TemplateAddUserPasswordMessage: Lösenord måste vara minst 8 tecken varav minst en stor bokstav, en liten bokstav, en speciell karaktär, och ett nummer.
+TemplateAdminArticleManagement: Artikel Hantering
+TemplateAdminCSHConfigFile: Ladda ner och uppdatera CSH konfigurationsfil
+TemplateAdminContentRoleGroups: Innehåll Role Grupper
+TemplateAdminElasticReindex: Bygg sökindex
+TemplateAdminExportComments: Export Kommentarer
+TemplateAdminExportRatings: Export betyg
+TemplateAdminManageManuals: Hantera Handböcker
+TemplateAdminManageResourceManuals: hantera resursPaket
+TemplateAdminResourceIdCsv: Hämta ResourceIds Excel-fil
+TemplateAdminSitemap: Hantera Översikt
+TemplateAdminSubjectSchemeLocalization: Hantera Ämnes Scheme Lokalisering
+TemplateAdminTitle: Administration
+TemplateAdminUploadCategoryXML: Hantera Kategori XML-fil
+TemplateAdminUploadCategoryXml: Ladda upp en ny kategori XML-fil
+TemplateAdminUploadNewLangFile: Ladda upp en ny standard languge kod fil
+TemplateAdminUploadSubjectScheme: Hantera Ämnes Scheme
+TemplateAdminUserGroups: Användargrupper
+TemplateAdminUserManagement: Användarhantering
+TemplateAdminUserRoles: Användarroller
+TemplateBundlePageCollapse: Minimera
+TemplateBundlePageCollapseTooltip: Komprimera alla titlar
+TemplateBundlePageComments: Kommentarer
+TemplateBundlePageContents: Innehåll
+TemplateBundlePageExpand: Utöka
+TemplateBundlePageExpandTooltip: Utöka Innehållsförteckning
+TemplateBundlePageFeedback: Feedback
+TemplateBundlePageFeedbackThankYou: Tack! Dina synpunkter sändes.
+TemplateBundlePageFeedbackTooltip: Skicka feedback
+TemplateBundlePageFilterTitle: Välj ett eller flera alternativ
+TemplateBundlePageNext: Nästa
+TemplateBundlePageNextTopicTooltip: Gå till nästa ämne
+TemplateBundlePageNo: Nej
+TemplateBundlePagePrevTopicTooltip: Gå till föregående ämne
+TemplateBundlePagePrevious: Föregående
+TemplateBundlePagePrint: Print
+TemplateBundlePagePrintTooltip: Skriv ut ämne
+TemplateBundlePagePrivacy: För att skydda din integritet, uppge ingen kontakt information i denna utvärdering. Gå igenom vår sekretesspolicy.
+TemplateBundlePageProvideFeedbackTooltip: Ge feedback
+TemplateBundlePageSaveAsPDF: Spara som PDF
+TemplateBundlePageSavePDFTooltip: Spara som PDF
+TemplateBundlePageSaveSelectedTopic: Spara valt ämne
+TemplateBundlePageSaveSelectedTopicAndSubtopics: Spara valt ämne och delämnen
+TemplateBundlePageSeeAlso: Se även
+TemplateBundlePageSend: Skicka
+TemplateBundlePageSendLink: Skicka
+TemplateBundlePageSendLinkTooltip: Skicka länk till ämnet
+TemplateBundlePageSubmit: Skicka
+TemplateBundlePageWasThisInformationHelpful: Var den här informationen till hjälp?
+TemplateBundlePageYEs: Ja
+TemplateBundlesDeleteLanguage: Ta bort språk
+TemplateBundlesDeleteManual: Ta bort manuell
+TemplateBundlesDownload: Hämta bunt
+TemplateBundlesDownloadClassification: Hämta Klassificering XML
+TemplateBundlesHiddenBundle: Dold manuell
+TemplateBundlesSearchManuals: Sök Handböcker
+TemplateBundlesUploadClassification: Ladda Klassificering XML
+TemplateClassificationForManual: För manuell
+TemplateClassificationUploadClassificationMap: Ladda Klassificering Map XML
+TemplateClassificationWarnReindex: OBS: Lägga upp en klassificering Karta kommer att orsaka hela webbplatsen att åter indexeras. Det här kan ta flera minuter.
+TemplateContentRolesCRGroups: Innehåll Role Grupper
+TemplateContentRolesDefineNewCR: Definiera nytt innehåll Roll
+TemplateDefaultLayoutAdministration: Administration
+TemplateDefaultLayoutArticles: Artiklar
+TemplateDefaultLayoutBrowseDocumentation: Bläddra
+TemplateDefaultLayoutDocumentation: n Documentation Library
+TemplateDefaultLayoutHome: Home
+TemplateDefaultLayoutLanguages: United States - English
+TemplateDefaultLayoutLinksCareers: Karriär
+TemplateDefaultLayoutLinksContactUs: Kontakta oss
+TemplateDefaultLayoutLinksIntelCorp: © Intel Corporation
+TemplateDefaultLayoutLinksLegalContractsandTerms: juridiska avtal och villkor
+TemplateDefaultLayoutLinksLegalNotices: Juridisk information
+TemplateDefaultLayoutLinksSiteMap: Översikt
+TemplateDefaultLayoutLinksWebsiteFeedback: Website Feedback
+TemplateDefaultLayoutLogout: Logga ut
+TemplateDefaultLayoutProfile: Profil
+TemplateDefaultLayoutVideos: Video
+TemplateFilterCurrentPublication: Aktuell Publikation
+TemplateRequestResetPasswordEmail: E
+TemplateRequestResetPasswordSubmit: Begär återställning av lösenord
+TemplateSearchCurrentPublication name@Text: Aktuell sökning är begränsad till "#{name}" publikation
+TemplateSearchPageClearTooltip: Clear Filters
+TemplateSearchPageFirstPageTooltip: Gå till första sidan
+TemplateSearchPageLastPageTooltip: Gå till sista sidan
+TemplateSearchPageNextPageTooltip: Gå till nästa sida
+TemplateSearchPagePrevPageTooltip: Gå till föregående sida
+TemplateSearchPublicationTitle: Offentliggörande
+TemplateSearchSortbyCreatedAsc: Datum skapad - Stigande
+TemplateSearchSortbyCreatedDec: Datum skapad - decending
+TemplateSearchSortbyScore: Score
+TemplateSearchSortbyUpdatedAsc: Datum - Stigande
+TemplateSearchSortbyUpdatedDec: Datum - decending
+TemplateSearchSortbyViews: Antal visningar
+TemplateUploadSitemapDisable: Inaktivera sitemap
+TemplateUploadSitemapDisabled: Översikt inaktiverad
+TemplateUploadSitemapDisabledWord: Disabled
+TemplateUploadSitemapDownloadSitemap: Hämta sitemap.xml
+TemplateUploadSitemapEnable: Aktivera sitemap
+TemplateUploadSitemapEnabled: Översikt aktiverad
+TemplateUploadSitemapEnabledWord: Aktiverad
+TemplateUploadSitemapLegend: Ladda sitemap.xml
+TemplateUploadSitemapStatus sts@Text: Översikt är #{sts}
+TemplatesSearchPageClear: Klar
+TemplatesSearchPageCurrentResults: Resultat xx-yy av zzz
+TemplatesSearchPageRefilneResults: Begränsa resultat
+TemplatesSearchPageResultUpdated: Uppdaterad
+TextPass txt@Text: #{txt}
+Upload: Ladda
+UploadLink: Ladda publikation
+YesodAuthStormPathSSOErrorOccured: Ett fel uppstod
+YesodAuthStormPathSSOLoginParamError: Det uppstod ett fel med enkel inloggning parametrar
+YesodAuthStormPathSSOLoginTryAgain: Försök att logga in igen i med
