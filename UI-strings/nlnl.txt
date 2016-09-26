@@ -1,278 +1,278 @@
-AdvancedSearch: Advanced Search
-AdvancedSearchTooltip: Selecteer inhoud filters
-BreadcrumbsProductDocumentationHome: Product Documentation Huis
+AdvancedSearch: Geavanceerd zoeken 
+AdvancedSearchTooltip: Inhoudsfilters selecteren
+BreadcrumbsProductDocumentationHome: Startpagina productdocumentatie
 BreadcrumbsSearch: Zoeken
-Cancel: annuleren
+Cancel: Annuleren
 Close: Sluiten
-DeleteText: Delete
+DeleteText: Verwijderen
 ErrorOccured: Er is een fout opgetreden
-FilterUsers: gebruikers Filter:
-FoundationLoginOnly: Meld u aan
-FoundationLoginRegister: Meld u aan / Registreren
+FilterUsers: Gebruikers filteren:
+FoundationLoginOnly: Aanmelden
+FoundationLoginRegister: Aanmelden/registreren
 HandlerAdminOnlyAdmin: Toegang geweigerd
-HandlerBundlePageAltCSHResult: Alternate CSH Topic Gevonden
-HandlerCategoriesCategoryXMLFileUploaded: Categorie XML File geupload
-HandlerClassificationUpdated: Classificatie update van de kaart
-HandlerClassificationXMLFile: geactualiseerd Kaart van de Classificatie
-HandlerCommentsComments: commentaar
-HandlerCommentsOneComment: 1 reactie
-HandlerCommentsPostedCommentOn: gepost een reactie:
-HandlerContentRolesAreYouSureDelete: Weet je zeker dat je dit wilt Content Role verwijderen?
-HandlerContentRolesCRDeleted: Content Rol schrappen
-HandlerContentRolesErrorDeleting: een probleem opgetreden. De inhoud rol werd niet verwijderd.
-HandlerCshAlternateCSHTopicFound: Alternate CSH Topic gevonden
-HandlerCshCSHRulesUpdated: CSH Regels Bijgewerkt
-HandlerCshInvalidAliases: Invalid Alias ​​gevonden sleutels in CSH URL
-HandlerCshInvalidCSHRulesFile: Invalid CSH Rules bestand
-HandlerCshNewCshFile: Upload nieuwe CSH Config File
-HandlerCshReservedAliasesUsed: Gereserveerde Alias ​​Gebruikt in CSH Config File
+HandlerBundlePageAltCSHResult: Alternatief CSH-onderwerp gevonden
+HandlerCategoriesCategoryXMLFileUploaded: Categorie-XML-bestand geüpload
+HandlerClassificationUpdated: Classificatieoverzicht bijgewerkt
+HandlerClassificationXMLFile: Bijgewerkt classificatieoverzicht
+HandlerCommentsComments: opmerkingen
+HandlerCommentsOneComment: 1 opmerking
+HandlerCommentsPostedCommentOn: heeft een opmerking gepubliceerd op:
+HandlerContentRolesAreYouSureDelete: Weet u zeker dat u deze inhoudsrol wilt verwijderen?
+HandlerContentRolesCRDeleted: Inhoudsrol verwijderd
+HandlerContentRolesErrorDeleting: Er is een probleem opgetreden. De inhoudsrol is niet verwijderd.
+HandlerCshAlternateCSHTopicFound: Alternatief CSH-onderwerp gevonden
+HandlerCshCSHRulesUpdated: CSH-regels bijgewerkt
+HandlerCshInvalidAliases: Ongeldige aliassleutels gevonden in CSH-URL
+HandlerCshInvalidCSHRulesFile: Ongeldig CSH-regelbestand
+HandlerCshNewCshFile: Nieuw CSH-configuratiebestand uploaden
+HandlerCshReservedAliasesUsed: Gereserveerde aliassen gebruikt in CSH-configuratiebestand
 HandlerCustomError400H2: 400
-HandlerCustomError400H3: Bad Request
+HandlerCustomError400H3: Onjuiste aanvraag
 HandlerCustomError401H2: 401
-HandlerCustomError401H3: Ongeautoriseerde
+HandlerCustomError401H3: Niet-toegestaan
 HandlerCustomError403H2: 403
 HandlerCustomError403H3: Verboden
 HandlerCustomError404H2: 404
-HandlerCustomError404H3: Not Found
+HandlerCustomError404H3: Niet gevonden
 HandlerCustomError405H2: 405
 HandlerCustomError405H3: Methode niet toegestaan
 HandlerCustomError500H2: 500
-HandlerCustomError500H3: Internal Server Error
-HandlerFontoDocumentSaved: Document gered
-HandlerFontoErrorGeneratingUUID: Fout bij het genereren van UUID
-HandlerFontoErrorParsingID: Error parsing ID
-HandlerFontoErrorParsingXML: Error parsing XML
-HandlerFontoErrorParsingXMLToDocument: Fout bij parseren XML naar Document
+HandlerCustomError500H3: Interne serverfout
+HandlerFontoDocumentSaved: Document opgeslagen
+HandlerFontoErrorGeneratingUUID: Fout bij genereren van UUID
+HandlerFontoErrorParsingID: Fout bij parseren van id
+HandlerFontoErrorParsingXML: Fout bij parseren van XML
+HandlerFontoErrorParsingXMLToDocument: Fout bij parseren van XML naar document
 HandlerFontoNoFileFound: Bestand niet gevonden
-HandlerFontoNoIDFound: ID niet gevonden
-HandlerFontoUntitledFromCursor: Untitled - van Cursor
-HandlerGroupsErrorReadingGroupID: Fout leesgroep ID
-HandlerGroupsGroupUpdated: Group Bijgewerkt
-HandlerGroupsMustUseUniqueGroupName: Moet gebruiken unieke groepsnaam
+HandlerFontoNoIDFound: Id niet gevonden
+HandlerFontoUntitledFromCursor: Naamloos - van cursor
+HandlerGroupsErrorReadingGroupID: Fout bij lezen groeps-id
+HandlerGroupsGroupUpdated: Groep bijgewerkt
+HandlerGroupsMustUseUniqueGroupName: Moet unieke groepsnaam gebruiken
 HandlerGroupsNoGroupNameFound: Geen groepsnaam gevonden
 HandlerGroupsUnableAssignRole: Kan geen rol toewijzen
-HandlerHowtoContent: Content
-HandlerHowtoDeleted: Artikel geschrapt
-HandlerHowtoInsufficientPermissions: Onvoldoende rechten om dit artikel te bewerken
+HandlerHowtoContent: Inhoud
+HandlerHowtoDeleted: Artikel verwijderd
+HandlerHowtoInsufficientPermissions: Onvoldoende machtigingen om dit artikel te bewerken
 HandlerHowtoSaved: Opgeslagen
 HandlerHowtoTitle: Titel
-HandlerHtmlEmptyMyDocs: Lege MyDocs
-HandlerLangDefaultLanguageCodeFileUpdated: geactualiseerd Standaard Taal Code File
-HandlerLangNewLangFile: Upload Nieuwe standaard Taal Code File
-HandlerMyPubSourcePublication: Source Publication
-HandlerProfileDisplayName: Toon naam
-HandlerProfileScreenName: naam Screen
-HandlerProfileUpdated: profiel geüpdatet
-HandlerProfileUsernameInUse: gebruikersnaam bestaat
-HandlerRatingsInvalidRating: Ongeldige waardering
-HandlerRatingsRatingRecorded: Uw beoordeling is opgeslagen
-HandlerRatingsRatingUpdated: Uw beoordeling is bijgewerkt
-HandlerRolesErrorReadingRoleID: Fout bij het lezen rol ID
-HandlerRolesMustUseUniqueRoleName: Gebruik een unieke rol naam
-HandlerRolesNoRoleNameFound: Geen rol naam gevonden
-HandlerRolesNotEnoughAdminUsersRemaining: Kan gebruikers toewijzen
-HandlerRolesSelectedPermissionsLessThenDefault: Kan rechten toekennen: Geselecteerde permissies zijn minder dan standaard toestemming set
-HandlerSearchAllResults: alle resultaten
+HandlerHtmlEmptyMyDocs: Lege MijnDocs
+HandlerLangDefaultLanguageCodeFileUpdated: Bijgewerkt standaard taalcodebestand
+HandlerLangNewLangFile: Nieuw standaard taalcodebestand uploaden
+HandlerMyPubSourcePublication: Bronpublicatie
+HandlerProfileDisplayName: Weergavenaam
+HandlerProfileScreenName: Schermnaam
+HandlerProfileUpdated: Profiel bijgewerkt
+HandlerProfileUsernameInUse: Gebruikersnaam bestaat al
+HandlerRatingsInvalidRating: Ongeldige classificatie
+HandlerRatingsRatingRecorded: Uw classificatie is geregistreerd
+HandlerRatingsRatingUpdated: Uw classificatie is bijgewerkt
+HandlerRolesErrorReadingRoleID: Fout bij lezen rol-id
+HandlerRolesMustUseUniqueRoleName: Gebruik een unieke rolnaam
+HandlerRolesNoRoleNameFound: Geen rolnaam gevonden
+HandlerRolesNotEnoughAdminUsersRemaining: Kan geen gebruikers toewijzen
+HandlerRolesSelectedPermissionsLessThenDefault: Kan geen machtigingen toewijzen: geselecteerde machtigingen zijn minder dan standaard machtigingenset
+HandlerSearchAllResults: Alle resultaten
 HandlerSearchNoResults: Geen resultaten
-HandlerSearchOneResult: Een gevolg
-HandlerSitemapFile: Sitemap file
-HandlerSitemapFileUploaded: geactualiseerd Sitemap succes.
-HandlerSubjectSchemeInvalidSubjectSchemeLocalizationFile: Invalid Onderwerp Scheme Localization File
-HandlerSubjectSchemeLangDeleted lang @ Tekst: # {lang} Deleted Localization File
+HandlerSearchOneResult: Eén resultaat
+HandlerSitemapFile: Siteoverzichtsbestand
+HandlerSitemapFileUploaded: Siteoverzicht is bijgewerkt.
+HandlerSubjectSchemeInvalidSubjectSchemeLocalizationFile: Ongeldig lokalisatiebestand van onderwerpschema
+HandlerSubjectSchemeLangDeleted lang@Text: #{lang} Verwijderd lokalisatiebestand
 HandlerSubjectSchemeLangsAvailable: Beschikbare talen
-HandlerSubjectSchemeLangsDeleteConfirm: Weet je zeker te willen het Localization bestand te verwijderen?
-HandlerSubjectSchemeLangsDeleteError: Fout bij verwijderen lokalisatie bestand.
-HandlerSubjectSchemeLangsNewFile: Upload New SubjectScheme Localization File
-HandlerSubjectSchemeLangUpdated lang @ Tekst: # {lang} geactualiseerd Localization File
-HandlerSubjectSchemeLangUploaded lang @ Tekst: # {lang} geupload Localization File
-HandlerSubjectSchemeProblemOccurredWhileUploadingSubjectScheme: Er is een probleem opgetreden bij het uploaden van de Subject Scheme.
-HandlerSubjectSchemeSubjectSchemeUploadedSuccessfully: Onderwerp regeling geupload succes
-HandlerSubjectSchemeUnknownLanguageCode: Onbekend Taal Code
-HandlerSubjectSchemeUpdated: Subject regeling bijgewerkt
-HandlerSubjectSchemeXMLFile: Onderwerp schema XML-bestand
+HandlerSubjectSchemeLangsDeleteConfirm: Wilt u het lokalisatiebestand echt verwijderen? 
+HandlerSubjectSchemeLangsDeleteError: Fout bij verwijderen lokalisatiebestand.
+HandlerSubjectSchemeLangsNewFile: Lokalisatiebestand van nieuw onderwerpschema uploaden
+HandlerSubjectSchemeLangUpdated lang@Text: #{lang} Bijgewerkt lokalisatiebestand
+HandlerSubjectSchemeLangUploaded lang@Text: #{lang} Geüpload lokalisatiebestand 
+HandlerSubjectSchemeProblemOccurredWhileUploadingSubjectScheme: Er is een probleem opgetreden bij het uploaden van het onderwerpschema.
+HandlerSubjectSchemeSubjectSchemeUploadedSuccessfully: Onderwerpschema is geüpload
+HandlerSubjectSchemeUnknownLanguageCode: Onbekende taalcode
+HandlerSubjectSchemeUpdated: Onderwerpschema bijgewerkt
+HandlerSubjectSchemeXMLFile: XML-bestand onderwerpschema
 HandlerUploadBundleBundle: bundel
-HandlerUploadBundleDeleteError x @ Tekst: Fout bij het verwijderen # {x}
-HandlerUploadBundleDeleteSuccess x @ Tekst: zijn verwijderd # {x}
-HandlerUploadBundleError: Error
-HandlerUploadBundleErrorPleaseUpdateSuiteBundleVersion: Fout - Update uw bundel versie
-HandlerUploadBundleNoContentToDelete x @ Tekst: Geen inhoud te verwijderen in het # {x}
-HandlerUploadBundleOneBundleError: Fout bevolken geupload bundel
-HandlerUploadBundlePublicationUploadedSuccessfully: Publicatie geüpload
-HandlerUploadBundleSheaf: schoof
-HandlerUsersAddedSuccess: Gebruiker succesvol toegevoegd
-HandlerUsersBadEmail: Dit e-mailadres wordt niet geregistreerd
-HandlerUsersCRCreated: Content Role Group gecreëerd
-HandlerUsersCRGroupNameInUse: Content Rol naam is al in gebruik
-HandlerUsersCRSetGroupName: Stel een naam voor deze Content Role Group
-HandlerUsersCRUpdated: Content Role Group bijgewerkt
-HandlerUsersDefineCR: Definieer nieuwe inhoud Role Group
-HandlerUsersDeleteSuccess: verwijderde gebruiker met succes
-HandlerUsersEmailError: Fout bij het verzenden van e-mail password reset
-HandlerUsersInvalidToken: Invalid Token
-HandlerUsersNoResetToken: Geen reset token
-HandlerUsersNoRoleIdFound: Geen rol id gevonden
-HandlerUsersPasswordEmailSent: wachtwoord reset e-mail verzonden
-HandlerUsersRegisterSuccess: Registered User succesvol
-HandlerUsersResetPasswordError: Fout resetten van het wachtwoord
-HandlerUsersRolesUpdated: Gebruikersrollen Bijgewerkt
-HandlerUsersUnableToAssignUserPermissionRole: Kan gebruiker toestemming rol toewijzen
+HandlerUploadBundleDeleteError x@Text: Fout bij verwijderen van #{x}
+HandlerUploadBundleDeleteSuccess x@Text: #{x} is verwijderd
+HandlerUploadBundleError: Fout
+HandlerUploadBundleErrorPleaseUpdateSuiteBundleVersion: Fout: werk uw bundelversie bij
+HandlerUploadBundleNoContentToDelete x@Text: Geen te verwijderen inhoud in #{x} 
+HandlerUploadBundleOneBundleError: Fout bij vullen geüploade bundel
+HandlerUploadBundlePublicationUploadedSuccessfully: Publicatie is geüpload
+HandlerUploadBundleSheaf: sheaf
+HandlerUsersAddedSuccess: Gebruiker is toegevoegd
+HandlerUsersBadEmail: Dat e-mailadres is niet geregistreerd
+HandlerUsersCRCreated: Inhoudsrolgroep gemaakt
+HandlerUsersCRGroupNameInUse: Inhoudsrolnaam is al in gebruik
+HandlerUsersCRSetGroupName: Geef een naam op voor deze inhoudsrolgroep
+HandlerUsersCRUpdated: Inhoudsrolgroep bijgewerkt
+HandlerUsersDefineCR: Nieuwe inhoudsrolgroep definiëren
+HandlerUsersDeleteSuccess: Gebruiker is verwijderd
+HandlerUsersEmailError: Fout bij verzenden van e-mail voor opnieuw instellen van wachtwoord
+HandlerUsersInvalidToken: Ongeldige token
+HandlerUsersNoResetToken: Geen opnieuw ingestelde token
+HandlerUsersNoRoleIdFound: Geen rol-id gevonden
+HandlerUsersPasswordEmailSent: E-mail voor opnieuw instellen wachtwoord is verzonden
+HandlerUsersRegisterSuccess: Gebruiker is geregistreerd
+HandlerUsersResetPasswordError: Fout bij opnieuw instellen van wachtwoord
+HandlerUsersRolesUpdated: Gebruikersrollen bijgewerkt
+HandlerUsersUnableToAssignUserPermissionRole: Kan geen gebruikersmachtigingsrol toewijzen
 HandlerUsersUnknownError: Onbekende fout
-ImportAddHelperProblemRunningAddHelper: Problem running addHelper
-HideTOC: Skjul Indholdsfortegnelse
-ImportBundlesTooManyTopics num @ Int: Een maximum van # {tonen num} onderwerpen kunnen worden gepubliceerd. Selecteer minder thema's en probeer het opnieuw.
-ImportElasticAnalyzerError: - Opmerking: Custom analyzer fout, zie log voor details. Met behulp van standaard analyzer.
-ImportElasticErrorRebuilding: Fout verbouwing index - zie log voor meer details.
-ImportElasticErrorUpdating: Fout bij het bijwerken index - zie log voor meer details.
-ImportElasticIndexRebuilt x @ Tekst: Index met succes herbouwd # {x}
-ImportElasticIndexUpdated x @ Tekst: Index bijgewerkt # {x}
-ImportElasticNoPagesFound: Geen pagina's gevonden in de database - index reset.
+HideTOC: Inhoudsopgave verbergen
+ImportAddHelperProblemRunningAddHelper: Probleem bij uitvoeren van addHelper
+ImportBundlesTooManyTopics num@Int: Maximaal #{show num} onderwerpen kunnen worden gepubliceerd. Selecteer minder onderwerpen en probeer het opnieuw.
+ImportElasticAnalyzerError: - Opmerking: fout van aangepast analyseprogramma, zie logboek voor details. Standaard analyseprogramma wordt gebruikt. 
+ImportElasticErrorRebuilding: Fout bij opnieuw opbouwen van index, zie logboek voor meer details.
+ImportElasticErrorUpdating: Fout bij bijwerken van index, zie logboek voor meer details.
+ImportElasticIndexRebuilt x@Text: Index is opnieuw opgebouwd #{x}
+ImportElasticIndexUpdated x@Text: Index is bijgewerkt #{x}
+ImportElasticNoPagesFound: Geen pagina's gevonden in database - index opnieuw ingesteld.
 ImportElasticNoPagesInBundle: Geen pagina's gevonden in upload
 ImportInvalidPassword: Ongeldig wachtwoord
-ImportRatingsOneRating 1 Beoordeling
-ImportRatingsRatings: Ratings
-ImportRolesPermissionDenied: Permission denied
-ImportSearchNoCategoriesUploaded: Geen Categories XML-bestand geupload
-ImportSearchUnknownTopicLink: *** onbekend onderwerp Link ***
-ImportUsersCaptchaError: Ongeldige reCAPTCHA
-ImportUsersCaptchaParseError: reCAPTCHA Error
-ImportUsersEmailFieldError: Geen e-mail veld gevonden.
+ImportRatingsOneRating: 1 classificatie
+ImportRatingsRatings: Classificaties
+ImportRolesPermissionDenied: Machtiging geweigerd
+ImportSearchNoCategoriesUploaded: Geen categorieën-XML-bestand geüpload
+ImportSearchUnknownTopicLink: *** onbekende onderwerpkoppeling ***
+ImportUsersCaptchaError: Ongeldige reCAPTCHA 
+ImportUsersCaptchaParseError: reCAPTCHA-fout
+ImportUsersEmailFieldError: Geen e-mailveld gevonden.
 ImportUsersFldEmail: E-mail
 ImportUsersFldFirstName: Voornaam
 ImportUsersFldLastName: Achternaam
 ImportUsersFldPassword: Wachtwoord
-ImportUsersFldReenterPass: Herhaal het wachtwoord
-ImportUsersInvalidPass: Ongeldig wachtwoord: gekozen wachtwoord moet minstens 8 karakters waarvan ten minste 1 hoofdletter, 1 kleine letter, 1 speciaal karakter, en 1 nummer.
-LoggedInAs email @ Tekst: ingelogd als # {e}.
+ImportUsersFldReenterPass: Wachtwoord opnieuw invoeren
+ImportUsersInvalidPass: Ongeldig wachtwoord: wachtwoord moet ten minste 8 tekens bevatten, waaronder ten minste 1 hoofdletter, 1 kleine letter, 1 speciaal teken en 1 cijfer.
+LoggedInAs email@Text: Aangemeld als #{email}.
 Manuals: Handleidingen
 PDFPage: Pagina
-ProductDocumentationSplashTitle: Dokumentation
-PublishHowto: Publiceer
+ProductDocumentationSplashTitle: Productdocumentatie 
+PublishHowto: Publiceren
 ResultsPerPage: Resultaten per pagina
-ResultsPerPageShow: Show xx per pagina
-Search: Zoek product Documentatie
-SearchContent: Zoek door deze inhoud
-SearchHome: Zoek product Documentatie
-ShowTOC: Vis Indholdsfortegnelse
-SSOLoginParamError: Er is een fout met SSO login parameters
-SSOLoginTryAgain: Probeer opnieuw in te loggen in met
+ResultsPerPageShow: xx per pagina tonen
+Search: Zoeken in productdocumentatie
+SearchContent: Zoek in deze inhoud
+SearchHome: Zoeken in productdocumentatie
+ShowTOC: Inhoudsopgave weergeven
+SSOLoginParamError: Er is een fout opgetreden bij de SSO-aanmeldingsparameters
+SSOLoginTryAgain: Probeer u opnieuw aan te melden met
 SwitchLang: Taal wijzigen
-TemplaesBundlesTitle: Bibliotheek Documentatie
-TemplateAddHelperCancel Afbreken
-TemplateAddHelperSave: Save
+TemplaesBundlesTitle: Documentatiebibliotheek
+TemplateAddHelperCancel: Annuleren
+TemplateAddHelperSave: Opslaan
 TemplateAddHelperSaveAndClose: Opslaan en sluiten
 TemplateAddUserAddUser: Gebruiker toevoegen
-TemplateAddUserCancel Afbreken
-TemplateAddUserPasswordMessage: Wachtwoord moet minimaal 8 karakters waarvan ten minste 1 hoofdletter, 1 kleine letter, 1 speciaal karakter, en 1 nummer.
-TemplateAdminArticleManagement: Artikel Beheer
-TemplateAdminContentRoleGroups: Content Rol Groepen
-TemplateAdminCSHConfigFile: Download of bijwerken CSH Configuratiebestand
-TemplateAdminElasticReindex: Rebuild zoekindex
-TemplateAdminExportComments: Reacties Export
-TemplateAdminExportRatings: Ratings Export
-TemplateAdminManageManuals: Manage Handleidingen
-TemplateAdminManageResourceManuals: Manage Resource Packages
-TemplateAdminResourceIdCsv: Download ResourceIds Excel-bestand
-TemplateAdminSitemap: Manage Sitemap
-TemplateAdminSubjectSchemeLocalization: Beheer Subject Scheme Localization
-TemplateAdminTitle: Administratie
-TemplateAdminUploadCategoryXML: Beheer Categorie XML-bestand
-TemplateAdminUploadCategoryXml: Upload een nieuwe categorie XML-bestand
-TemplateAdminUploadNewLangFile: Upload een nieuwe Standaard Languge Code bestand
-TemplateAdminUploadSubjectScheme: Manage Subject Scheme
-TemplateAdminUserGroups: User Groups
-TemplateAdminUserManagement: User Management
+TemplateAddUserCancel: Annuleren
+TemplateAddUserPasswordMessage: Wachtwoord moet ten minste 8 tekens bevatten, waaronder ten minste 1 hoofdletter, 1 kleine letter, 1 speciaal teken en 1 cijfer.
+TemplateAdminArticleManagement: Artikelbeheer
+TemplateAdminContentRoleGroups: Inhoudsrolgroepen
+TemplateAdminCSHConfigFile: CSH-configuratiebestand downloaden of bijwerken
+TemplateAdminElasticReindex: Zoekindex opnieuw opbouwen
+TemplateAdminExportComments: Opmerkingen exporteren
+TemplateAdminExportRatings: Classificaties exporteren
+TemplateAdminManageManuals: Handleidingen beheren
+TemplateAdminManageResourceManuals: Bronpakketten beheren
+TemplateAdminResourceIdCsv: Excel-bestand met bron-id's downloaden
+TemplateAdminSitemap: Siteoverzicht beheren
+TemplateAdminSubjectSchemeLocalization: Onderwerpschemalokalisatie beheren
+TemplateAdminTitle: Beheer
+TemplateAdminUploadCategoryXML: Categorie-XML-bestand beheren
+TemplateAdminUploadCategoryXml: Een nieuw categorie-XML-bestand uploaden
+TemplateAdminUploadNewLangFile: Een nieuw standaard taalcodebestand uploaden
+TemplateAdminUploadSubjectScheme: Onderwerpschema beheren
+TemplateAdminUserGroups: Gebruikersgroepen
+TemplateAdminUserManagement: Gebruikersbeheer
 TemplateAdminUserRoles: Gebruikersrollen
-TemplateBundlePageCollapse: Collapse
-TemplateBundlePageCollapseTooltip: samenvouwen Alle Titels
-TemplateBundlePageComments: Comments
-TemplateBundlePageContents: Contents
-TemplateBundlePageExpand: Expand
-TemplateBundlePageExpandTooltip: Uitbreiden Inhoudsopgave
-TemplateBundlePageFeedback: Respons
-TemplateBundlePageFeedbackThankYou: Dank je wel! Uw opmerkingen werden gestuurd.
-TemplateBundlePageFeedbackTooltip: Feedback
+TemplateBundlePageCollapse: Samenvouwen
+TemplateBundlePageCollapseTooltip: Alle titels samenvouwen
+TemplateBundlePageComments: Opmerkingen
+TemplateBundlePageContents: Inhoud
+TemplateBundlePageExpand: Uitvouwen
+TemplateBundlePageExpandTooltip: Inhoudsopgave uitvouwen
+TemplateBundlePageFeedback: Feedback
+TemplateBundlePageFeedbackThankYou: Dank u! Uw opmerkingen zijn verzonden. 
+TemplateBundlePageFeedbackTooltip: Feedback indienen
 TemplateBundlePageFilterTitle: Selecteer een of meer opties
-TemplateBundlePageNext: Next
-TemplateBundlePageNextTopicTooltip: Ga naar Volgend Onderwerp
+TemplateBundlePageNext: Volgende
+TemplateBundlePageNextTopicTooltip: Ga naar volgend onderwerp
 TemplateBundlePageNo: Nee
-TemplateBundlePagePrevious: Vorige
-TemplateBundlePagePrevTopicTooltip: Ga naar Vorig onderwerp
-TemplateBundlePagePrint: Print
-TemplateBundlePagePrintTooltip: Print Topic
-TemplateBundlePagePrivacy: Om uw privacy te beschermen, geen contactgegevens in uw feedback. Geef je mening over ons privacybeleid.
+TemplateBundlePagePrevious: Vorige 
+TemplateBundlePagePrevTopicTooltip: Ga naar vorig onderwerp
+TemplateBundlePagePrint: Afdrukken
+TemplateBundlePagePrintTooltip: Onderwerp afdrukken
+TemplateBundlePagePrivacy: Neem ter bescherming van uw privacy geen contactgegevens op in uw feedback. Lees ons privacybeleid.
 TemplateBundlePageProvideFeedbackTooltip: Feedback geven
 TemplateBundlePageSaveAsPDF: Opslaan als PDF
 TemplateBundlePageSavePDFTooltip: Opslaan als PDF
-TemplateBundlePageSaveSelectedTopic: Save geselecteerde onderwerp
-TemplateBundlePageSaveSelectedTopicAndSubtopics: Save geselecteerde onderwerp en subonderwerpen
+TemplateBundlePageSaveSelectedTopic: Geselecteerd onderwerp opslaan
+TemplateBundlePageSaveSelectedTopicAndSubtopics: Geselecteerd onderwerp en subonderwerpen opslaan
 TemplateBundlePageSeeAlso: Zie ook
-TemplateBundlePageSend: Stuur
-TemplateBundlePageSendLink: Stuur
-TemplateBundlePageSendLinkTooltip: Stuur link naar Topic
-TemplateBundlePageSubmit: Submit
+TemplateBundlePageSend: Verzenden
+TemplateBundlePageSendLink: Verzenden
+TemplateBundlePageSendLinkTooltip: Koppeling naar onderwerp verzenden
+TemplateBundlePageSubmit: Indienen
 TemplateBundlePageWasThisInformationHelpful: Was deze informatie nuttig?
 TemplateBundlePageYEs: Ja
-TemplateBundlesDeleteLanguage: Delete language
-TemplateBundlesDeleteManual: handmatig verwijderen
-TemplateBundlesDownload: bundel Download
-TemplateBundlesDownloadClassification: Download Classification XML
-TemplateBundlesHiddenBundle: Verborgen manual
-TemplateBundlesSearchManuals: Zoeken Handleidingen
-TemplateBundlesUploadClassification: Upload Classification XML
-TemplateClassificationForManual: Voor handmatige
-TemplateClassificationUploadClassificationMap: Upload Kaart van de Classificatie XML
-TemplateClassificationWarnReindex: LET OP: Het uploaden van een Kaart van de Classificatie zorgt ervoor dat de hele site opnieuw worden geïndexeerd. Dit kan enkele minuten duren.
-TemplateContentRolesCRGroups: Content Rol Groepen
-TemplateContentRolesDefineNewCR: Definieer nieuwe inhoud Rol
-TemplateDefaultLayoutAdministration: Administratie
+TemplateBundlesDeleteLanguage: Taal verwijderen
+TemplateBundlesDeleteManual: Handleiding verwijderen
+TemplateBundlesDownload: Bundel downloaden
+TemplateBundlesDownloadClassification: Classificatie-XML downloaden
+TemplateBundlesHiddenBundle: Verborgen handleiding
+TemplateBundlesSearchManuals: Zoeken in handleidingen
+TemplateBundlesUploadClassification: Classificatie-XML uploaden
+TemplateClassificationForManual: Voor handleiding
+TemplateClassificationUploadClassificationMap: Classificatieoverzicht-XML uploaden
+TemplateClassificationWarnReindex: OPMERKING: als een classificatieoverzicht wordt geüpload, wordt de gehele site opnieuw geïndexeerd. Dit kan enkele minuten duren.
+TemplateContentRolesCRGroups: Inhoudsrolgroepen
+TemplateContentRolesDefineNewCR: Nieuwe inhoudsrol definiëren
+TemplateDefaultLayoutAdministration: Beheer
 TemplateDefaultLayoutArticles: Artikelen
-TemplateDefaultLayoutBrowseDocumentation: Browse
-TemplateDefaultLayoutDocumentation: Bibliotheek Documentatie
-TemplateDefaultLayoutHome: Home
-TemplateDefaultLayoutLanguages: Verenigde Staten - Engels
-TemplateDefaultLayoutLinksCareers: Careers
+TemplateDefaultLayoutBrowseDocumentation: Bladeren
+TemplateDefaultLayoutDocumentation: Documentatiebibliotheek
+TemplateDefaultLayoutHome: Startpagina
+TemplateDefaultLayoutLanguages: United States - English
+TemplateDefaultLayoutLinksCareers: Carrières
 TemplateDefaultLayoutLinksContactUs: Contact
 TemplateDefaultLayoutLinksIntelCorp: © Intel Corporation
-TemplateDefaultLayoutLinksLegalContractsandTerms: juridische contracten en voorwaarden
-TemplateDefaultLayoutLinksLegalNotices: Wettelijke bepalingen
-TemplateDefaultLayoutLinksSiteMap: Site Map
-TemplateDefaultLayoutLinksWebsiteFeedback: Website feedback
+TemplateDefaultLayoutLinksLegalContractsandTerms: Juridische contracten en voorwaarden
+TemplateDefaultLayoutLinksLegalNotices: Juridische kennisgevingen  
+TemplateDefaultLayoutLinksSiteMap: Websiteoverzicht
+TemplateDefaultLayoutLinksWebsiteFeedback: Websitefeedback
 TemplateDefaultLayoutLogout: Afmelden
 TemplateDefaultLayoutProfile: Profiel
-TemplateDefaultLayoutVideos: Video's
-TemplateFilterCurrentPublication: Actueel Publicatie
+TemplateDefaultLayoutVideos: Video’s
+TemplateFilterCurrentPublication: Huidige publicatie
 TemplateRequestResetPasswordEmail: E-mail
-TemplateRequestResetPasswordSubmit: Request Password Reset Email
-TemplateSearchCurrentPublication naam @ Tekst: Huidige zoekopdracht is beperkt tot de '# {naam}' publicatie
-TemplateSearchPageClearTooltip: Clear Filters
-TemplateSearchPageFirstPageTooltip: Ga naar de eerste pagina
-TemplateSearchPageLastPageTooltip: Ga naar de laatste pagina
+TemplateRequestResetPasswordSubmit: E-mail voor aanvragen van opnieuw instellen wachtwoord
+TemplateSearchCurrentPublication name@Text: Huidige zoekopdracht is beperkt tot de publicatie '#{name}'
+TemplateSearchPageClearTooltip: Filters wissen
+TemplateSearchPageFirstPageTooltip: Ga naar eerste pagina
+TemplateSearchPageLastPageTooltip: Ga naar laatste pagina
 TemplateSearchPageNextPageTooltip: Ga naar volgende pagina
 TemplateSearchPagePrevPageTooltip: Ga naar de vorige pagina
 TemplateSearchPublicationTitle: Publicatie
-TemplateSearchSortbyCreatedAsc: Gemaakt - oplopend
-TemplateSearchSortbyCreatedDec: Gemaakt - Decending
+TemplateSearchSortbyCreatedAsc: Datum gemaakt - oplopend
+TemplateSearchSortbyCreatedDec: Datum gemaakt - aflopend
 TemplateSearchSortbyScore: Score
 TemplateSearchSortbyUpdatedAsc: Datum toegevoegd - oplopend
-TemplateSearchSortbyUpdatedDec: Datum toegevoegd - Decending
-TemplateSearchSortbyViews: Aantal Views
-TemplatesSearchPageClear: Clear
+TemplateSearchSortbyUpdatedDec: Datum toegevoegd - aflopend
+TemplateSearchSortbyViews: Aantal weergaven
+TemplatesSearchPageClear: Wissen
 TemplatesSearchPageCurrentResults: Resultaten xx-yy van zzz
-TemplatesSearchPageRefilneResults: Resultaat verfijnen
-TemplatesSearchPageResultUpdated: geactualiseerd
-TemplateUploadSitemapDisable: Disable sitemap
-TemplateUploadSitemapDisabled: Sitemap uitgeschakeld
-TemplateUploadSitemapDisabledWord: met een handicap
-TemplateUploadSitemapDownloadSitemap: sitemap.xml Download
-TemplateUploadSitemapEnable: inschakelen sitemap
-TemplateUploadSitemapEnabled: Sitemap enabled
+TemplatesSearchPageRefilneResults: Resultaten verfijnen
+TemplatesSearchPageResultUpdated: Bijgewerkt
+TemplateUploadSitemapDisable: Siteoverzicht uitschakelen
+TemplateUploadSitemapDisabled: Siteoverzicht uitgeschakeld
+TemplateUploadSitemapDisabledWord: Uitgeschakeld
+TemplateUploadSitemapDownloadSitemap: sitemap.xml downloaden
+TemplateUploadSitemapEnable: Siteoverzicht inschakelen
+TemplateUploadSitemapEnabled: Siteoverzicht ingeschakeld
 TemplateUploadSitemapEnabledWord: Ingeschakeld
-TemplateUploadSitemapLegend: Upload sitemap.xml
-TemplateUploadSitemapStatus sts @ Tekst: Sitemap is # {st}
-TemplTemplateBundlePageProvideFeedbackTooltip: Feedback verzenden
+TemplateUploadSitemapLegend: sitemap.xml uploaden
+TemplateUploadSitemapStatus sts@Text: Siteoverzicht is #{sts}
+TemplTemplateBundlePageProvideFeedbackTooltip: Feedback indienen
 TextPass txt@Text: #{txt}
-Upload: Upload
-UploadLink: Upload publicatie
+Upload: Uploaden
+UploadLink: Publicatie uploaden
 YesodAuthStormPathSSOErrorOccured: Er is een fout opgetreden
-YesodAuthStormPathSSOLoginParamError: Er is een fout met SSO login parameters
-YesodAuthStormPathSSOLoginTryAgain: Probeer opnieuw in te loggen in met
+YesodAuthStormPathSSOLoginParamError: Er is een fout opgetreden bij de SSO-aanmeldingsparameters
+YesodAuthStormPathSSOLoginTryAgain: Probeer u opnieuw aan te melden met

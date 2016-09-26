@@ -2,8 +2,6 @@ plat-head: Beheerplatform
 plat-unmanaged: Onbeheerd
 product-head: Product
 cat-head: Categorie
-cat-hardware: Hardware
-cat-integration: Integratie
 cat-installation: Installatie en aan de slag
 cat-migration: Migratie
 cat-product: Productgebruik

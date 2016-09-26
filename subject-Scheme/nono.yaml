@@ -2,8 +2,6 @@ plat-head: Administrasjonsplattform
 plat-unmanaged: Ikke administrert
 product-head: Produkt
 cat-head: Kategori
-cat-hardware: Maskinvare
-cat-integration: Integrering
 cat-installation: Installering og Komme i gang
 cat-migration: Migrasjon
 cat-product: Produktbehandling

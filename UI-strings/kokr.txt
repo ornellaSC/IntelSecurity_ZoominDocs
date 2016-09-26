@@ -1,278 +1,278 @@
-AdvancedSearch: 고급 검색
-AdvancedSearchTooltip: 콘텐츠 필터를 선택
+AdvancedSearch: 고급 검색 
+AdvancedSearchTooltip: 콘텐츠 필터 선택
 BreadcrumbsProductDocumentationHome: 제품 설명서 홈
 BreadcrumbsSearch: 검색
 Cancel: 취소
-Close:닫기
+Close: 닫기
 DeleteText: 삭제
-ErrorOccured: 오류가 발생했습니다
-FilterUsers: 필터 사용자:
+ErrorOccured: 오류 발생
+FilterUsers: 사용자 필터링:
 FoundationLoginOnly: 로그온
-FoundationLoginRegister: / 회원 가입을 로그온
-HandlerAdminOnlyAdmin: 액세스가 거부
-HandlerBundlePageAltCSHResult: 다른 CSH 주제를 찾을 수
-HandlerCategoriesCategoryXMLFileUploaded: 분류 XML 파일은 업로드
-HandlerClassificationUpdated: 분류지도 업데이트
-HandlerClassificationXMLFile: 업데이트 분류지도
-HandlerCommentsComments: 댓글
-HandlerCommentsOneComment: 1 코멘트
-HandlerCommentsPostedCommentOn: 코멘트를 게시:
-HandlerContentRolesAreYouSureDelete: 당신은 당신이 콘텐츠 역할을 삭제 하시겠습니까?
-HandlerContentRolesCRDeleted: 콘텐츠 역할이 삭제
+FoundationLoginRegister: 로그온 / 등록
+HandlerAdminOnlyAdmin: 액세스가 거부됨
+HandlerBundlePageAltCSHResult: 대체 CSH 항목이 발견됨
+HandlerCategoriesCategoryXMLFileUploaded: 범주 XML 파일이 업로드됨
+HandlerClassificationUpdated: 분류 맵이 업데이트됨
+HandlerClassificationXMLFile: 업데이트된 분류 맵
+HandlerCommentsComments: 개 의견
+HandlerCommentsOneComment: 1개 의견
+HandlerCommentsPostedCommentOn: 의견이 게시된 위치:
+HandlerContentRolesAreYouSureDelete: 이 콘텐츠 역할을 삭제하시겠습니까?
+HandlerContentRolesCRDeleted: 콘텐츠 역할이 삭제됨
 HandlerContentRolesErrorDeleting: 문제가 발생했습니다. 콘텐츠 역할이 삭제되지 않았습니다.
-HandlerCshAlternateCSHTopicFound: 다른 CSH 주제를 찾을 수
-HandlerCshCSHRulesUpdated: CSH 규칙 업데이트
-HandlerCshInvalidAlias​​es: CSH URL에서 발견 잘못된 별칭 키
+HandlerCshAlternateCSHTopicFound: 대체 CSH 항목이 발견됨
+HandlerCshCSHRulesUpdated: CSH 규칙이 업데이트됨
+HandlerCshInvalidAliases: CSH URL에서 잘못된 별칭 키가 발견됨
 HandlerCshInvalidCSHRulesFile: 잘못된 CSH 규칙 파일
-HandlerCshNewCshFile: 업로드 새로운 CSH 구성 파일
-HandlerCshReservedAlias​​esUsed: CSH 구성 파일에 사용 예약 별칭
+HandlerCshNewCshFile: 새 CSH 구성 파일 업로드
+HandlerCshReservedAliasesUsed: CSH 구성 파일에서 예약된 별칭이 사용됨
 HandlerCustomError400H2: 400
 HandlerCustomError400H3: 잘못된 요청
-HandlerCustomError401H2: (401)
-HandlerCustomError401H3: 무단
-HandlerCustomError403H2: (403)
-HandlerCustomError403H3: 금지
-HandlerCustomError404H2: (404)
+HandlerCustomError401H2: 401
+HandlerCustomError401H3: 권한 없음
+HandlerCustomError403H2: 403
+HandlerCustomError403H3: 사용할 수 없음
+HandlerCustomError404H2: 404
 HandlerCustomError404H3: 찾을 수 없음
-HandlerCustomError405H2: (405)
-HandlerCustomError405H3: 방법은 허용되지 않음
+HandlerCustomError405H2: 405
+HandlerCustomError405H3: 방식 허용 안 함
 HandlerCustomError500H2: 500
 HandlerCustomError500H3: 내부 서버 오류
-HandlerFontoDocumentSaved: 문서 저장
-HandlerFontoErrorGeneratingUUID: 오류 발생 UUID
-HandlerFontoErrorParsingID: 오류 구문 분석 ID
-HandlerFontoErrorParsingXML: 오류 구문 분석 XML
-HandlerFontoErrorParsingXMLToDocument: 오류 문서에 XML을 구문 분석
-HandlerFontoNoFileFound: 파일을 찾을 수 없습니다
-HandlerFontoNoIDFound: ID를 찾을 수 없습니다
-HandlerFontoUntitledFromCursor: 제목 없음 - 커서에서
-HandlerGroupsErrorReadingGroupID: 오류 읽기 그룹 ID
-HandlerGroupsGroupUpdated: 그룹 업데이트
-HandlerGroupsMustUseUniqueGroupName: 고유 한 그룹 이름을 사용해야합니다
-HandlerGroupsNoGroupNameFound: 없음 그룹 이름을 찾을 수 없습니다
-HandlerGroupsUnableAssignRole: 역할을 할당 할 수 없습니다
-HandlerHowtoContent: 내용
-HandlerHowtoDeleted: 기사 삭제
-HandlerHowtoInsufficientPermissions:이 문서를 편집 할 수있는 권한
-HandlerHowtoSaved: 저장된
+HandlerFontoDocumentSaved: 문서가 저장됨
+HandlerFontoErrorGeneratingUUID: UUID 생성 중 오류 발생
+HandlerFontoErrorParsingID: ID 구문 분석 중 오류 발생
+HandlerFontoErrorParsingXML: XML 구문 분석 중 오류 발생
+HandlerFontoErrorParsingXMLToDocument: XML에서 문서로 구문 분석 중 오류 발생
+HandlerFontoNoFileFound: 파일이 없음
+HandlerFontoNoIDFound: ID가 없음
+HandlerFontoUntitledFromCursor: 제목 없음 – 커서에서
+HandlerGroupsErrorReadingGroupID: 그룹 ID를 읽는 중 오류 발생
+HandlerGroupsGroupUpdated: 그룹이 업데이트됨
+HandlerGroupsMustUseUniqueGroupName: 고유 그룹 이름을 사용해야 함
+HandlerGroupsNoGroupNameFound: 그룹 이름이 없음
+HandlerGroupsUnableAssignRole: 역할을 할당할 수 없음
+HandlerHowtoContent: 콘텐츠
+HandlerHowtoDeleted: 문서가 삭제됨
+HandlerHowtoInsufficientPermissions: 이 문서를 편집할 권한이 없음
+HandlerHowtoSaved: 저장됨
 HandlerHowtoTitle: 제목
-HandlerHtmlEmptyMyDocs: 빈 mydocs 다음
-HandlerLangDefaultLanguageCodeFileUpdated: 업데이트 기본 언어 코드 파일
-HandlerLangNewLangFile: 업로드 새로운 기본 언어 코드 파일
-HandlerMyPubSourcePublication: 소스 공개
+HandlerHtmlEmptyMyDocs: 빈 MyDocs
+HandlerLangDefaultLanguageCodeFileUpdated: 업데이트된 기본 언어 코드 파일
+HandlerLangNewLangFile: 새 기본 언어 코드 파일 업로드
+HandlerMyPubSourcePublication: 소스 게시
 HandlerProfileDisplayName: 표시 이름
 HandlerProfileScreenName: 화면 이름
-HandlerProfileUpdated: 업데이트 된 프로필
-HandlerProfileUsernameInUse는: 아이디가 존재
-HandlerRatingsInvalidRating: 잘못된 평가
-HandlerRatingsRatingRecorded: 귀하의 평가가 기록되었습니다
-HandlerRatingsRatingUpdated: 귀하의 평가가 업데이트되었습니다
-HandlerRolesErrorReadingRoleID: 오류 읽기 역할 ID
-HandlerRolesMustUseUniqueRoleName는: 고유 한 역할 이름을 사용
-HandlerRolesNoRoleNameFound: 없음 역할 이름을 찾을 수 없습니다
-HandlerRolesNotEnoughAdminUsersRemaining: 사용자를 할당 할 수 없습니다
-HandlerRolesSelectedPermissionsLessThenDefault: 권한을 할당 할 수 없습니다: 선정 된 권한은 기본 권한 세트 미만이다
+HandlerProfileUpdated: 프로파일이 업데이트됨
+HandlerProfileUsernameInUse: 사용자 이름이 있음
+HandlerRatingsInvalidRating: 잘못된 등급
+HandlerRatingsRatingRecorded: 등급이 기록되었습니다.
+HandlerRatingsRatingUpdated: 등급이 업데이트되었습니다.
+HandlerRolesErrorReadingRoleID: 역할 ID를 읽는 중 오류 발생
+HandlerRolesMustUseUniqueRoleName: 고유 역할 이름을 사용하십시오.
+HandlerRolesNoRoleNameFound: 역할 이름이 없음
+HandlerRolesNotEnoughAdminUsersRemaining: 사용자를 할당할 수 없음
+HandlerRolesSelectedPermissionsLessThenDefault: 권한을 할당할 수 없음: 선택한 권한이 기본 권한 집합보다 적습니다.
 HandlerSearchAllResults: 모든 결과
-HandlerSearchNoResults: 없음 결과
-HandlerSearchOneResult: 하나의 결과
+HandlerSearchNoResults: 결과 없음
+HandlerSearchOneResult: 1개 결과
 HandlerSitemapFile: 사이트 맵 파일
-HandlerSitemapFileUploaded: 성공적으로 사이트 맵 업데이트되었습니다.
-HandlerSubjectSchemeInvalidSubjectSchemeLocalizationFile: 잘못된 주제 제도 현지화 파일
-HandlerSubjectSchemeLangDeleted 랭 @ 텍스트: # {랭} 삭제 된 현지화 파일
+HandlerSitemapFileUploaded: 사이트 맵을 성공적으로 업데이트함
+HandlerSubjectSchemeInvalidSubjectSchemeLocalizationFile: 잘못된 주제 체계 지역화 파일
+HandlerSubjectSchemeLangDeleted lang@Text: #{lang} 삭제된 지역화 파일
 HandlerSubjectSchemeLangsAvailable: 사용 가능한 언어
-HandlerSubjectSchemeLangsDeleteConfirm: 당신은 현지화 파일을 삭제할 하시겠습니까?
-HandlerSubjectSchemeLangsDeleteError: 오류 현지화 파일을 삭제.
-HandlerSubjectSchemeLangsNewFile: 업로드 새로운 SubjectScheme 현지화 파일
-HandlerSubjectSchemeLangUpdated 랭 @ 텍스트: # {랭} 업데이트 현지화 파일
-HandlerSubjectSchemeLangUploaded 랭 @ 텍스트: # {랭} 업로드 현지화 파일
-HandlerSubjectSchemeProblemOccurredWhileUploadingSubjectScheme는: 제목 계획을 업로드하는 동안 문제가 발생했습니다.
-HandlerSubjectSchemeSubjectSchemeUploadedSuccessfully 주제: 계획은 성공적으로 업로드
-HandlerSubjectSchemeUnknownLanguageCode: 알 수없는 언어 코드
-HandlerSubjectSchemeUpdated: 제목 방식은 업데이트
-HandlerSubjectSchemeXMLFile: 제목 방식의 XML 파일
+HandlerSubjectSchemeLangsDeleteConfirm: 지역화 파일을 삭제하시겠습니까? 
+HandlerSubjectSchemeLangsDeleteError: 지역화 파일을 삭제하는 중 오류가 발생했습니다.
+HandlerSubjectSchemeLangsNewFile: 새 SubjectScheme 지역화 파일 업로드
+HandlerSubjectSchemeLangUpdated lang@Text: #{lang} 업데이트된 지역화 파일
+HandlerSubjectSchemeLangUploaded lang@Text: #{lang} 업로드된 지역화 파일 
+HandlerSubjectSchemeProblemOccurredWhileUploadingSubjectScheme: 주제 체계를 업로드하는 중 문제가 발생했습니다.
+HandlerSubjectSchemeSubjectSchemeUploadedSuccessfully: 주제 체계가 성공적으로 업로드됨
+HandlerSubjectSchemeUnknownLanguageCode: 알 수 없는 언어 코드
+HandlerSubjectSchemeUpdated: 주제 체계가 업데이트됨
+HandlerSubjectSchemeXMLFile: 주제 체계 XML 파일
 HandlerUploadBundleBundle: 번들
-HandlerUploadBundleDeleteError의 X @ 텍스트: 오류 # 삭제 {X}
-HandlerUploadBundleDeleteSuccess의 X @ 텍스트: 성공적으로 삭제 # {X}
+HandlerUploadBundleDeleteError x@Text: #{x}을(를) 삭제하는 중 오류 발생
+HandlerUploadBundleDeleteSuccess x@Text: #{x}을(를) 성공적으로 삭제함
 HandlerUploadBundleError: 오류
-HandlerUploadBundleErrorPleaseUpdateSuiteBundleVersion: 오류 - 업데이트하십시오 번들 버전
-HandlerUploadBundleNoContentToDelete의 X @ 텍스트: 없음 내용 #에서 삭제할 수 {X}
-HandlerUploadBundleOneBundleError: 오류 채우기 업로드 번들
-HandlerUploadBundlePublicationUploadedSuccessfully: 발행이 성공적으로 업로드
-HandlerUploadBundleSheaf: 뭉치
-HandlerUsersAddedSuccess: 사용자가 성공적으로 추가
-HandlerUsersBadEmail: 그 이메일 주소가 등록되어 있지 않습니다
-HandlerUsersCRCreated: 콘텐츠 역할 그룹 생성
-HandlerUsersCRGroupNameInUse는: 콘텐츠 역할 이름이 이미 사용 중입니다
-HandlerUsersCRSetGroupName:이 내용은 역할 그룹의 이름을 설정하십시오
-HandlerUsersCRUpdated: 콘텐츠 역할 그룹 업데이트
-HandlerUsersDefineCR는: 새로운 콘텐츠 역할 그룹을 정의
-HandlerUsersDeleteSuccess: 삭제 된 사용자 성공적으로
-HandlerUsersEmailError: 오류 암호 재설정 이메일을 보내는
+HandlerUploadBundleErrorPleaseUpdateSuiteBundleVersion: 오류 – 번들 버전을 업데이트하십시오.
+HandlerUploadBundleNoContentToDelete x@Text: #{x}에 삭제할 콘텐츠가 없음 
+HandlerUploadBundleOneBundleError: 업로드된 번들을 채우는 중 오류 발생
+HandlerUploadBundlePublicationUploadedSuccessfully: 게시를 성공적으로 업로드함
+HandlerUploadBundleSheaf: sheaf
+HandlerUsersAddedSuccess: 사용자가 성공적으로 추가됨
+HandlerUsersBadEmail: 해당 이메일 주소가 등록되어 있지 않습니다.
+HandlerUsersCRCreated: 콘텐츠 역할 그룹이 만들어짐
+HandlerUsersCRGroupNameInUse: 콘텐츠 역할 이름이 이미 사용 중입니다.
+HandlerUsersCRSetGroupName: 이 콘텐츠 역할 그룹의 이름을 설정하십시오.
+HandlerUsersCRUpdated: 콘텐츠 역할 그룹이 업데이트됨
+HandlerUsersDefineCR: 새 콘텐츠 역할 그룹 정의
+HandlerUsersDeleteSuccess: 사용자를 성공적으로 삭제함
+HandlerUsersEmailError: 암호 재설정 이메일을 보내는 중 오류 발생
 HandlerUsersInvalidToken: 잘못된 토큰
-HandlerUsersNoResetToken: 없음 리셋 토큰
-HandlerUsersNoRoleIdFound: 없음 역할 ID를 찾을 수 없습니다
-HandlerUsersPasswordEmailSent: 비밀번호 재설정 이메일이 전송
-HandlerUsersRegisterSuccess: 등록 된 사용자 성공적으로
-HandlerUsersResetPasswordError: 오류 재설정 암호
-HandlerUsersRolesUpdated: 사용자 역할 업데이트
-HandlerUsersUnableToAssignUserPermissionRole: 사용자 권한 역할을 할당 할 수 없습니다
-HandlerUsersUnknownError: 알 수없는 오류
-HideTOC: 목차 숨기기 표
-ImportAddHelperProblemRunningAddHelper: 문제 실행 addHelper
-ImportBundlesTooManyTopics 납입 @ 지능: # 최대 {쇼 NUM} 항목을 게시 할 수 있습니다. 적은 수의 주제를 선택하고 다시 시도하십시오.
-ImportElasticAnalyzerError: - 참고: 사용자 정의 분석 오류, 자세한 내용은 로그를 참조하십시오. 기본 분석기를 사용.
-ImportElasticErrorRebuilding: 오류 재건 지수 - 자세한 내용은 로그를 참조하십시오.
-ImportElasticErrorUpdating: 오류 업데이트 지수 - 자세한 내용은 로그를 참조하십시오.
-ImportElasticIndexRebuilt의 X @ 텍스트: 인덱스 성공적으로 재건 # {X}
-ImportElasticIndexUpdated의 X @ 텍스트: 인덱스 성공적으로 업데이트 # {X}
-ImportElasticNoPagesFound: - 인덱스 리셋 데이터베이스에서 찾을 수 없습니다 페이지입니다.
-ImportElasticNoPagesInBundle: 없음 페이지 업로드에서 발견
+HandlerUsersNoResetToken: 재설정 토큰이 없음
+HandlerUsersNoRoleIdFound: 역할 ID가 없음
+HandlerUsersPasswordEmailSent: 암호 재설정 이메일을 보냄
+HandlerUsersRegisterSuccess: 사용자를 성공적으로 등록함
+HandlerUsersResetPasswordError: 암호 재설정 중 오류 발생
+HandlerUsersRolesUpdated: 사용자 역할이 업데이트됨
+HandlerUsersUnableToAssignUserPermissionRole: 사용자 권한 역할을 할당할 수 없음
+HandlerUsersUnknownError: 알 수 없는 오류
+HideTOC: 목차 숨기기
+ImportAddHelperProblemRunningAddHelper: addHelper 실행 중 문제 발생
+ImportBundlesTooManyTopics num@Int: 최대 #{show num}개 항목을 게시할 수 있습니다. 더 적은 수의 항목을 선택하고 다시 시도하십시오.
+ImportElasticAnalyzerError: - 참고: 사용자 지정 분석기 오류입니다. 자세한 내용은 로그를 참조하십시오. 기본 분석기를 사용 중입니다. 
+ImportElasticErrorRebuilding: 인덱스를 다시 빌드하는 중 오류가 발생했습니다. 자세한 내용은 로그를 참조하십시오.
+ImportElasticErrorUpdating: 인덱스를 업데이트하는 중 오류가 발생했습니다. 자세한 내용은 로그를 참조하십시오.
+ImportElasticIndexRebuilt x@Text: 인덱스가 성공적으로 다시 빌드됨 #{x}
+ImportElasticIndexUpdated x@Text: 인덱스가 성공적으로 업데이트됨 #{x}
+ImportElasticNoPagesFound: 데이터베이스에 페이지가 없음 - 인덱스를 재설정합니다.
+ImportElasticNoPagesInBundle: 업로드할 페이지가 없음
 ImportInvalidPassword: 잘못된 암호
-ImportRatingsOneRating: 1 평가
+ImportRatingsOneRating: 1등급
 ImportRatingsRatings: 등급
-ImportRolesPermissionDenied: 권한이 거부
-ImportSearchNoCategoriesUploaded: 없음 카테고리 XML 파일을 업로드하지
-ImportSearchUnknownTopicLink: *** 알 수없는 주제 링크 ***
-ImportUsersCaptchaError: 잘못된 reCAPTCHA를
-ImportUsersCaptchaParseError: reCAPTCHA를 오류
-ImportUsersEmailFieldError: 찾을 수 없습니다 이메일 필드입니다.
+ImportRolesPermissionDenied: 권한이 거부됨
+ImportSearchNoCategoriesUploaded: 업로드한 범주 XML 파일 없음
+ImportSearchUnknownTopicLink: *** 알 수 없는 항목 링크 ***
+ImportUsersCaptchaError: 잘못된 reCAPTCHA 
+ImportUsersCaptchaParseError: reCAPTCHA 오류
+ImportUsersEmailFieldError: 이메일 필드가 없습니다.
 ImportUsersFldEmail: 이메일
-ImportUsersFldFirstName: 첫 번째 이름
+ImportUsersFldFirstName: 이름
 ImportUsersFldLastName: 성
-ImportUsersFldPassword: 비밀번호
-ImportUsersFldReenterPass: 다시 입력 비밀
-ImportUsersInvalidPass: 잘못된 암호: 선택한 암호는 적어도 한 대문자, 1 소문자, 1 특수 문자, 1 번호를 포함하여 8 자 이상이어야합니다.
-LoggedInAs 이메일 @ 텍스트: # {전자 우편}로 기록됩니다.
-Manuals: 매뉴얼
+ImportUsersFldPassword: 암호
+ImportUsersFldReenterPass: 암호 재입력
+ImportUsersInvalidPass: 잘못된 암호: 선택한 암호는 8자 이상이어야 하며 최소 대문자 1개, 소문자 1개, 특수 문자 1개 및 숫자 1개를 포함해야 합니다.
+LoggedInAs email@Text: #{email}(으)로 로그인되었습니다.
+Manuals: 설명서
 PDFPage: 페이지
-ProductDocumentationSplashTitle: 제품 설명서
+ProductDocumentationSplashTitle: 제품 설명서 
 PublishHowto: 게시
-ResultsPerPage: 페이지 당 결과
-ResultsPerPageShow: 페이지 당 표시 XX
-Search: 검색 제품 설명서
-SearchContent:이 콘텐츠를 검색
-SearchHome: 검색 제품 설명서
-ShowTOC: 내용의 테이블 표시
-SSOLoginParamError는: SSO 로그인 매개 변수에 오류가 발생했습니다
-SSOLoginTryAgain:과에 다시 로그인 시도
-SwitchLang: 언​​어 변경
-TemplaesBundlesTitle: 문서 라이브러리
+ResultsPerPage: 페이지당 결과
+ResultsPerPageShow: 페이지당 xx개 표시
+Search: 제품 설명서 검색
+SearchContent: 이 콘텐츠 검색
+SearchHome: 제품 설명서 검색
+ShowTOC: 목차 표시
+SSOLoginParamError: SSO 로그인 매개 변수에 오류가 있습니다.
+SSOLoginTryAgain: 다음을 사용하여 다시 로그인하십시오.
+SwitchLang: 언어 변경
+TemplaesBundlesTitle: 설명서 라이브러리
 TemplateAddHelperCancel: 취소
 TemplateAddHelperSave: 저장
-TemplateAddHelperSaveAndClose: 저장 후 닫기
+TemplateAddHelperSaveAndClose: 저장 및 닫기
 TemplateAddUserAddUser: 사용자 추가
 TemplateAddUserCancel: 취소
-TemplateAddUserPasswordMessage는: 비밀번호는 적어도 한 대문자, 1 소문자, 1 특수 문자, 1 번호를 포함하여 8 자 이상이어야합니다.
-TemplateAdminArticleManagement: 제 관리
+TemplateAddUserPasswordMessage: 암호는 8자 이상이어야 하며 최소 대문자 1개, 소문자 1개, 특수 문자 1개 및 숫자 1개를 포함해야 합니다.
+TemplateAdminArticleManagement: 문서 관리
 TemplateAdminContentRoleGroups: 콘텐츠 역할 그룹
-TemplateAdminCSHConfigFile: 다운로드하거나 CSH 구성 파일을 업데이트
-TemplateAdminElasticReindex는: 검색 색인을 다시 작성
-TemplateAdminExportComments 수출 댓글
-TemplateAdminExportRatings 수출 등급
-TemplateAdminManageManuals는: 매뉴얼 관리
-TemplateAdminManageResourceManuals: 자원 패키지 관리
-TemplateAdminResourceIdCsv: ResourceIds Excel 파일을 다운로드
+TemplateAdminCSHConfigFile: CSH 구성 파일 다운로드 또는 업데이트
+TemplateAdminElasticReindex: 검색 인덱스 다시 만들기
+TemplateAdminExportComments: 설명 내보내기
+TemplateAdminExportRatings: 등급 내보내기
+TemplateAdminManageManuals: 설명서 관리
+TemplateAdminManageResourceManuals: 리소스 패키지 관리
+TemplateAdminResourceIdCsv: ResourceIds Excel 파일 다운로드
 TemplateAdminSitemap: 사이트 맵 관리
-TemplateAdminSubjectSchemeLocalization: 제목 계획의 현지화 관리
+TemplateAdminSubjectSchemeLocalization: 주제 체계 지역화 관리
 TemplateAdminTitle: 관리
-TemplateAdminUploadCategoryXML: 장르 XML 파일 관리
-TemplateAdminUploadCategoryXml: 새 카테고리 XML 파일을 업로드
-TemplateAdminUploadNewLangFile: 새 기본 Languge 코드 파일을 업로드
-TemplateAdminUploadSubjectScheme는 주제: 계획 관리
+TemplateAdminUploadCategoryXML: 범주 XML 파일 관리
+TemplateAdminUploadCategoryXml: 새 범주 XML 파일 업로드
+TemplateAdminUploadNewLangFile: 새 기본 언어 코드 파일 업로드
+TemplateAdminUploadSubjectScheme: 주제 체계 관리
 TemplateAdminUserGroups: 사용자 그룹
 TemplateAdminUserManagement: 사용자 관리
 TemplateAdminUserRoles: 사용자 역할
 TemplateBundlePageCollapse: 축소
-TemplateBundlePageCollapseTooltip: 모든 타이틀 축소
-TemplateBundlePageComments: 댓글
-TemplateBundlePageContents: 내용
+TemplateBundlePageCollapseTooltip: 모든 제목 축소
+TemplateBundlePageComments: 설명
+TemplateBundlePageContents: 목차
 TemplateBundlePageExpand: 확장
-TemplateBundlePageExpandTooltip: 목차를 확장
+TemplateBundlePageExpandTooltip: 목차 확장
 TemplateBundlePageFeedback: 피드백
-TemplateBundlePageFeedbackThankYou: 감사합니다! 여러분의 의견을 보내졌다.
-TemplateBundlePageFeedbackTooltip: 의견 제출
-TemplateBundlePageFilterTitle 하나 이상의 옵션을 선택
+TemplateBundlePageFeedbackThankYou: 감사합니다. 의견이 전달되었습니다. 
+TemplateBundlePageFeedbackTooltip: 피드백 제출
+TemplateBundlePageFilterTitle: 하나 이상의 옵션 선택
 TemplateBundlePageNext: 다음
 TemplateBundlePageNextTopicTooltip: 다음 항목으로 이동
-TemplateBundlePageNo: 없음
-TemplateBundlePagePrevious: 이전
+TemplateBundlePageNo: 아니요
+TemplateBundlePagePrevious: 이전 
 TemplateBundlePagePrevTopicTooltip: 이전 항목으로 이동
 TemplateBundlePagePrint: 인쇄
-TemplateBundlePagePrintTooltip: 인쇄 주제
-TemplateBundlePagePrivacy: 귀하의 개인 정보를 보호하기 위해, 당신의 의견에 연락처 정보를 포함하지 않습니다. 개인 정보 보호 정책을 검토합니다.
-TemplateBundlePageProvideFeedbackTooltip: 의견 제공
+TemplateBundlePagePrintTooltip: 항목 인쇄
+TemplateBundlePagePrivacy: 개인 정보를 보호하려면 피드백에 연락처 정보를 포함하지 마십시오. 개인 정보 보호 정책을 검토하십시오.
+TemplateBundlePageProvideFeedbackTooltip: 피드백 제공
 TemplateBundlePageSaveAsPDF: PDF로 저장
 TemplateBundlePageSavePDFTooltip: PDF로 저장
-TemplateBundlePageSaveSelectedTopic: 선택 냄 주제
-TemplateBundlePageSaveSelectedTopicAndSubtopics는: 선정 된 주제와 하위 주제를 저장
-TemplateBundlePageSeeAlso 참조:
+TemplateBundlePageSaveSelectedTopic: 선택 항목 저장
+TemplateBundlePageSaveSelectedTopicAndSubtopics: 선택 항목 및 하위 항목 저장
+TemplateBundlePageSeeAlso: 참조
 TemplateBundlePageSend: 보내기
 TemplateBundlePageSendLink: 보내기
-TemplateBundlePageSendLinkTooltip가: 주제로 링크 보내기
+TemplateBundlePageSendLinkTooltip: 항목에 대한 링크 보내기
 TemplateBundlePageSubmit: 제출
-TemplateBundlePageWasThisInformationHelpful:이 정보가 도움이 되었습니까?
+TemplateBundlePageWasThisInformationHelpful: 이 정보가 유용합니까?
 TemplateBundlePageYEs: 예
-TemplateBundlesDeleteLanguage: 언어를 삭제
-TemplateBundlesDeleteManual: 수동 삭제
-TemplateBundlesDownload: 다운로드 번들
+TemplateBundlesDeleteLanguage: 언어 삭제
+TemplateBundlesDeleteManual: 설명서 삭제
+TemplateBundlesDownload: 번들 다운로드
 TemplateBundlesDownloadClassification: 분류 XML 다운로드
 TemplateBundlesHiddenBundle: 숨겨진 설명서
-TemplateBundlesSearchManuals: 검색 매뉴얼
-TemplateBundlesUploadClassification: 업로드 분류 XML
-TemplateClassificationForManual: 설명서
-TemplateClassificationUploadClassificationMap: 업로드 분류지도 XML
-TemplateClassificationWarnReindex: 참고: 분류지도를 업로드하면 전체 사이트를 다시 색인하게됩니다. 이 작업은 몇 분 정도 걸릴 수 있습니다.
+TemplateBundlesSearchManuals: 설명서 검색
+TemplateBundlesUploadClassification: 분류 XML 업로드
+TemplateClassificationForManual: 설명서:
+TemplateClassificationUploadClassificationMap: 분류 맵 XML 업로드
+TemplateClassificationWarnReindex: 참고: 분류 맵을 업로드하면 전체 사이트가 다시 인덱싱됩니다. 이 작업을 완료하는 데 몇 분 정도 걸릴 수 있습니다.
 TemplateContentRolesCRGroups: 콘텐츠 역할 그룹
-TemplateContentRolesDefineNewCR는: 새로운 콘텐츠 역할을 정의
+TemplateContentRolesDefineNewCR: 새 콘텐츠 역할 정의
 TemplateDefaultLayoutAdministration: 관리
-TemplateDefaultLayoutArticles: 기사
-TemplateDefaultLayoutBrowseDocumentation: 검색
-TemplateDefaultLayoutDocumentation: 문서 라이브러리
+TemplateDefaultLayoutArticles: 문서
+TemplateDefaultLayoutBrowseDocumentation: 찾아보기
+TemplateDefaultLayoutDocumentation: 설명서 라이브러리
 TemplateDefaultLayoutHome: 홈
-TemplateDefaultLayoutLanguages​​: 미국 - 영어
+TemplateDefaultLayoutLanguages: United States - English
 TemplateDefaultLayoutLinksCareers: 채용 정보
-TemplateDefaultLayoutLinksContactUs: 문의
-TemplateDefaultLayoutLinksIntelCorp는: 인텔을 ©
-TemplateDefaultLayoutLinksLegalContractsandTerms: 법률 계약 및 약관
-TemplateDefaultLayoutLinksLegalNotices: 법적 고지
+TemplateDefaultLayoutLinksContactUs: 문의처
+TemplateDefaultLayoutLinksIntelCorp: © Intel Corporation
+TemplateDefaultLayoutLinksLegalContractsandTerms: 법적 계약 및 기간
+TemplateDefaultLayoutLinksLegalNotices: 법적 고지 사항 
 TemplateDefaultLayoutLinksSiteMap: 사이트 맵
 TemplateDefaultLayoutLinksWebsiteFeedback: 웹 사이트 피드백
-TemplateDefaultLayoutLogout는: 아웃
-TemplateDefaultLayoutProfile: 프로필
-TemplateDefaultLayoutVideos: 영화
-TemplateFilterCurrentPublication: 현재 공개
+TemplateDefaultLayoutLogout: 로그아웃
+TemplateDefaultLayoutProfile: 프로파일
+TemplateDefaultLayoutVideos: 비디오
+TemplateFilterCurrentPublication: 현재 게시
 TemplateRequestResetPasswordEmail: 이메일
-TemplateRequestResetPasswordSubmit: 요청 비밀번호 재설정 이메일
-TemplateSearchCurrentPublication 이름 @ 텍스트: 현재 검색은 '# {이름}'공개로 제한됩니다
-TemplateSearchPageClearTooltip: 클리어 필터
-TemplateSearchPageFirstPageTooltip: 첫 페이지로 이동
+TemplateRequestResetPasswordSubmit: 암호 재설정 요청 이메일
+TemplateSearchCurrentPublication name@Text: 현재 검색이 '#{name}' 게시로 제한됩니다.
+TemplateSearchPageClearTooltip: 필터 지우기
+TemplateSearchPageFirstPageTooltip: 첫 번째 페이지로 이동
 TemplateSearchPageLastPageTooltip: 마지막 페이지로 이동
 TemplateSearchPageNextPageTooltip: 다음 페이지로 이동
 TemplateSearchPagePrevPageTooltip: 이전 페이지로 이동
-TemplateSearchPublicationTitle: 공개
-TemplateSearchSortbyCreatedAsc: 날짜 만든 - 오름차순
-TemplateSearchSortbyCreatedDec은: 날짜 만든 - 분야별
+TemplateSearchPublicationTitle: 게시
+TemplateSearchSortbyCreatedAsc: 만든 날짜 - 오름차순
+TemplateSearchSortbyCreatedDec: 만든 날짜 - 내림차순
 TemplateSearchSortbyScore: 점수
-TemplateSearchSortbyUpdatedAsc: 날짜 추가 - 오름차순
-TemplateSearchSortbyUpdatedDec은: 날짜 추가 - 분야별
+TemplateSearchSortbyUpdatedAsc: 추가된 날짜 - 오름차순
+TemplateSearchSortbyUpdatedDec: 추가된 날짜 - 내림차순
 TemplateSearchSortbyViews: 조회 수
-TemplatesSearchPageClear: 클리어
-TemplatesSearchPageCurrentResults: ZZZ의 결과 XX-YY
-TemplatesSearchPageRefilneResults: 조정 결과
-TemplatesSearchPageResultUpdated: 업데이트
-TemplateUploadSitemapDisable: 사용 안함 사이트 맵
-TemplateUploadSitemapDisabled: 사이트 맵 비활성화
+TemplatesSearchPageClear: 지우기
+TemplatesSearchPageCurrentResults: 결과 xx-yy/zzz
+TemplatesSearchPageRefilneResults: 결과 구체화
+TemplatesSearchPageResultUpdated: 업데이트됨
+TemplateUploadSitemapDisable: 사이트 맵 사용 안 함
+TemplateUploadSitemapDisabled: 사이트 맵을 사용하지 않도록 설정함
 TemplateUploadSitemapDisabledWord: 사용 안 함
-TemplateUploadSitemapDownloadSitemap: 다운로드 sitemap.xml의
+TemplateUploadSitemapDownloadSitemap: sitemap.xml 다운로드
 TemplateUploadSitemapEnable: 사이트 맵 사용
-TemplateUploadSitemapEnabled: 사이트 맵 사용
+TemplateUploadSitemapEnabled: 사이트 맵을 사용하도록 설정함
 TemplateUploadSitemapEnabledWord: 사용
-TemplateUploadSitemapLegend: 업로드 sitemap.xml의
-TemplateUploadSitemapStatus는 @ 문자를 STS: 사이트 맵 #입니다 {STS}
+TemplateUploadSitemapLegend: sitemap.xml 업로드
+TemplateUploadSitemapStatus sts@Text: 사이트 맵이 #{sts}입니다.
 TemplTemplateBundlePageProvideFeedbackTooltip: 피드백 제출
 TextPass txt@Text: #{txt}
 Upload: 업로드
-UploadLink: 업로드 게시
-YesodAuthStormPathSSOErrorOccured: 오류가 발생했습니다
-YesodAuthStormPathSSOLoginParamError: SSO 로그인 매개 변수에 오류가 발생했습니다
-YesodAuthStormPathSSOLoginTryAgain:과에 다시 로그인 시도
+UploadLink: 게시물 업로드
+YesodAuthStormPathSSOErrorOccured: 오류 발생
+YesodAuthStormPathSSOLoginParamError: SSO 로그인 매개 변수에 오류가 있습니다.
+YesodAuthStormPathSSOLoginTryAgain: 다음을 사용하여 다시 로그인하십시오.

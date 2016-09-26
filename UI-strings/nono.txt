@@ -1,278 +1,278 @@
-AdvancedSearch: Avansert søk
+AdvancedSearch: Avansert søk 
 AdvancedSearchTooltip: Velg innholdsfiltre
-BreadcrumbsProductDocumentationHome: Produktdokumentasjon Hjem
+BreadcrumbsProductDocumentationHome: Hjemmeside for produktdokumentasjon
 BreadcrumbsSearch: Søk
 Cancel: Avbryt
 Close: Lukk
 DeleteText: Slett
 ErrorOccured: Det oppstod en feil
-FilterUsers: Filtrer brukere:
+FilterUsers: Filterbrukere:
 FoundationLoginOnly: Logg på
-FoundationLoginRegister: Logg på / Registrer
-HandlerAdminOnlyAdmin: Access denied
-HandlerBundlePageAltCSHResult: Alternativ CSH Emne Funnet
-HandlerCategoriesCategoryXMLFileUploaded Kategori XML File Lastet opp
-HandlerClassificationUpdated: Klassifisering kartet oppdatert
-HandlerClassificationXMLFile: Oppdatert Klassifisering kart
+FoundationLoginRegister: Logg på / registrer
+HandlerAdminOnlyAdmin: Ingen tilgang
+HandlerBundlePageAltCSHResult: Alternativt CSH-emne funnet
+HandlerCategoriesCategoryXMLFileUploaded: XML-fil for kategori er lastet opp
+HandlerClassificationUpdated: Klassifiseringskart oppdatert
+HandlerClassificationXMLFile: Oppdatert klassifiseringskart
 HandlerCommentsComments: kommentarer
 HandlerCommentsOneComment: 1 kommentar
-HandlerCommentsPostedCommentOn: postet en kommentar på:
-HandlerContentRolesAreYouSureDelete: Er du sikker på at du vil slette dette innholdet rolle?
-HandlerContentRolesCRDeleted: Innhold Role slettet
-HandlerContentRolesErrorDeleting: Det oppstod et problem. Innholdet rolle ble ikke slettet.
-HandlerCshAlternateCSHTopicFound: Alternativ CSH Emne funnet
-HandlerCshCSHRulesUpdated: CSH Regler Oppdatert
-HandlerCshInvalidAliases: Ugyldige Alias ​​Keys Funnet i CSH URL
-HandlerCshInvalidCSHRulesFile: Ugyldig CSH Regler fil
-HandlerCshNewCshFile: Last opp ny CSH Config File
-HandlerCshReservedAliasesUsed: Reservert aliaser brukt i CSH Config File
+HandlerCommentsPostedCommentOn: publiserte en kommentar til:
+HandlerContentRolesAreYouSureDelete: Er du sikker på at du vil slette denne innholdsrollen?
+HandlerContentRolesCRDeleted: Innholdsrolle slettet
+HandlerContentRolesErrorDeleting: Det oppstod et problem. Innholdsrollen ble ikke slettet.
+HandlerCshAlternateCSHTopicFound: Alternativt CSH-emne funnet
+HandlerCshCSHRulesUpdated: CSH-regler oppdatert
+HandlerCshInvalidAliases: Ugyldige alias-nøkler funnet i CSH-URL
+HandlerCshInvalidCSHRulesFile: Ugyldig CSH-regelfil
+HandlerCshNewCshFile: Last opp ny CSH-konfigurasjonsfil
+HandlerCshReservedAliasesUsed: Reserverte aliaser ble brukt i CSH-konfigurasjonsfil
 HandlerCustomError400H2: 400
-HandlerCustomError400H3: Bad Request
+HandlerCustomError400H3: Feil ved forespørsel
 HandlerCustomError401H2: 401
-HandlerCustomError401H3: Uautorisert
+HandlerCustomError401H3: Ikke autorisert
 HandlerCustomError403H2: 403
-HandlerCustomError403H3: Forbidden
+HandlerCustomError403H3: Forbudt
 HandlerCustomError404H2: 404
-HandlerCustomError404H3: Not Found
+HandlerCustomError404H3: Ikke funnet
 HandlerCustomError405H2: 405
-HandlerCustomError405H3: Metode ikke tillatt
+HandlerCustomError405H3: Metoden er ikke tillatt
 HandlerCustomError500H2: 500
-HandlerCustomError500H3: Internal Server Error
-HandlerFontoDocumentSaved: Dokument lagret
-HandlerFontoErrorGeneratingUUID: Feil ved generering UUID
-HandlerFontoErrorParsingID: Feil parsing ID
-HandlerFontoErrorParsingXML: Feil parsing XML
-HandlerFontoErrorParsingXMLToDocument: Feil Parsing XML til Document
-HandlerFontoNoFileFound: Fil ikke funnet
-HandlerFontoNoIDFound: ID ikke funnet
-HandlerFontoUntitledFromCursor: Untitled - fra Markør
+HandlerCustomError500H3: Intern serverfeil
+HandlerFontoDocumentSaved: Dokument er lagret
+HandlerFontoErrorGeneratingUUID: Feil ved generering av UUID
+HandlerFontoErrorParsingID: Feil ved analysering av ID
+HandlerFontoErrorParsingXML: Feil ved analysering av XML
+HandlerFontoErrorParsingXMLToDocument: Feil ved analysering av XML til dokument
+HandlerFontoNoFileFound: Finner ikke filen
+HandlerFontoNoIDFound: Finner ikke ID
+HandlerFontoUntitledFromCursor: Uten navn – fra markør
 HandlerGroupsErrorReadingGroupID: Feil ved lesing av gruppe-ID
-HandlerGroupsGroupUpdated: Gruppe Oppdatert
-HandlerGroupsMustUseUniqueGroupName: Må bruke unik gruppe navn
-HandlerGroupsNoGroupNameFound: Ingen gruppenavn funnet
+HandlerGroupsGroupUpdated: Gruppe oppdatert
+HandlerGroupsMustUseUniqueGroupName: Unikt gruppenavn må brukes
+HandlerGroupsNoGroupNameFound: Finner ikke gruppenavn
 HandlerGroupsUnableAssignRole: Kan ikke tildele rolle
 HandlerHowtoContent: Innhold
 HandlerHowtoDeleted: Artikkel slettet
-HandlerHowtoInsufficientPermissions: Utilstrekkelig tilgang til å redigere denne artikkel
+HandlerHowtoInsufficientPermissions: Manglende tillatelser til å redigere denne artikkelen
 HandlerHowtoSaved: Lagret
 HandlerHowtoTitle: Tittel
-HandlerHtmlEmptyMyDocs: Tomme MyDocs
-HandlerLangDefaultLanguageCodeFileUpdated: Oppdatert Standardspråk kodefil
-HandlerLangNewLangFile: Last opp ny Standardspråk kodefil
-HandlerMyPubSourcePublication: Kilde Publication
-HandlerProfileDisplayName: Navne
+HandlerHtmlEmptyMyDocs: Tøm MyDocs
+HandlerLangDefaultLanguageCodeFileUpdated: Oppdatert standard språkkodefil
+HandlerLangNewLangFile: Last opp ny standard språkkodefil
+HandlerMyPubSourcePublication: Kildepublikasjon
+HandlerProfileDisplayName: Visningsnavn
 HandlerProfileScreenName: Skjermnavn
-HandlerProfileUpdated: profil oppdatert
-HandlerProfileUsernameInUse: Brukernavn foreligger
-HandlerRatingsInvalidRating: Ugyldig rangering
-HandlerRatingsRatingRecorded: Din vurdering har blitt registrert
-HandlerRatingsRatingUpdated: Din vurdering har blitt oppdatert
-HandlerRolesErrorReadingRoleID: Feil ved lesing rolle ID
-HandlerRolesMustUseUniqueRoleName: Bruk en unik rolle navn
-HandlerRolesNoRoleNameFound: Ingen rolle navn funnet
+HandlerProfileUpdated: Profil oppdatert
+HandlerProfileUsernameInUse: Brukernavnet finnes
+HandlerRatingsInvalidRating: Ugyldig vurdering
+HandlerRatingsRatingRecorded: Vurderingen er registrert
+HandlerRatingsRatingUpdated: Vurderingen er oppdatert
+HandlerRolesErrorReadingRoleID: Feil ved lesing av rolle-ID
+HandlerRolesMustUseUniqueRoleName: Bruk et unikt rollenavn
+HandlerRolesNoRoleNameFound: Finner ikke rollenavn
 HandlerRolesNotEnoughAdminUsersRemaining: Kan ikke tildele brukere
-HandlerRolesSelectedPermissionsLessThenDefault: Kan ikke tildele tillatelser: Valgt tilgangen er mindre enn standard tillatelsessett
+HandlerRolesSelectedPermissionsLessThenDefault: Kan ikke tildele tillatelser: Valgte tillatelser er færre enn standard tillatelsessett
 HandlerSearchAllResults: Alle resultater
 HandlerSearchNoResults: Ingen resultater
-HandlerSearchOneResult: Et resultat
-HandlerSitemapFile: Sitemap-fil
-HandlerSitemapFileUploaded: Oppdatert Sitemap vellykket.
-HandlerSubjectSchemeInvalidSubjectSchemeLocalizationFile: Ugyldig Subject Scheme Lokalisering File
-HandlerSubjectSchemeLangDeleted lang @ Tekst: # {lang} slettet Lokalisering File
+HandlerSearchOneResult: Ett resultat
+HandlerSitemapFile: Områdekartfil
+HandlerSitemapFileUploaded: Områdekart er oppdatert.
+HandlerSubjectSchemeInvalidSubjectSchemeLocalizationFile: Ugyldig plasseringsfil for emneskjema
+HandlerSubjectSchemeLangDeleted lang@Text: #{lang} slettet plasseringsfil
 HandlerSubjectSchemeLangsAvailable: Tilgjengelige språk
-HandlerSubjectSchemeLangsDeleteConfirm: Er du sikker på å ønske å slette lokalisering fil?
-HandlerSubjectSchemeLangsDeleteError: Feil ved sletting av lokalisering fil.
-HandlerSubjectSchemeLangsNewFile: Last opp ny SubjectScheme Lokalisering File
-HandlerSubjectSchemeLangUpdated lang @ Tekst: # {lang} Oppdatert Lokalisering File
-HandlerSubjectSchemeLangUploaded lang @ Tekst: # {lang} Lastet opp Lokalisering File
-HandlerSubjectSchemeProblemOccurredWhileUploadingSubjectScheme: Det oppstod et problem under opplasting Emne ordningen.
-HandlerSubjectSchemeSubjectSchemeUploadedSuccessfully: Subject ordningen lastet opp
-HandlerSubjectSchemeUnknownLanguageCode: Ukjent Språkkode
-HandlerSubjectSchemeUpdated: Subject ordningen oppdatert
-HandlerSubjectSchemeXMLFile: Subject ordningen XML-fil
-HandlerUploadBundleBundle: bundle
-HandlerUploadBundleDeleteError x @ Tekst: Feil ved sletting # {x}
-HandlerUploadBundleDeleteSuccess x @ Tekst: Vellykket sletting # {x}
+HandlerSubjectSchemeLangsDeleteConfirm: Er du sikker på at du vil slette plasseringsfilen? 
+HandlerSubjectSchemeLangsDeleteError: Feil ved sletting av lokaliseringsfil.
+HandlerSubjectSchemeLangsNewFile: Last opp ny emneskjema-lokaliseringsfil
+HandlerSubjectSchemeLangUpdated lang@Text: #{lang} oppdaterte plasseringsfil
+HandlerSubjectSchemeLangUploaded lang@Text: #{lang} lastet opp plasseringsfil 
+HandlerSubjectSchemeProblemOccurredWhileUploadingSubjectScheme: Det oppstod et problem ved opplasting av emneskjemaet.
+HandlerSubjectSchemeSubjectSchemeUploadedSuccessfully: Emneskjemaet er lastet opp
+HandlerSubjectSchemeUnknownLanguageCode: Ukjent språkkode
+HandlerSubjectSchemeUpdated: Emneskjema oppdatert
+HandlerSubjectSchemeXMLFile: Emneskjema XML-fil
+HandlerUploadBundleBundle: pakke
+HandlerUploadBundleDeleteError x@Text: Feil ved sletting av #{x}
+HandlerUploadBundleDeleteSuccess x@Text: #{x} er slettet
 HandlerUploadBundleError: Feil
-HandlerUploadBundleErrorPleaseUpdateSuiteBundleVersion: Feil - oppdater din pakke versjon
-HandlerUploadBundleNoContentToDelete x @ Tekst: Nei innhold slette i # {x}
-HandlerUploadBundleOneBundleError: Feil ved bestands lastet bundle
-HandlerUploadBundlePublicationUploadedSuccessfully: Publisering lastet opp
-HandlerUploadBundleSheaf: nek
-HandlerUsersAddedSuccess: Bruker lagt
-HandlerUsersBadEmail: Denne e-postadressen er ikke registrert
-HandlerUsersCRCreated: Innhold Role Gruppen ble opprettet
-HandlerUsersCRGroupNameInUse: Innhold Rollenavnet er allerede i bruk
-HandlerUsersCRSetGroupName: Vennligst angi et navn for denne innholdsrollegruppe
-HandlerUsersCRUpdated: Innhold Role Gruppe oppdatert
-HandlerUsersDefineCR: Definer nytt innhold rollegruppe
-HandlerUsersDeleteSuccess: Deleted User vellykket
-HandlerUsersEmailError: Feil å sende passord reset e-post
-HandlerUsersInvalidToken: Ugyldig Token
-HandlerUsersNoResetToken: Ingen reset token
-HandlerUsersNoRoleIdFound: Ingen rolle id funnet
-HandlerUsersPasswordEmailSent: reset passord e-post sendt
-HandlerUsersRegisterSuccess: Registrert bruker vellykket
-HandlerUsersResetPasswordError: Feil å tilbakestille passordet
-HandlerUsersRolesUpdated: brukerroller Oppdatert
-HandlerUsersUnableToAssignUserPermissionRole: Kan ikke tildele brukeren tillatelse rolle
+HandlerUploadBundleErrorPleaseUpdateSuiteBundleVersion: Feil. Oppdater pakkeversjonen
+HandlerUploadBundleNoContentToDelete x@Text: Det er ikke noe innhold å slette i #{x} 
+HandlerUploadBundleOneBundleError: Feil ved utfylling av opplastet pakke
+HandlerUploadBundlePublicationUploadedSuccessfully: Publikasjon er lastet opp
+HandlerUploadBundleSheaf: sheaf
+HandlerUsersAddedSuccess: Brukeren er lagt til
+HandlerUsersBadEmail: Den e-postadressen er ikke registrert
+HandlerUsersCRCreated: Innholdsrollegruppe opprettet
+HandlerUsersCRGroupNameInUse: Innholdsrollenavnet er allerede i bruk
+HandlerUsersCRSetGroupName: Angi et navn for denne innholdsrollegruppen
+HandlerUsersCRUpdated: Innholdsrollegruppe oppdatert
+HandlerUsersDefineCR: Definer ny innholdsrollegruppe
+HandlerUsersDeleteSuccess: Bruker er slettet
+HandlerUsersEmailError: Feil ved sending av e-post om tilbakestilling av passord
+HandlerUsersInvalidToken: Ugyldig symbol
+HandlerUsersNoResetToken: Ingen tilbakestilte symboler
+HandlerUsersNoRoleIdFound: Finner ikke rolle-ID
+HandlerUsersPasswordEmailSent: E-post for tilbakestilling av passord er sendt
+HandlerUsersRegisterSuccess: Bruker er registrert
+HandlerUsersResetPasswordError: Feil ved tilbakestilling av passord
+HandlerUsersRolesUpdated: Brukerroller oppdatert
+HandlerUsersUnableToAssignUserPermissionRole: Kan ikke tildele brukertillatelsesrolle
 HandlerUsersUnknownError: Ukjent feil
-HideTOC: Skjul Innhold
-ImportAddHelperProblemRunningAddHelper: Problem kjører addHelper
-ImportBundlesTooManyTopics num @ Int: Maksimalt # {showet num} emner kan bli publisert. Velg færre emner og prøv igjen.
-ImportElasticAnalyzerError: - Merk: Custom analysator feil, se logg for detaljer. Ved hjelp av standard analysator.
-ImportElasticErrorRebuilding: Feil ombygging index - se logg for flere detaljer.
-ImportElasticErrorUpdating: Feil ved oppdatering av indeks - se logg for flere detaljer.
-ImportElasticIndexRebuilt x @ Tekst: Indeks vellykket ombygd # {x}
-ImportElasticIndexUpdated x @ Tekst: Indeks oppdatert # {x}
-ImportElasticNoPagesFound: Ingen Sider som finnes i databasen - index reset.
-ImportElasticNoPagesInBundle: Ingen Sider som finnes i opplasting
+HideTOC: Skjul innholdsfortegnelse
+ImportAddHelperProblemRunningAddHelper: Problem ved kjøring av addHelper
+ImportBundlesTooManyTopics num@Int: Maks #{show num} emner kan publiseres. Velg færre emner og prøv på nytt.
+ImportElasticAnalyzerError: - Merk: Feil ved tilpasset analyse. Loggen inneholder detaljer. Med standard analyse. 
+ImportElasticErrorRebuilding: Feil ved bygging av indeks på nytt. Loggen inneholder mer informasjon.
+ImportElasticErrorUpdating: Feil ved oppdatering av indeks. Loggen inneholder mer informasjon.
+ImportElasticIndexRebuilt x@Text: Indeks er bygd på nytt #{x}
+ImportElasticIndexUpdated x@Text: Indeks er oppdatert #{x}
+ImportElasticNoPagesFound: Fant ingen sider i databasen. Indeks er tilbakestilt.
+ImportElasticNoPagesInBundle: Finner ingen sider i opplastet innhold
 ImportInvalidPassword: Ugyldig passord
-ImportRatingsOneRating: en vurdering
-ImportRatingsRatings: Ratings
-ImportRolesPermissionDenied: Permission denied
-ImportSearchNoCategoriesUploaded: Ingen kategorier XML fil lastet opp
-ImportSearchUnknownTopicLink: *** ukjent tema lenke ***
-ImportUsersCaptchaError: Ugyldig reCAPTCHA
-ImportUsersCaptchaParseError: reCAPTCHA Feil
-ImportUsersEmailFieldError: Ingen e-feltet funnet.
+ImportRatingsOneRating: 1 Vurdering
+ImportRatingsRatings: Vurderinger
+ImportRolesPermissionDenied: Tillatelse avslått
+ImportSearchNoCategoriesUploaded: Ingen XML-fil for kategori er lastet opp
+ImportSearchUnknownTopicLink: *** ukjent emnekobling ***
+ImportUsersCaptchaError: Ugyldig reCAPTCHA 
+ImportUsersCaptchaParseError: reCAPTCHA-feil
+ImportUsersEmailFieldError: Fant ikke e-postfelt.
 ImportUsersFldEmail: E-post
-ImportUsersFldFirstName: fornavn
+ImportUsersFldFirstName: Fornavn
 ImportUsersFldLastName: Etternavn
 ImportUsersFldPassword: Passord
-ImportUsersFldReenterPass: Ønsket passord
-ImportUsersInvalidPass: Ugyldig passord valgt passord må være minst 8 tegn, inkludert minst en stor bokstav, en liten bokstav, en spesiell karakter, og en rekke.
-Loggedinas epost @ Tekst: Logget inn som # {email}.
+ImportUsersFldReenterPass: Oppgi passord på nytt
+ImportUsersInvalidPass: Ugyldig passord: Valgt passord må være på minst åtte tegn, inkludert minst én stor bokstav, én liten bokstav, ett spesialtegn og ett tall.
+LoggedInAs email@Text: Logget inn som #{email}.
 Manuals: Håndbøker
 PDFPage: Side
-ProductDocumentationSplashTitle: Produktdokumentasjon
-PublishHowto: Publish
-Resultsperpage: Resultat pr side
+ProductDocumentationSplashTitle: Produktdokumentasjon 
+PublishHowto: Publiser
+ResultsPerPage: Resultater per side
 ResultsPerPageShow: Vis xx per side
-Search: Søk Produktdokumentasjon
-SearchContent: Søk dette innholdet
-SearchHome: Søk Produktdokumentasjon
-ShowTOC: Vis Innhold
-SSOLoginParamError: Det oppstod en feil med SSO påloggingsparametrene
-SSOLoginTryAgain: Prøv å logge inn igjen på med
+Search: Søk i produktdokumentasjonen
+SearchContent: Søk i dette innholdet
+SearchHome: Søk i produktdokumentasjonen
+ShowTOC: Vis innholdsfortegnelse
+SSOLoginParamError: Det var en feil med parameterne for enkeltpålogging
+SSOLoginTryAgain: Prøv å logge på med
 SwitchLang: Endre språk
-TemplaesBundlesTitle: Documentation Library
+TemplaesBundlesTitle: Dokumentasjonsbibliotek
 TemplateAddHelperCancel: Avbryt
-TemplateAddHelperSave: Save
+TemplateAddHelperSave: Lagre
 TemplateAddHelperSaveAndClose: Lagre og lukk
 TemplateAddUserAddUser: Legg til bruker
 TemplateAddUserCancel: Avbryt
-TemplateAddUserPasswordMessage: Passord må være minst 8 tegn, inkludert minst en stor bokstav, en liten bokstav, en spesiell karakter, og en rekke.
-TemplateAdminArticleManagement: Artikkel Ledelse
+TemplateAddUserPasswordMessage: Passord må være på minst åtte tegn, inkludert minst én stor bokstav, én liten bokstav, ett spesialtegn og ett tall.
+TemplateAdminArticleManagement: Artikkeladministrasjon
 TemplateAdminContentRoleGroups: Innholdsrollegrupper
-TemplateAdminCSHConfigFile: Last ned eller oppdater CSH Konfigurasjonsfil
+TemplateAdminCSHConfigFile: Last ned eller oppdater CSH-konfigurasjonsfil
 TemplateAdminElasticReindex: Gjenoppbygg søkeindeks
-TemplateAdminExportComments: Eksport Kommentarer
-TemplateAdminExportRatings: Eksportvurderinger
-TemplateAdminManageManuals: Administrer Håndbøker
-TemplateAdminManageResourceManuals: Behandle ressurspakker
-TemplateAdminResourceIdCsv: Last ResourceIds Excel-fil
-TemplateAdminSitemap: Administrer Sitemap
-TemplateAdminSubjectSchemeLocalization: Administrer Subject Scheme Lokalisering
+TemplateAdminExportComments: Eksporter kommentarer
+TemplateAdminExportRatings: Eksporter vurderinger
+TemplateAdminManageManuals: Administrer håndbøker
+TemplateAdminManageResourceManuals: Administrer ressurspakker
+TemplateAdminResourceIdCsv: Last ned Excel-fil med ResourceIds
+TemplateAdminSitemap: Administrer områdekart
+TemplateAdminSubjectSchemeLocalization: Administrer lokalisering av emneskjema
 TemplateAdminTitle: Administrasjon
-TemplateAdminUploadCategoryXML: Administrer Kategori XML-fil
-TemplateAdminUploadCategoryXml: Last opp en ny kategori XML-fil
-TemplateAdminUploadNewLangFile: Last opp en ny Standard languge Kode fil
-TemplateAdminUploadSubjectScheme: Administrer Subject Scheme
+TemplateAdminUploadCategoryXML: Administrer XML-fil med kategori
+TemplateAdminUploadCategoryXml: Last opp en ny XML-fil med kategori
+TemplateAdminUploadNewLangFile: Last opp en ny standard språkkodefil
+TemplateAdminUploadSubjectScheme: Administrer emneskjema
 TemplateAdminUserGroups: Brukergrupper
 TemplateAdminUserManagement: Brukeradministrasjon
-TemplateAdminUserRoles: brukerroller
-TemplateBundlePageCollapse: Lukk
+TemplateAdminUserRoles: Brukerroller
+TemplateBundlePageCollapse: Minimer
 TemplateBundlePageCollapseTooltip: Minimer alle titler
 TemplateBundlePageComments: Kommentarer
 TemplateBundlePageContents: Innhold
 TemplateBundlePageExpand: Utvid
-TemplateBundlePageExpandTooltip: Utvid Innhold
-TemplateBundlePageFeedback: Feedback
-TemplateBundlePageFeedbackThankYou: Takk! Kommentarene ble sendt.
-TemplateBundlePageFeedbackTooltip: Send tilbakemelding
+TemplateBundlePageExpandTooltip: Utvid innholdsfortegnelse
+TemplateBundlePageFeedback: Tilbakemeldinger
+TemplateBundlePageFeedbackThankYou: Mange takk. Kommentarene er sendt. 
+TemplateBundlePageFeedbackTooltip: Sende inn tilbakemeldinger
 TemplateBundlePageFilterTitle: Velg ett eller flere alternativer
 TemplateBundlePageNext: Neste
-TemplateBundlePageNextTopicTooltip: Gå til Neste emne
-TemplateBundlePageNo: Ingen
-TemplateBundlePagePrevious: Forrige
+TemplateBundlePageNextTopicTooltip: Gå til neste emne
+TemplateBundlePageNo: Nei
+TemplateBundlePagePrevious: Forrige 
 TemplateBundlePagePrevTopicTooltip: Gå til forrige emne
-TemplateBundlePagePrint: Print
+TemplateBundlePagePrint: Skriv ut
 TemplateBundlePagePrintTooltip: Skriv ut emne
-TemplateBundlePagePrivacy: For å beskytte personvernet ditt, ikke ta med kontaktinformasjon i tilbakemeldingen. Les våre retningslinjer for personvern.
-TemplateBundlePageProvideFeedbackTooltip: Gi tilbakemelding
+TemplateBundlePagePrivacy: Unngå å ta med kontaktinformasjon i tilbakemeldingen, slik at personvernet ditt opprettholdes. Se retningslinjene våre for personvern.
+TemplateBundlePageProvideFeedbackTooltip: Gi tilbakemeldinger
 TemplateBundlePageSaveAsPDF: Lagre som PDF
 TemplateBundlePageSavePDFTooltip: Lagre som PDF
-TemplateBundlePageSaveSelectedTopic: Lagre valgte emnet
-TemplateBundlePageSaveSelectedTopicAndSubtopics: Lagre valgte emnet og underemner
+TemplateBundlePageSaveSelectedTopic: Lagre det valgte emnet
+TemplateBundlePageSaveSelectedTopicAndSubtopics: Lagre det valgte emnet og underemner
 TemplateBundlePageSeeAlso: Se også
 TemplateBundlePageSend: Send
 TemplateBundlePageSendLink: Send
-TemplateBundlePageSendLinkTooltip: Send Link til Topic
-TemplateBundlePageSubmit: Send
-TemplateBundlePageWasThisInformationHelpful: Var denne informasjonen nyttig?
+TemplateBundlePageSendLinkTooltip: Send kobling til emne
+TemplateBundlePageSubmit: Send inn
+TemplateBundlePageWasThisInformationHelpful: Var denne informasjonen til hjelp for deg?
 TemplateBundlePageYEs: Ja
 TemplateBundlesDeleteLanguage: Slett språk
-TemplateBundlesDeleteManual: Slett manuell
-TemplateBundlesDownload: Last ned bundle
-TemplateBundlesDownloadClassification: Last ned Klassifisering XML
-TemplateBundlesHiddenBundle: Hidden manuell
-TemplateBundlesSearchManuals: Søk Håndbøker
-TemplateBundlesUploadClassification: Last opp Klassifisering XML
-TemplateClassificationForManual: For manuell
-TemplateClassificationUploadClassificationMap: Last opp Klassifisering Map XML
-TemplateClassificationWarnReindex: MERK: Opplasting av en klassifisering Kart vil føre til at hele området for å bli re-indeksert. Dette kan ta flere minutter.
+TemplateBundlesDeleteManual: Slett håndbok
+TemplateBundlesDownload: Last ned pakke
+TemplateBundlesDownloadClassification: Last ned klassifiserings-XML
+TemplateBundlesHiddenBundle: Skjult håndbok
+TemplateBundlesSearchManuals: Søk i håndbøker
+TemplateBundlesUploadClassification: Last opp klassifiserings-XML
+TemplateClassificationForManual: For håndbok
+TemplateClassificationUploadClassificationMap: Last opp klassifiseringskart-XML
+TemplateClassificationWarnReindex: MERK: Opplasting av et klassifiseringskart fører til at hele området indekseres på nytt. Dette kan ta flere minutter.
 TemplateContentRolesCRGroups: Innholdsrollegrupper
-TemplateContentRolesDefineNewCR: Definer nytt innhold Rolle
+TemplateContentRolesDefineNewCR: Definer ny innholdsrolle
 TemplateDefaultLayoutAdministration: Administrasjon
 TemplateDefaultLayoutArticles: Artikler
-TemplateDefaultLayoutBrowseDocumentation: Bla
-TemplateDefaultLayoutDocumentation: Documentation Library
+TemplateDefaultLayoutBrowseDocumentation: Bla gjennom
+TemplateDefaultLayoutDocumentation: Dokumentasjonsbibliotek
 TemplateDefaultLayoutHome: Hjem
 TemplateDefaultLayoutLanguages: United States - English
-TemplateDefaultLayoutLinksCareers: Karriere
+TemplateDefaultLayoutLinksCareers: Jobbmuligheter
 TemplateDefaultLayoutLinksContactUs: Kontakt oss
 TemplateDefaultLayoutLinksIntelCorp: © Intel Corporation
-TemplateDefaultLayoutLinksLegalContractsandTerms: Juridisk Kontrakter og Vilkår
-TemplateDefaultLayoutLinksLegalNotices: Juridiske merknader
-TemplateDefaultLayoutLinksSiteMap: Site Map
-TemplateDefaultLayoutLinksWebsiteFeedback: Tilbakemelding om nettside
+TemplateDefaultLayoutLinksLegalContractsandTerms: Juridiske kontrakter og vilkår
+TemplateDefaultLayoutLinksLegalNotices: Juridiske merknader 
+TemplateDefaultLayoutLinksSiteMap: Områdekart
+TemplateDefaultLayoutLinksWebsiteFeedback: Tilbakemelding om nettsted
 TemplateDefaultLayoutLogout: Logg av
 TemplateDefaultLayoutProfile: Profil
 TemplateDefaultLayoutVideos: Videoer
-TemplateFilterCurrentPublication: Current Publication
+TemplateFilterCurrentPublication: Gjeldende publikasjon
 TemplateRequestResetPasswordEmail: E-post
-TemplateRequestResetPasswordSubmit: Be om passord Reset E-post
-TemplateSearchCurrentPublication navn @ Tekst: Gjeldende søk er begrenset til "# {name} 'publikasjon
-TemplateSearchPageClearTooltip: Fjern Filter
+TemplateRequestResetPasswordSubmit: E-post med forespørsel om tilbakestilling av passord
+TemplateSearchCurrentPublication name@Text: Gjeldende søk er begrenset til publikasjonen #{name}
+TemplateSearchPageClearTooltip: Tøm filtre
 TemplateSearchPageFirstPageTooltip: Gå til første side
 TemplateSearchPageLastPageTooltip: Gå til siste side
 TemplateSearchPageNextPageTooltip: Gå til neste side
 TemplateSearchPagePrevPageTooltip: Gå til forrige side
-TemplateSearchPublicationTitle: Publisering
-TemplateSearchSortbyCreatedAsc: Dato opprettet - Stigende
-TemplateSearchSortbyCreatedDec: Dato opprettet - Synkende
-TemplateSearchSortbyScore: Score
-TemplateSearchSortbyUpdatedAsc: Dato - Stigende
-TemplateSearchSortbyUpdatedDec: Dato - Synkende
+TemplateSearchPublicationTitle: Publikasjon
+TemplateSearchSortbyCreatedAsc: Dato opprettet – stigende
+TemplateSearchSortbyCreatedDec: Dato opprettet – synkende
+TemplateSearchSortbyScore: Poeng
+TemplateSearchSortbyUpdatedAsc: Dato lagt til – stigende
+TemplateSearchSortbyUpdatedDec: Dato lagt til – synkende
 TemplateSearchSortbyViews: Antall visninger
-TemplatesSearchPageClear: Clear
-TemplatesSearchPageCurrentResults: Resultat xx-yy av zzz
-TemplatesSearchPageRefilneResults: Avansert søk
+TemplatesSearchPageClear: Fjern
+TemplatesSearchPageCurrentResults: Resultater xx-yy av zzz
+TemplatesSearchPageRefilneResults: Avgrense søkeresultatene
 TemplatesSearchPageResultUpdated: Oppdatert
-TemplateUploadSitemapDisable: Deaktiver sitemap
-TemplateUploadSitemapDisabled: Sitemap deaktivert
-TemplateUploadSitemapDisabledWord: Disabled
+TemplateUploadSitemapDisable: Deaktiver områdekart
+TemplateUploadSitemapDisabled: Områdekart deaktivert
+TemplateUploadSitemapDisabledWord: Deaktivert
 TemplateUploadSitemapDownloadSitemap: Last ned sitemap.xml
-TemplateUploadSitemapEnable: Aktiver sitemap
-TemplateUploadSitemapEnabled: Sitemap aktivert
+TemplateUploadSitemapEnable: Aktiver områdekart
+TemplateUploadSitemapEnabled: Områdekart aktivert
 TemplateUploadSitemapEnabledWord: Aktivert
 TemplateUploadSitemapLegend: Last opp sitemap.xml
-TemplateUploadSitemapStatus m @ Tekst: Sitemap er # {m}
-TemplTemplateBundlePageProvideFeedbackTooltip: Send tilbakemelding
+TemplateUploadSitemapStatus sts@Text: Områdekart er #{sts}
+TemplTemplateBundlePageProvideFeedbackTooltip: Send inn tilbakemeldinger
 TextPass txt@Text: #{txt}
 Upload: Last opp
 UploadLink: Last opp publikasjon
-YesodAuthStormPathSSOErrorOccured: Det oppsto en feil
-YesodAuthStormPathSSOLoginParamError: Det oppstod en feil med SSO påloggingsparametrene
-YesodAuthStormPathSSOLoginTryAgain: Prøv å logge inn igjen på med
+YesodAuthStormPathSSOErrorOccured: Det oppstod en feil
+YesodAuthStormPathSSOLoginParamError: Det var en feil med parameterne for enkeltpålogging
+YesodAuthStormPathSSOLoginTryAgain: Prøv å logge på med

@@ -2,8 +2,6 @@ plat-head: 管理平台
 plat-unmanaged: 非托管
 product-head: 产品
 cat-head: 类别
-cat-hardware: 硬件
-cat-integration: 集成
 cat-installation: 安装与入门
 cat-migration: 迁移
 cat-product: 产品用途

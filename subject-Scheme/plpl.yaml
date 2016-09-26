@@ -2,8 +2,6 @@ plat-head: Platforma zarządzania
 plat-unmanaged: Niezarządzane
 product-head: Produkt
 cat-head: Kategoria
-cat-hardware: Sprzęt
-cat-integration: Integracja
 cat-installation: Instalacja i wprowadzenie
 cat-migration: Migracja
 cat-product: Użycie produktu

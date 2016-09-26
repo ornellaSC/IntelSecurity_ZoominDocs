@@ -1,278 +1,278 @@
-AdvancedSearch：高级搜索
-AdvancedSearchTooltip：选择的内容过滤器
-BreadcrumbsProductDocumentationHome：产品文档首页
-BreadcrumbsSearch：搜索
-Cancel:取消
-Close:关闭
-DeleteText：删除
-ErrorOccured：发生错误
-FilterUsers：过滤器的用户：
-FoundationLoginOnly：登录
-FoundationLoginRegister：登录/注册
-HandlerAdminOnlyAdmin：拒绝访问
-HandlerBundlePageAltCSHResult：备用CSH找到主题
-HandlerCategoriesCategoryXMLFileUploaded：类别XML文件上传
-HandlerClassificationUpdated：分类地图更新
-HandlerClassificationXMLFile：更新的分类地图
-HandlerCommentsComments：评论
-HandlerCommentsOneComment：1条评论
-HandlerCommentsPostedCommentOn：发布了评论：
-HandlerContentRolesAreYouSureDelete：您确定要删除这个内容的角色？
-HandlerContentRolesCRDeleted：内容删除角色
-HandlerContentRolesErrorDeleting：出现问题。内容的作用是不会被删除。
-HandlerCshAlternateCSHTopicFound：备用CSH主题发现
-HandlerCshCSHRulesUpdated：CSH规则更新
-HandlerCshInvalidAlias​​es：无效的别名键CSH中找到的网址
-HandlerCshInvalidCSHRulesFile：无效的CSH规则文件
-HandlerCshNewCshFile：上传新的CSH配置文件
-HandlerCshReservedAlias​​esUsed：保留别名用于CSH配置文件
-HandlerCustomError400H2：400
-HandlerCustomError400H3：坏请求
-HandlerCustomError401H2：401
-HandlerCustomError401H3：未经授权
-HandlerCustomError403H2：403
-HandlerCustomError403H3：禁止
-HandlerCustomError404H2：404
-HandlerCustomError404H3：未找到
-HandlerCustomError405H2：405
-HandlerCustomError405H3：不允许的方法
-HandlerCustomError500H2：500
-HandlerCustomError500H3：内部服务器错误
-HandlerFontoDocumentSaved：文档保存
-HandlerFontoErrorGeneratingUUID：错误生成UUID
-HandlerFontoErrorParsingID：错误ID的解析
-HandlerFontoErrorParsingXML：错误的解析XML
-HandlerFontoErrorParsingXMLToDocument：错误解析XML文档来
-HandlerFontoNoFileFound：未找到文件
-HandlerFontoNoIDFound：ID未找到
-HandlerFontoUntitledFromCursor：无题 - 从游标
-HandlerGroupsErrorReadingGroupID：错误读取组ID
-HandlerGroupsGroupUpdated：组更新
-HandlerGroupsMustUseUniqueGroupName：必须使用唯一的组名
-HandlerGroupsNoGroupNameFound：组名找到
-HandlerGroupsUnableAssignRole：无法分配角色
-HandlerHowtoContent：内容
-HandlerHowtoDeleted：删除条
-HandlerHowtoInsufficientPermissions：没有足够的权限来编辑该文章
-HandlerHowtoSaved：保存
-HandlerHowtoTitle：标题
-HandlerHtmlEmptyMyDocs：空MyDocs
-HandlerLangDefaultLanguageCodeFileUpdated：更新默认语言代码文件
-HandlerLangNewLangFile：上传新的默认语言代码文件
-HandlerMyPubSourcePublication：来源出版物
-HandlerProfileDisplayName：显示名称
-HandlerProfileScreenName：网名
-HandlerProfileUpdated：个人资料已更新
-HandlerProfileUsernameInUse：用户名存在
-HandlerRatingsInvalidRating：无效的评分
-HandlerRatingsRatingRecorded：已将你的评估记录
-HandlerRatingsRatingUpdated：您的投票已更新
-HandlerRolesErrorReadingRoleID：错误读取角色ID
-HandlerRolesMustUseUniqueRoleName：使用唯一的角色名称
-HandlerRolesNoRoleNameFound：无角色名找到
-HandlerRolesNotEnoughAdminUsersRemaining：无法分配用户
-HandlerRolesSelectedPermissionsLessThenDefault：无法分配权限：选择的权限比默认权限设置少
-HandlerSearchAllResults：所有结果
-HandlerSearchNoResults：没有结果
-HandlerSearchOneResult：一个结果
-HandlerSitemapFile：Sitemap文件
-HandlerSitemapFileUploaded：成功更新的站点地图。
-HandlerSubjectSchemeInvalidSubjectSchemeLocalizationFile：无效的主题方案本地化文件
-HandlerSubjectSchemeLangDeleted郎@文字：＃{}郎删除本地化文件
-HandlerSubjectSchemeLangsAvailable：可用语言
-HandlerSubjectSchemeLangsDeleteConfirm：您确定要删除的文件的本地化？
-HandlerSubjectSchemeLangsDeleteError：错误删除本地化文件。
-HandlerSubjectSchemeLangsNewFile：上传新SubjectScheme本地化文件
-HandlerSubjectSchemeLangUpdated郎@文字：＃{}郎本地化更新文件
-HandlerSubjectSchemeLangUploaded郎@文字：＃{}郎上传文件的本地化
-HandlerSubjectSchemeProblemOccurredWhileUploadingSubjectScheme：在上传该主题计划时出现问题。
-HandlerSubjectSchemeSubjectSchemeUploadedSuccessfully：主题方案上传成功
-HandlerSubjectSchemeUnknownLanguageCode：未知语言代码
-HandlerSubjectSchemeUpdated：主题更新计划
-HandlerSubjectSchemeXMLFile：主题方案XML文件
-HandlerUploadBundleBundle：包
-HandlerUploadBundleDeleteError点¯x@文字：错误删除＃{X}
-HandlerUploadBundleDeleteSuccess点¯x@文字：已成功删除＃{X}
-HandlerUploadBundleError：错误
-HandlerUploadBundleErrorPleaseUpdateSuiteBundleVersion：错误 - 请更新您的软件包版本
-HandlerUploadBundleNoContentToDelete点¯x@文字：没有内容可在＃删除{X}
-HandlerUploadBundleOneBundleError：错误填充上传包
-HandlerUploadBundlePublicationUploadedSuccessfully：出版上传成功
-HandlerUploadBundleSheaf：一捆
-HandlerUsersAddedSuccess：用户成功添加
-HandlerUsersBadEmail：该电子邮件地址未注册
-HandlerUsersCRCreated：内容的角色创建组
-HandlerUsersCRGroupNameInUse：内容角色名已在使用
-HandlerUsersCRSetGroupName：请为这个内容角色组设置一个名称
-HandlerUsersCRUpdated：内容角色组更新
-HandlerUsersDefineCR：定义新内容角色组
-HandlerUsersDeleteSuccess：删除用户成功
-HandlerUsersEmailError：错误发送密码重置邮件
-HandlerUsersInvalidToken：无效令牌
-HandlerUsersNoResetToken：没有重置令牌
-HandlerUsersNoRoleIdFound：无角色ID找到
-HandlerUsersPasswordEmailSent：密码重置电子邮件发送
-HandlerUsersRegisterSuccess：注册用户成功地
-HandlerUsersResetPasswordError：错误密码重置
-HandlerUsersRolesUpdated：用户角色更新
-HandlerUsersUnableToAssignUserPermissionRole：无法分配用户权限角色
-HandlerUsersUnknownError：未知的错误
+AdvancedSearch: 高级搜索 
+AdvancedSearchTooltip: 选择内容过滤器
+BreadcrumbsProductDocumentationHome: 产品文档主页
+BreadcrumbsSearch: 搜索
+Cancel: 取消
+Close: 关闭
+DeleteText: 删除
+ErrorOccured: 发生错误
+FilterUsers: 过滤用户:
+FoundationLoginOnly: 登录
+FoundationLoginRegister: 登录/注册
+HandlerAdminOnlyAdmin: 访问被拒
+HandlerBundlePageAltCSHResult: 已找到备用 CSH 主题
+HandlerCategoriesCategoryXMLFileUploaded: 已上传类别 XML 文件
+HandlerClassificationUpdated: 已更新分类图
+HandlerClassificationXMLFile: 已更新分类图
+HandlerCommentsComments: 条注释
+HandlerCommentsOneComment: 1 条注释
+HandlerCommentsPostedCommentOn: 在以下位置发布了一条注释:
+HandlerContentRolesAreYouSureDelete: 是否确实要删除此内容角色？
+HandlerContentRolesCRDeleted: 已删除内容角色
+HandlerContentRolesErrorDeleting: 出现问题。 未删除内容角色。
+HandlerCshAlternateCSHTopicFound: 找到备用 CSH 主题
+HandlerCshCSHRulesUpdated: 已更新 CSH 规则
+HandlerCshInvalidAliases: 在 CSH URL 中找到无效的别名密钥
+HandlerCshInvalidCSHRulesFile: CSH 规则文件无效
+HandlerCshNewCshFile: 上传新的 CSH 配置文件
+HandlerCshReservedAliasesUsed: 在 CSH 配置文件中使用了保留别名
+HandlerCustomError400H2: 400
+HandlerCustomError400H3: 错误的请求
+HandlerCustomError401H2: 401
+HandlerCustomError401H3: 未经授权
+HandlerCustomError403H2: 403
+HandlerCustomError403H3: 已禁止
+HandlerCustomError404H2: 404
+HandlerCustomError404H3: 未找到
+HandlerCustomError405H2: 405
+HandlerCustomError405H3: 不允许的方法
+HandlerCustomError500H2: 500
+HandlerCustomError500H3: 内部服务器错误
+HandlerFontoDocumentSaved: 已保存文档
+HandlerFontoErrorGeneratingUUID: 生成 UUID 时出错
+HandlerFontoErrorParsingID: 解析 ID 时出错
+HandlerFontoErrorParsingXML: 解析 XML 时出错
+HandlerFontoErrorParsingXMLToDocument: 将 XML 解析为文档时出错
+HandlerFontoNoFileFound: 未找到文件
+HandlerFontoNoIDFound: 未找到 ID
+HandlerFontoUntitledFromCursor: 无标题 – 自光标
+HandlerGroupsErrorReadingGroupID: 读取组 ID 时出错
+HandlerGroupsGroupUpdated: 已更新组
+HandlerGroupsMustUseUniqueGroupName: 必须使用唯一组名称
+HandlerGroupsNoGroupNameFound: 未找到组名称
+HandlerGroupsUnableAssignRole: 无法分配角色
+HandlerHowtoContent: 内容
+HandlerHowtoDeleted: 已删除文章
+HandlerHowtoInsufficientPermissions: 权限不足，无法编辑此文章
+HandlerHowtoSaved: 已保存
+HandlerHowtoTitle: 标题
+HandlerHtmlEmptyMyDocs: 空 MyDocs
+HandlerLangDefaultLanguageCodeFileUpdated: 已更新默认语言代码文件
+HandlerLangNewLangFile: 上传新的默认语言代码文件
+HandlerMyPubSourcePublication: 来源发布内容
+HandlerProfileDisplayName: 显示名称
+HandlerProfileScreenName: 屏幕名称
+HandlerProfileUpdated: 已更新配置文件
+HandlerProfileUsernameInUse: 用户名存在
+HandlerRatingsInvalidRating: 评级无效
+HandlerRatingsRatingRecorded: 已记录您的评级
+HandlerRatingsRatingUpdated: 已更新您的评级
+HandlerRolesErrorReadingRoleID: 读取角色 ID 时出错
+HandlerRolesMustUseUniqueRoleName: 使用唯一角色名
+HandlerRolesNoRoleNameFound: 未找到角色名
+HandlerRolesNotEnoughAdminUsersRemaining: 无法分配用户
+HandlerRolesSelectedPermissionsLessThenDefault: 无法分配权限: 选定权限数少于默认权限集中的权限数
+HandlerSearchAllResults: 所有结果
+HandlerSearchNoResults: 无结果
+HandlerSearchOneResult: 一个结果
+HandlerSitemapFile: 站点地图文件
+HandlerSitemapFileUploaded: 已成功更新站点地图。
+HandlerSubjectSchemeInvalidSubjectSchemeLocalizationFile: 主题方案本地化文件无效
+HandlerSubjectSchemeLangDeleted lang@Text: #{lang} 已删除本地化文件
+HandlerSubjectSchemeLangsAvailable: 可用语言
+HandlerSubjectSchemeLangsDeleteConfirm: 是否确实要删除该本地化文件？ 
+HandlerSubjectSchemeLangsDeleteError: 删除本地化文件时出错。
+HandlerSubjectSchemeLangsNewFile: 上传新的主题方案本地化文件
+HandlerSubjectSchemeLangUpdated lang@Text: #{lang} 已更新本地化文件
+HandlerSubjectSchemeLangUploaded lang@Text: #{lang} 已上传本地化文件 
+HandlerSubjectSchemeProblemOccurredWhileUploadingSubjectScheme: 上传主题方案时发生问题。
+HandlerSubjectSchemeSubjectSchemeUploadedSuccessfully: 已成功上传主题方案
+HandlerSubjectSchemeUnknownLanguageCode: 未知语言代码
+HandlerSubjectSchemeUpdated: 已更新主题方案
+HandlerSubjectSchemeXMLFile: 主题方案 XML 文件
+HandlerUploadBundleBundle: 捆绑包
+HandlerUploadBundleDeleteError x@Text: 删除 #{x} 时出错
+HandlerUploadBundleDeleteSuccess x@Text: 已成功删除 #{x}
+HandlerUploadBundleError: 错误
+HandlerUploadBundleErrorPleaseUpdateSuiteBundleVersion: 错误 – 请更新您的捆绑包版本
+HandlerUploadBundleNoContentToDelete x@Text: #{x} 中没有要删除的内容 
+HandlerUploadBundleOneBundleError: 填充上传的捆绑包时出错
+HandlerUploadBundlePublicationUploadedSuccessfully: 已成功上传发布内容
+HandlerUploadBundleSheaf: sheaf
+HandlerUsersAddedSuccess: 已成功添加用户
+HandlerUsersBadEmail: 该电子邮件地址未注册
+HandlerUsersCRCreated: 已创建内容角色组
+HandlerUsersCRGroupNameInUse: 内容角色名称已在使用中
+HandlerUsersCRSetGroupName: 请设置此内容角色组的名称
+HandlerUsersCRUpdated: 已更新内容角色组
+HandlerUsersDefineCR: 定义新的内容角色组
+HandlerUsersDeleteSuccess: 已成功删除用户
+HandlerUsersEmailError: 发送密码重置电子邮件时出错
+HandlerUsersInvalidToken: 令牌无效
+HandlerUsersNoResetToken: 未重置令牌
+HandlerUsersNoRoleIdFound: 未找到角色 ID
+HandlerUsersPasswordEmailSent: 已发送密码重置电子邮件
+HandlerUsersRegisterSuccess: 已成功注册用户
+HandlerUsersResetPasswordError: 重置密码时出错
+HandlerUsersRolesUpdated: 已更新用户角色
+HandlerUsersUnableToAssignUserPermissionRole: 无法分配用户权限角色
+HandlerUsersUnknownError: 未知错误
 HideTOC: 隐藏目录
-ImportAddHelperProblemRunningAddHelper：问题运行addHelper
-ImportBundlesTooManyTopics NUM // @诠释：最多＃{的表演NUM}主题可以发布。请选择较少的主题，然后再试一次。
-ImportElasticAnalyzerError： - 注：自定义分析错误，请参阅日志了解详情。使用默认的分析仪。
-ImportElasticErrorRebuilding：错误重建索引 - 看日志了解更多详情。
-ImportElasticErrorUpdating：错误更新指标 - 看日志了解更多详情。
-ImportElasticIndexRebuilt点¯x@文字：指数成功重建＃{X}
-ImportElasticIndexUpdated点¯x@文字：指数成功更新＃{X}
-ImportElasticNoPagesFound：没有在页面数据库中找到 - 指数复位。
-ImportElasticNoPagesInBundle：没有在页面发现上传
-ImportInvalidPassword：无效密码
-ImportRatingsOneRating：1评级
-ImportRatingsRatings：评级
-ImportRolesPermissionDenied：权限被拒绝
-ImportSearchNoCategoriesUploaded：没有分类的XML文件上传
-ImportSearchUnknownTopicLink：***未知主题链接***
-ImportUsersCaptchaError：验证码无效
-ImportUsersCaptchaParseError：验证码错误
-ImportUsersEmailFieldError：未找到电子邮件领域。
-ImportUsersFldEmail：电子邮件
-ImportUsersFldFirstName：名
-ImportUsersFldLastName：姓
-ImportUsersFldPassword：密码
-ImportUsersFldReenterPass：重新输入密码
-ImportUsersInvalidPass：无效的密码：选定的密码必须至少8个字符，其中至少1个大写字母，1个小写字母，特殊字符和1个数字。
-LoggedInAs电子邮件@文字：登录身份＃{EMAIL}。
-Manuals：使用手册
-PDFPage：页
-ProductDocumentationSplashTitle: 产品文档
-PublishHowto：发布
-ResultsPerPage：结果每页
-ResultsPerPageShow：每页显示XX
-Search：搜索产品文档
-SearchContent：搜索该内容
-SearchHome：搜索产品文档
-ShowTOC: 显示内容表格
-SSOLoginParamError：有一个与SSO登录参数错误
-SSOLoginTryAgain：尝试在重新登录
-SwitchLang：更改语言
-TemplaesBundlesTitle：文档库
-TemplateAddHelperCancel：取消
-TemplateAddHelperSave：保存
-TemplateAddHelperSaveAndClose：保存并关闭
-TemplateAddUserAddUser：添加用户
-TemplateAddUserCancel：取消
-TemplateAddUserPasswordMessage：密码必须至少8个字符，其中至少1个大写字母，1个小写字母，特殊字符和1个数字。
-TemplateAdminArticleManagement：物品管理
-TemplateAdminContentRoleGroups：内容角色组
-TemplateAdminCSHConfigFile：下载或更新CSH的配置文件
-TemplateAdminElasticReindex：重建搜索索引
-TemplateAdminExportComments：出口评论
-TemplateAdminExportRatings：出口评级
-TemplateAdminManageManuals：管理手册
-TemplateAdminManageResourceManuals：管理资源包
-TemplateAdminResourceIdCsv：下载ResourceIds Excel文件
-TemplateAdminSitemap：管理网站地图
-TemplateAdminSubjectSchemeLocalization：管理主题方案本地化
-TemplateAdminTitle：管理
-TemplateAdminUploadCategoryXML：管理类XML文件
-TemplateAdminUploadCategoryXml：上传一个新的类别的XML文件
-TemplateAdminUploadNewLangFile：上传一个新的默认Languge代码文件
-TemplateAdminUploadSubjectScheme：管理主题方案
-TemplateAdminUserGroups：用户组
-TemplateAdminUserManagement：用户管理
-TemplateAdminUserRoles：用户角色
-TemplateBundlePageCollapse：收起
-TemplateBundlePageCollapseTooltip：收起所有的标​​题
-TemplateBundlePageComments：评论
-TemplateBundlePageContents：内容
-TemplateBundlePageExpand：展开
-TemplateBundlePageExpandTooltip：扩展目录
-TemplateBundlePageFeedback：信息反馈
-TemplateBundlePageFeedbackThankYou：谢谢！您的意见被送到。
-TemplateBundlePageFeedbackTooltip：提交反馈
-TemplateBundlePageFilterTitle：选择一个或多个选项
-TemplateBundlePageNext：下一页
-TemplateBundlePageNextTopicTooltip：转到下一主题
-TemplateBundlePageNo：否
-TemplateBundlePagePrevious：上一页
-TemplateBundlePagePrevTopicTooltip：进入上一主题
-TemplateBundlePagePrint：打印
-TemplateBundlePagePrintTooltip：打印主题
-TemplateBundlePagePrivacy：为了保护您的隐私，请不要在您的反馈联系信息。查看我们的隐私政策。
-TemplateBundlePageProvideFeedbackTooltip：提供反馈
-TemplateBundlePageSaveAsPDF：另存为PDF
-TemplateBundlePageSavePDFTooltip：另存为PDF
-TemplateBundlePageSaveSelectedTopic：保存所选主题
-TemplateBundlePageSaveSelectedTopicAndSubtopics：保存选定主题和副主题
-TemplateBundlePageSeeAlso：又见
-TemplateBundlePageSend：发送
-TemplateBundlePageSendLink：发送
-TemplateBundlePageSendLinkTooltip：发送链接主题
-TemplateBundlePageSubmit：提交
-TemplateBundlePageWasThisInformationHelpful：此信息是否有用？
-TemplateBundlePageYEs：是
-TemplateBundlesDeleteLanguage：删除语言
-TemplateBundlesDeleteManual：手动删除
-TemplateBundlesDownload：下载包
-TemplateBundlesDownloadClassification：下载分类XML
-TemplateBundlesHiddenBundle：隐藏手册
-TemplateBundlesSearchManuals：搜索手册
-TemplateBundlesUploadClassification：上传分类XML
-TemplateClassificationForManual：手动
-TemplateClassificationUploadClassificationMap：上传分类地图XML
-TemplateClassificationWarnReindex：注意：上传分类图将导致整个网站被重新索引。这可能会需要几分钟。
-TemplateContentRolesCRGroups：内容角色组
-TemplateContentRolesDefineNewCR：定义新内容的角色
-TemplateDefaultLayoutAdministration：管理
-TemplateDefaultLayoutArticles：文章
-TemplateDefaultLayoutBrowseDocumentation：浏览
-TemplateDefaultLayoutDocumentation：文档库
-TemplateDefaultLayoutHome：首页
-TemplateDefaultLayoutLanguages​​：美国 - 英语
-TemplateDefaultLayoutLinksCareers：招聘
-TemplateDefaultLayoutLinksContactUs：联系我们
-TemplateDefaultLayoutLinksIntelCorp：©英特尔公司
-TemplateDefaultLayoutLinksLegalContractsandTerms：法律合同和条款
-TemplateDefaultLayoutLinksLegalNotices：法律声明
-TemplateDefaultLayoutLinksSiteMap：网站地图
-TemplateDefaultLayoutLinksWebsiteFeedback：网站反馈
-TemplateDefaultLayoutLogout：退出
-TemplateDefaultLayoutProfile：简介
-TemplateDefaultLayoutVideos：视频
-TemplateFilterCurrentPublication：当前出版物
-TemplateRequestResetPasswordEmail：电子邮件
-TemplateRequestResetPasswordSubmit：要求密码重置邮件
-TemplateSearchCurrentPublication名@文字：当前搜索仅限于“＃（名称）”出版
-TemplateSearchPageClearTooltip：清除筛选
-TemplateSearchPageFirstPageTooltip：转到第一页
-TemplateSearchPageLastPageTooltip：转到最后一页
-TemplateSearchPageNextPageTooltip：转到下一页
-TemplateSearchPagePrevPageTooltip：到前一页
-TemplateSearchPublicationTitle：出版
-TemplateSearchSortbyCreatedAsc:创建日期 - 递增
-TemplateSearchSortbyCreatedDec：创建日期 -  Decending
-TemplateSearchSortbyScore：得分
-TemplateSearchSortbyUpdatedAsc：添加日期 - 升序
-TemplateSearchSortbyUpdatedDec：添加日期 -  Decending
-TemplateSearchSortbyViews：查看人数
-TemplatesSearchPageClear：清除
-TemplatesSearchPageCurrentResults：ZZZ结果XX-YY，
-TemplatesSearchPageRefilneResults：提纯结果
-TemplatesSearchPageResultUpdated：更新
-TemplateUploadSitemapDisable：禁用网站地图
-TemplateUploadSitemapDisabled：禁用地图
-TemplateUploadSitemapDisabledWord：禁用
-TemplateUploadSitemapDownloadSitemap：下载sitemap.xml的
-TemplateUploadSitemapEnable：启用站点地图
-TemplateUploadSitemapEnabled：开通了网站地图
-TemplateUploadSitemapEnabledWord：启用
-TemplateUploadSitemapLegend：上传sitemap.xml的
-TemplateUploadSitemapStatus STS @文字：网页是＃{} STS
-TemplTemplateBundlePageProvideFeedbackTooltip：提交反馈
+ImportAddHelperProblemRunningAddHelper: 运行 addHelper 时发生问题
+ImportBundlesTooManyTopics num@Int: 最多可以发布 #{show num} 个主题。 请选择较少主题，然后重试。
+ImportElasticAnalyzerError: - 注意: 自定分析器错误，请查看日志了解详细信息。 正在使用默认分析器。 
+ImportElasticErrorRebuilding: 重建索引时出错，请查看日志了解更多详细信息。
+ImportElasticErrorUpdating: 更新索引时出错，请查看日志了解更多详细信息。
+ImportElasticIndexRebuilt x@Text: 已成功重建索引 #{x}
+ImportElasticIndexUpdated x@Text: 已成功更新索引 #{x}
+ImportElasticNoPagesFound: 在数据库中未找到页面 – 索引重置。
+ImportElasticNoPagesInBundle: 在上传内容中未找到页面
+ImportInvalidPassword: 密码无效
+ImportRatingsOneRating: 1 个评级
+ImportRatingsRatings: 个评级
+ImportRolesPermissionDenied: 权限被拒
+ImportSearchNoCategoriesUploaded: 未上传类别 XML 文件
+ImportSearchUnknownTopicLink: *** 未知主题链接 ***
+ImportUsersCaptchaError: 无效的 reCAPTCHA 
+ImportUsersCaptchaParseError: reCAPTCHA 错误
+ImportUsersEmailFieldError: 未找到电子邮件字段。
+ImportUsersFldEmail: 电子邮件
+ImportUsersFldFirstName: 名字
+ImportUsersFldLastName: 姓氏
+ImportUsersFldPassword: 密码
+ImportUsersFldReenterPass: 重新输入密码
+ImportUsersInvalidPass: 密码无效: 选择的密码必须至少包含 8 个字符，其中至少包括 1 个大写字母、1 个小写字母、1 个特殊字符和 1 个数字。
+LoggedInAs email@Text: 已作为 #{email} 登录。
+Manuals: 手册
+PDFPage: 页面
+ProductDocumentationSplashTitle: 产品文档 
+PublishHowto: 发布
+ResultsPerPage: 每页的结果数
+ResultsPerPageShow: 每页显示 xx
+Search: 搜索产品文档
+SearchContent: 搜索此内容
+SearchHome: 搜索产品文档
+ShowTOC: 显示目录
+SSOLoginParamError: SSO 登录参数中存在错误
+SSOLoginTryAgain: 请尝试使用以下内容重新登录
+SwitchLang: 更改语言
+TemplaesBundlesTitle: 文档库
+TemplateAddHelperCancel: 取消
+TemplateAddHelperSave: 保存
+TemplateAddHelperSaveAndClose: 保存并关闭
+TemplateAddUserAddUser: 添加用户
+TemplateAddUserCancel: 取消
+TemplateAddUserPasswordMessage: 密码必须至少包含 8 个字符，其中至少包括 1 个大写字母、1 个小写字母、1 个特殊字符和 1 个数字。
+TemplateAdminArticleManagement: 文章管理
+TemplateAdminContentRoleGroups: 内容角色组
+TemplateAdminCSHConfigFile: 下载或更新 CSH 配置文件
+TemplateAdminElasticReindex: 重新构建搜索索引
+TemplateAdminExportComments: 导出注释
+TemplateAdminExportRatings: 导出评级
+TemplateAdminManageManuals: 管理手册
+TemplateAdminManageResourceManuals: 管理资源包
+TemplateAdminResourceIdCsv: 下载 ResourceIds Excel 文件
+TemplateAdminSitemap: 管理站点地图
+TemplateAdminSubjectSchemeLocalization: 管理主题方案本地化
+TemplateAdminTitle: 管理
+TemplateAdminUploadCategoryXML: 管理类别 XML 文件
+TemplateAdminUploadCategoryXml: 上传新的类别 XML 文件
+TemplateAdminUploadNewLangFile: 上传新的默认语言代码文件
+TemplateAdminUploadSubjectScheme: 管理主题方案
+TemplateAdminUserGroups: 用户组
+TemplateAdminUserManagement: 用户管理
+TemplateAdminUserRoles: 用户角色
+TemplateBundlePageCollapse: 折叠
+TemplateBundlePageCollapseTooltip: 折叠全部标题
+TemplateBundlePageComments: 备注
+TemplateBundlePageContents: 目录
+TemplateBundlePageExpand: 展开
+TemplateBundlePageExpandTooltip: 展开目录
+TemplateBundlePageFeedback: 反馈
+TemplateBundlePageFeedbackThankYou: 谢谢！ 已发送您的注释。 
+TemplateBundlePageFeedbackTooltip: 提交反馈
+TemplateBundlePageFilterTitle: 选择一个或多个选项
+TemplateBundlePageNext: 下一页
+TemplateBundlePageNextTopicTooltip: 转至下一个主题
+TemplateBundlePageNo: 否
+TemplateBundlePagePrevious: 上一个 
+TemplateBundlePagePrevTopicTooltip: 转至上一个主题
+TemplateBundlePagePrint: 打印
+TemplateBundlePagePrintTooltip: 打印主题
+TemplateBundlePagePrivacy: 为保护您的隐私权，请勿在反馈中包含联系信息。 查看我们的隐私权政策。
+TemplateBundlePageProvideFeedbackTooltip: 提供反馈
+TemplateBundlePageSaveAsPDF: 另存为 PDF
+TemplateBundlePageSavePDFTooltip: 另存为 PDF
+TemplateBundlePageSaveSelectedTopic: 保存选择的主题
+TemplateBundlePageSaveSelectedTopicAndSubtopics: 保存选择的主题和子主题
+TemplateBundlePageSeeAlso: 另请参阅
+TemplateBundlePageSend: 发送
+TemplateBundlePageSendLink: 发送
+TemplateBundlePageSendLinkTooltip: 发送主题链接
+TemplateBundlePageSubmit: 提交
+TemplateBundlePageWasThisInformationHelpful: 此信息是否有帮助？
+TemplateBundlePageYEs: 是
+TemplateBundlesDeleteLanguage: 删除语言
+TemplateBundlesDeleteManual: 删除手册
+TemplateBundlesDownload: 下载捆绑包
+TemplateBundlesDownloadClassification: 下载分类 XML
+TemplateBundlesHiddenBundle: 隐藏的手册
+TemplateBundlesSearchManuals: 搜索手册
+TemplateBundlesUploadClassification: 上传分类 XML
+TemplateClassificationForManual: 对于手册
+TemplateClassificationUploadClassificationMap: 上传分类图 XML
+TemplateClassificationWarnReindex: 注意: 上传分类图会导致对整个站点重新编制索引。 这可能需要几分钟。
+TemplateContentRolesCRGroups: 内容角色组
+TemplateContentRolesDefineNewCR: 定义新的内容角色
+TemplateDefaultLayoutAdministration: 管理
+TemplateDefaultLayoutArticles: 文章
+TemplateDefaultLayoutBrowseDocumentation: 浏览
+TemplateDefaultLayoutDocumentation: 文档库
+TemplateDefaultLayoutHome: 主页
+TemplateDefaultLayoutLanguages: United States - English
+TemplateDefaultLayoutLinksCareers: 职业
+TemplateDefaultLayoutLinksContactUs: 联系我们
+TemplateDefaultLayoutLinksIntelCorp: © Intel Corporation
+TemplateDefaultLayoutLinksLegalContractsandTerms: 法律合同与条款
+TemplateDefaultLayoutLinksLegalNotices: 法律声明 
+TemplateDefaultLayoutLinksSiteMap: 站点地图
+TemplateDefaultLayoutLinksWebsiteFeedback: 网站反馈
+TemplateDefaultLayoutLogout: 注销
+TemplateDefaultLayoutProfile: 配置文件
+TemplateDefaultLayoutVideos: 视频
+TemplateFilterCurrentPublication: 当前发布内容
+TemplateRequestResetPasswordEmail: 电子邮件
+TemplateRequestResetPasswordSubmit: 请求密码重置电子邮件
+TemplateSearchCurrentPublication name@Text: 当前搜索仅限在“#{name}”发布内容中进行
+TemplateSearchPageClearTooltip: 清除过滤器
+TemplateSearchPageFirstPageTooltip: 转至第一页
+TemplateSearchPageLastPageTooltip: 转至最后一页
+TemplateSearchPageNextPageTooltip: 转至下一页
+TemplateSearchPagePrevPageTooltip: 转至上一页
+TemplateSearchPublicationTitle: 发布内容
+TemplateSearchSortbyCreatedAsc: 创建日期 – 升序
+TemplateSearchSortbyCreatedDec: 创建日期 – 降序
+TemplateSearchSortbyScore: 分数
+TemplateSearchSortbyUpdatedAsc: 添加日期 – 升序
+TemplateSearchSortbyUpdatedDec: 添加日期 – 降序
+TemplateSearchSortbyViews: 查看次数
+TemplatesSearchPageClear: 清除
+TemplatesSearchPageCurrentResults: 结果 xx-yy/zzz
+TemplatesSearchPageRefilneResults: 优化结果
+TemplatesSearchPageResultUpdated: 已更新
+TemplateUploadSitemapDisable: 禁用站点地图
+TemplateUploadSitemapDisabled: 已禁用站点地图
+TemplateUploadSitemapDisabledWord: 已禁用
+TemplateUploadSitemapDownloadSitemap: 下载 sitemap.xml
+TemplateUploadSitemapEnable: 启用站点地图
+TemplateUploadSitemapEnabled: 已启用站点地图
+TemplateUploadSitemapEnabledWord: 已启用
+TemplateUploadSitemapLegend: 上传 sitemap.xml
+TemplateUploadSitemapStatus sts@Text: 站点地图为 #{sts}
+TemplTemplateBundlePageProvideFeedbackTooltip: 提交反馈
 TextPass txt@Text: #{txt}
-Upload：上传
-UploadLink：上传发布
-YesodAuthStormPathSSOErrorOccured：时出错
-YesodAuthStormPathSSOLoginParamError：有一个与SSO登录参数错误
-YesodAuthStormPathSSOLoginTryAgain：尝试在重新登录
+Upload: 上传
+UploadLink: 上传发布内容
+YesodAuthStormPathSSOErrorOccured: 发生错误
+YesodAuthStormPathSSOLoginParamError: SSO 登录参数中存在错误
+YesodAuthStormPathSSOLoginTryAgain: 请尝试使用以下内容重新登录

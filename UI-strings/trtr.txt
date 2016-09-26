@@ -1,278 +1,278 @@
-AdvancedSearch: Gelişmiş Arama
-AdvancedSearchTooltip: içerik filtrelerini seçin
-BreadcrumbsProductDocumentationHome: Ürün Belgeleri Ev
-BreadcrumbsSearch: Arama
+AdvancedSearch: Gelişmiş Arama 
+AdvancedSearchTooltip: İçerik filtrelerini seç
+BreadcrumbsProductDocumentationHome: Ürün Belgeleri Giriş Sayfası
+BreadcrumbsSearch: Ara
 Cancel: İptal
 Close: Kapat
 DeleteText: Sil
 ErrorOccured: Bir hata oluştu
-FilterUsers: Filtre kullanıcıları:
-FoundationLoginOnly: Log
-FoundationLoginRegister: / Kayıt Log
+FilterUsers: Kullanıcıları filtrele:
+FoundationLoginOnly: Oturum aç
+FoundationLoginRegister: Oturum aç / Kaydol
 HandlerAdminOnlyAdmin: Erişim engellendi
-HandlerBundlePageAltCSHResult: Alternatif CSH Konu Bulundu
-HandlerCategoriesCategoryXMLFileUploaded: Kategori XML Dosyası yüklendi
+HandlerBundlePageAltCSHResult: Alternatif CSH Konusu Bulundu
+HandlerCategoriesCategoryXMLFileUploaded: Kategori XML Dosyası Yüklendi
 HandlerClassificationUpdated: Sınıflandırma haritası güncellendi
-HandlerClassificationXMLFile: Güncelleme Sınıflandırma Haritası
-HandlerCommentsComments: Yorumlar
-HandlerCommentsOneComment: 1 Yorum
-HandlerCommentsPostedCommentOn: Yorum yayınlanan:
-HandlerContentRolesAreYouSureDelete: Eğer bu İçerik Rol silmek istediğinizden emin misiniz?
-HandlerContentRolesCRDeleted: İçerik Rol silindi
-HandlerContentRolesErrorDeleting: bir sorun oluştu. İçerik rolü silinmedi.
-HandlerCshAlternateCSHTopicFound: Alternatif CSH Konu bulundu
+HandlerClassificationXMLFile: Sınıflandırma Haritası Güncellendi
+HandlerCommentsComments: yorumlar
+HandlerCommentsOneComment: 1 yorum
+HandlerCommentsPostedCommentOn: adlı kişi şu tarihte bir yorum ekledi:
+HandlerContentRolesAreYouSureDelete: Bu İçerik Rolünü silmek istediğinizden emin misiniz?
+HandlerContentRolesCRDeleted: İçerik Rolü silindi
+HandlerContentRolesErrorDeleting: Bir sorun oluştu. İçerik rolü silinemedi.
+HandlerCshAlternateCSHTopicFound: Alternatif CSH Konusu bulundu
 HandlerCshCSHRulesUpdated: CSH Kuralları Güncellendi
-HandlerCshInvalidAliases: CSH URL Bulunan geçersiz Alias ​​Keys
-HandlerCshInvalidCSHRulesFile: Geçersiz CSH Kuralları dosya
-HandlerCshNewCshFile: yükle yeni CSH Konfigürasyon Dosyası
-HandlerCshReservedAliasesUsed: CSH Yapılandırma dosyasında Kullanılan saklıdır Aliases
+HandlerCshInvalidAliases: CSH URL’sinde Geçersiz Diğer Ad Anahtarları Bulundu
+HandlerCshInvalidCSHRulesFile: Geçersiz CSH Kuralları dosyası
+HandlerCshNewCshFile: Yeni CSH Yapılandırma Dosyası Yükle
+HandlerCshReservedAliasesUsed: CSH Yapılandırma Dosyasında Ayrılan Diğer Adlar Kullanılmış
 HandlerCustomError400H2: 400
-HandlerCustomError400H3: Bad Request
+HandlerCustomError400H3: Hatalı İstek
 HandlerCustomError401H2: 401
-HandlerCustomError401H3: Yetkisiz
+HandlerCustomError401H3: Yetkilendirilmemiş
 HandlerCustomError403H2: 403
-HandlerCustomError403H3: Yasak
+HandlerCustomError403H3: Yasaklandı
 HandlerCustomError404H2: 404
 HandlerCustomError404H3: Bulunamadı
 HandlerCustomError405H2: 405
-HandlerCustomError405H3: yöntem verilmiyor
+HandlerCustomError405H3: Yönteme İzin Verilmiyor
 HandlerCustomError500H2: 500
-HandlerCustomError500H3: Internal Server Error
+HandlerCustomError500H3: Dahili Sunucu Hatası
 HandlerFontoDocumentSaved: Belge kaydedildi
-HandlerFontoErrorGeneratingUUID: Hata üreten UUID
-HandlerFontoErrorParsingID: Hata ayrıştırma kimliği
-HandlerFontoErrorParsingXML: Hata ayrıştırma XML
-HandlerFontoErrorParsingXMLToDocument: Hata Belgesi XML Ayrıştırma
+HandlerFontoErrorGeneratingUUID: UUID oluşturma hatası
+HandlerFontoErrorParsingID: Kimlik ayrıştırma hatası
+HandlerFontoErrorParsingXML: XML ayrıştırma hatası
+HandlerFontoErrorParsingXMLToDocument: XML’i Belgeye Ayrıştırma Hatası
 HandlerFontoNoFileFound: Dosya bulunamadı
-HandlerFontoNoIDFound: Kimliği bulunamadı
-HandlerFontoUntitledFromCursor: Untitled - İmleç gelen
-HandlerGroupsErrorReadingGroupID: okuma hatası grup kimliği
+HandlerFontoNoIDFound: Kimlik bulunamadı
+HandlerFontoUntitledFromCursor: Adsız - İmleçten
+HandlerGroupsErrorReadingGroupID: Grup kimliği okuma hatası
 HandlerGroupsGroupUpdated: Grup Güncellendi
-HandlerGroupsMustUseUniqueGroupName: Benzersiz grup adını kullanmak gerekir
-HandlerGroupsNoGroupNameFound: Hiçbir grup adı bulunamadı
-HandlerGroupsUnableAssignRole: rol atamak açılamıyor
+HandlerGroupsMustUseUniqueGroupName: Benzersiz grup adı kullanılmalıdır
+HandlerGroupsNoGroupNameFound: Grup adı bulunamadı
+HandlerGroupsUnableAssignRole: Rol atanamıyor
 HandlerHowtoContent: İçerik
-HandlerHowtoDeleted: Madde silindi
-HandlerHowtoInsufficientPermissions: Bu Madde düzenlemek için yetersiz izinler
-HandlerHowtoSaved: Kaydedilen
+HandlerHowtoDeleted: Makale silindi
+HandlerHowtoInsufficientPermissions: Bu Makaleyi düzenlemek için izinler yetersiz
+HandlerHowtoSaved: Kaydedildi
 HandlerHowtoTitle: Başlık
 HandlerHtmlEmptyMyDocs: Boş MyDocs
-HandlerLangDefaultLanguageCodeFileUpdated: Güncelleme Varsayılan Dil Kodu Dosyası
-HandlerLangNewLangFile: Yükleme Yeni Varsayılan Dil Kodu Dosyası
-HandlerMyPubSourcePublication: Kaynak Yayınları
+HandlerLangDefaultLanguageCodeFileUpdated: Varsayılan Dil Kodu Dosyası Güncellendi
+HandlerLangNewLangFile: Yeni Varsayılan Dil Kodu Dosyası Yükle
+HandlerMyPubSourcePublication: Kaynak Yayını
 HandlerProfileDisplayName: Görünen ad
 HandlerProfileScreenName: Ekran adı
 HandlerProfileUpdated: Profil güncellendi
-HandlerProfileUsernameInUse: Kullanıcı Adı var
+HandlerProfileUsernameInUse: Kullanıcı adı var
 HandlerRatingsInvalidRating: Geçersiz değerlendirme
-HandlerRatingsRatingRecorded: Oyunuz kaydedildi
-HandlerRatingsRatingUpdated: Oyunuz güncellendi
-HandlerRolesErrorReadingRoleID: okuma hatası rol kimliği
-HandlerRolesMustUseUniqueRoleName: eşsiz bir rol adı kullanın
-HandlerRolesNoRoleNameFound: Hayır rol adı bulunamadı
-HandlerRolesNotEnoughAdminUsersRemaining: kullanıcılar atamak açılamıyor
-HandlerRolesSelectedPermissionsLessThenDefault: izinleri atamak açılamıyor: Seçilen izinler varsayılan izin kümesi daha az
+HandlerRatingsRatingRecorded: Değerlendirmeniz kaydedildi
+HandlerRatingsRatingUpdated: Değerlendirmeniz güncellendi
+HandlerRolesErrorReadingRoleID: Rol kimliği okuma hatası
+HandlerRolesMustUseUniqueRoleName: Benzersiz bir rol adı kullanın
+HandlerRolesNoRoleNameFound: Rol adı bulunamadı
+HandlerRolesNotEnoughAdminUsersRemaining: Kullanıcılar atanamıyor
+HandlerRolesSelectedPermissionsLessThenDefault: İzinler atanamıyor: Seçili izinler, varsayılan izin setinden daha az
 HandlerSearchAllResults: Tüm sonuçlar
-HandlerSearchNoResults: sonuç
+HandlerSearchNoResults: Sonuç yok
 HandlerSearchOneResult: Bir sonuç
-HandlerSitemapFile: Site Haritası dosyası
-HandlerSitemapFileUploaded: başarıyla Site Haritası güncellendi.
-HandlerSubjectSchemeInvalidSubjectSchemeLocalizationFile: Geçersiz Konu Şema Yerelleştirme Dosyası
-HandlerSubjectSchemeLangDeleted lang @ Metin: # {lang} Silinen Yerelleştirme Dosya
+HandlerSitemapFile: Site haritası dosyası
+HandlerSitemapFileUploaded: Site Haritası başarıyla güncellendi.
+HandlerSubjectSchemeInvalidSubjectSchemeLocalizationFile: Geçersiz Konu Düzeni Yerelleştirme Dosyası
+HandlerSubjectSchemeLangDeleted lang@Text: #{lang} Yerelleştirme Dosyası Silindi
 HandlerSubjectSchemeLangsAvailable: Mevcut Diller
-HandlerSubjectSchemeLangsDeleteConfirm: Eğer Yerelleştirme dosyayı silmek istediğinizden emin misiniz?
-HandlerSubjectSchemeLangsDeleteError: Hata yerelleştirme dosya silme.
-HandlerSubjectSchemeLangsNewFile: Yükleme Yeni SubjectScheme Yerelleştirme Dosya
-HandlerSubjectSchemeLangUpdated lang @ Metin: # {lang} Güncelleme Yerelleştirme Dosya
-HandlerSubjectSchemeLangUploaded lang @ Metin: # {lang} yüklendi Yerelleştirme Dosya
+HandlerSubjectSchemeLangsDeleteConfirm: Yerelleştirme dosyasını silmek istediğinizden emin misiniz? 
+HandlerSubjectSchemeLangsDeleteError: Yerelleştirme dosyası silinirken bir hata oluştu.
+HandlerSubjectSchemeLangsNewFile: Yeni SubjectScheme Yerelleştirme Dosyası Yükle
+HandlerSubjectSchemeLangUpdated lang@Text: #{lang} Yerelleştirme Dosyası Güncellendi
+HandlerSubjectSchemeLangUploaded lang@Text: #{lang} Yerelleştirme Dosyası Yüklendi 
 HandlerSubjectSchemeProblemOccurredWhileUploadingSubjectScheme: Konu Düzeni yüklenirken bir sorun oluştu.
 HandlerSubjectSchemeSubjectSchemeUploadedSuccessfully: Konu düzeni başarıyla yüklendi
 HandlerSubjectSchemeUnknownLanguageCode: Bilinmeyen Dil Kodu
 HandlerSubjectSchemeUpdated: Konu düzeni güncellendi
 HandlerSubjectSchemeXMLFile: Konu düzeni XML dosyası
-HandlerUploadBundleBundle: bundle
-HandlerUploadBundleDeleteError x @ Metin: Hata # silme {x}
-HandlerUploadBundleDeleteSuccess x @ Metin: başarıyla silindi # {x}
+HandlerUploadBundleBundle: set
+HandlerUploadBundleDeleteError x@Text: #{x} silinirken hata oluştu
+HandlerUploadBundleDeleteSuccess x@Text: #{x} başarıyla silindi
 HandlerUploadBundleError: Hata
-HandlerUploadBundleErrorPleaseUpdateSuiteBundleVersion: Hata - güncelleyin Lütfen paket versiyonu
-HandlerUploadBundleNoContentToDelete x @ Metin: Hiçbir içerik # da silmek için {x}
-HandlerUploadBundleOneBundleError: Hata Doldurulması yüklenen paket
+HandlerUploadBundleErrorPleaseUpdateSuiteBundleVersion: Hata - Lütfen setinizin sürümünü güncelleyin
+HandlerUploadBundleNoContentToDelete x@Text: #{x} içinde silinecek içerik yok 
+HandlerUploadBundleOneBundleError: Yüklenen set doldurulurken hata oluştu
 HandlerUploadBundlePublicationUploadedSuccessfully: Yayın başarıyla yüklendi
-HandlerUploadBundleSheaf: demet
+HandlerUploadBundleSheaf: sheaf
 HandlerUsersAddedSuccess: Kullanıcı başarıyla eklendi
 HandlerUsersBadEmail: Bu e-posta adresi kayıtlı değil
 HandlerUsersCRCreated: İçerik Rol Grubu oluşturuldu
-HandlerUsersCRGroupNameInUse: İçerik Rol adı zaten kullanılıyor
-HandlerUsersCRSetGroupName: İçeriği Rol Grup için bir isim ayarlayın
+HandlerUsersCRGroupNameInUse: İçerik Rolü adı zaten kullanılıyor
+HandlerUsersCRSetGroupName: Lütfen bu İçerik Rol Grubu için bir ad belirleyin
 HandlerUsersCRUpdated: İçerik Rol Grubu güncellendi
-HandlerUsersDefineCR: Yeni İçerik Rol Grubu tanımlayın
-HandlerUsersDeleteSuccess: Silinen Kullanıcı başarıyla
-HandlerUsersEmailError: Hata parola sıfırlama e-posta göndererek
-HandlerUsersInvalidToken: Geçersiz Jetonu
-HandlerUsersNoResetToken: Hayır sıfırlama simge
-HandlerUsersNoRoleIdFound: Hayır rol kimliği bulunamadı
+HandlerUsersDefineCR: Yeni İçerik Rol Grubu Tanımla
+HandlerUsersDeleteSuccess: Kullanıcı başarıyla silindi
+HandlerUsersEmailError: Parola sıfırlama e-postası gönderilirken bir hata oluştu
+HandlerUsersInvalidToken: Geçersiz Belirteç
+HandlerUsersNoResetToken: Sıfırlama belirteci yok
+HandlerUsersNoRoleIdFound: Rol kimliği bulunamadı
 HandlerUsersPasswordEmailSent: Parola sıfırlama e-postası gönderildi
-HandlerUsersRegisterSuccess: Kayıtlı Kullanıcı başarıyla
-HandlerUsersResetPasswordError: Hata sıfırlama şifresi
+HandlerUsersRegisterSuccess: Kullanıcı başarıyla kaydedildi
+HandlerUsersResetPasswordError: Parola sıfırlanırken bir hata oluştu
 HandlerUsersRolesUpdated: Kullanıcı Rolleri Güncellendi
-HandlerUsersUnableToAssignUserPermissionRole: Kullanıcı izni rol atamak için açılamıyor
+HandlerUsersUnableToAssignUserPermissionRole: Kullanıcıya izin rolü atanamıyor
 HandlerUsersUnknownError: Bilinmeyen hata
-HideTOC: İçindekiler gizle Tablosu
-ImportAddHelperProblemRunningAddHelper: Problem çalışan addHelper
-ImportBundlesTooManyTopics num @ Int: # maksimum {gösteri num} konular yayınlanabilir. Daha az konuları seçin ve tekrar deneyin.
-ImportElasticAnalyzerError: - Not: Özel analizörü hatası, ayrıntılı bilgi için oturum bkz. Varsayılan analizörü kullanılarak.
-ImportElasticErrorRebuilding: Hata yeniden oluşturma endeksi - Daha fazla bilgi için oturum bkz.
-ImportElasticErrorUpdating: güncellenirken hata kütüğü - Daha fazla bilgi için oturum bkz.
-ImportElasticIndexRebuilt x @ Metin: Endeksi başarıyla yeniden # {x}
-ImportElasticIndexUpdated x @ Metin: Endeksi başarıyla güncellendi # {x}
-ImportElasticNoPagesFound: - index sıfırlama veritabanı bulunamadı sayfalar.
-ImportElasticNoPagesInBundle: Hayır Sayfalar yükleme bulundu
-ImportInvalidPassword: Geçersiz şifre
+HideTOC: İçindekileri gizle
+ImportAddHelperProblemRunningAddHelper: addHelper çalıştırılırken sorun oluştu
+ImportBundlesTooManyTopics num@Int: En fazla #{show num} konu yayımlanabilir. Lütfen daha az konu seçip tekrar deneyin.
+ImportElasticAnalyzerError: - Not: Özel çözümleyici hatası, ayrıntılar için günlük dosyasına bakın. Varsayılan çözümleyici kullanılıyor. 
+ImportElasticErrorRebuilding: Dizin yeniden oluşturma hatası - daha fazla ayrıntı için günlük dosyasına bakın.
+ImportElasticErrorUpdating: Dizin güncelleme hatası - daha fazla ayrıntı için günlük dosyasına bakın.
+ImportElasticIndexRebuilt x@Text: Dizin başarıyla yeniden oluşturuldu #{x}
+ImportElasticIndexUpdated x@Text: Dizin başarıyla güncellendi #{x}
+ImportElasticNoPagesFound: Veritabanında Sayfa bulunamadı - dizin sıfırlaması.
+ImportElasticNoPagesInBundle: Yüklemede Sayfa bulunamadı
+ImportInvalidPassword: Geçersiz parola
 ImportRatingsOneRating: 1 Değerlendirme
 ImportRatingsRatings: Değerlendirmeler
-ImportRolesPermissionDenied: İzin engellendi
-ImportSearchNoCategoriesUploaded: Hayır Kategoriler XML dosyası yüklendi
-ImportSearchUnknownTopicLink: *** bilinmeyen konu linki ***
-ImportUsersCaptchaError: Geçersiz reCAPTCHA
+ImportRolesPermissionDenied: İzin reddedildi
+ImportSearchNoCategoriesUploaded: Kategori XML Dosyası Yüklenmedi
+ImportSearchUnknownTopicLink: *** bilinmeyen konu bağlantısı ***
+ImportUsersCaptchaError: Geçersiz reCAPTCHA 
 ImportUsersCaptchaParseError: reCAPTCHA Hatası
-ImportUsersEmailFieldError: bulunamadı e-posta alanı.
-ImportUsersFldEmail: E-Posta
+ImportUsersEmailFieldError: E-posta alanı bulunamadı.
+ImportUsersFldEmail: E-posta
 ImportUsersFldFirstName: Ad
 ImportUsersFldLastName: Soyadı
-ImportUsersFldPassword: Şifre
-ImportUsersFldReenterPass: tekrar girin Şifre
-ImportUsersInvalidPass: Geçersiz parola: Seçilen şifre en az 1 büyük harf, küçük harf 1, 1 özel karakter ve 1 numara olmak üzere en az 8 karakter uzunluğunda olmalıdır.
-Loggedinas e-posta @ Metin: # {e-posta} olarak kaydedilir.
-Manuals: Kılavuzlar
+ImportUsersFldPassword: Parola
+ImportUsersFldReenterPass: Parolayı tekrar gir
+ImportUsersInvalidPass: Geçersiz parola: Seçilen parola, en az 8 karakter uzunluğunda olmalı ve en az 1 büyük harf, 1 küçük harf, 1 özel karakter ve 1 rakam içermelidir.
+LoggedInAs email@Text: #{email} olarak oturum açıldı.
+Manuals: Kullanım Kılavuzları
 PDFPage: Sayfa
 ProductDocumentationSplashTitle: Ürün Belgeleri 
-PublishHowto: Yayınla
-Resultsperpage: Sayfa başına Sonuçlar
-ResultsPerPageShow: Sayfa başına göster xx
-Search: Arama Ürün Belgeleri
-SearchContent: Bu içeriği ara
-SearchHome: Ara Ürün Belgeleri
-ShowTOC: İçindekiler Tablo Göster
-SSOLoginParamError: TOA giriş parametreleri ile bir hata oluştu
-SSOLoginTryAgain: ile tekrar giriş yapmak için çalışın
-SwitchLang: Dili Değiştir
-TemplaesBundlesTitle: Dokümantasyon Kitaplığı
+PublishHowto: Yayımla
+ResultsPerPage: Sayfa başına sonuçlar
+ResultsPerPageShow: Sayfa başına xx sonuç göster
+Search: Ürün Belgelerinde ara
+SearchContent: Bu içerikte ara
+SearchHome: Ürün Belgelerinde Ara
+ShowTOC: İçindekileri göster
+SSOLoginParamError: SSO oturum açma parametrelerinde hata oluştu
+SSOLoginTryAgain: Şununla yeniden oturum açmayı deneyin:
+SwitchLang: Dili değiştir
+TemplaesBundlesTitle: Belge Kitaplığı
 TemplateAddHelperCancel: İptal
 TemplateAddHelperSave: Kaydet
 TemplateAddHelperSaveAndClose: Kaydet ve Kapat
 TemplateAddUserAddUser: Kullanıcı Ekle
 TemplateAddUserCancel: İptal
-TemplateAddUserPasswordMessage: Şifre en az 1 büyük harf, küçük harf 1, 1 özel karakter ve 1 numara olmak üzere en az 8 karakter uzunluğunda olmalıdır.
-TemplateAdminArticleManagement: Madde Yönetimi
+TemplateAddUserPasswordMessage: Parola, 8 karakter uzunluğunda olmalı ve en az 1 büyük harf, 1 küçük harf, 1 özel karakter ve 1 rakam içermelidir.
+TemplateAdminArticleManagement: Makale Yönetimi
 TemplateAdminContentRoleGroups: İçerik Rol Grupları
-TemplateAdminCSHConfigFile: Download veya CSH Yapılandırma dosyasını güncelleştirmek
-TemplateAdminElasticReindex: Arama İndeksi Yeniden
-TemplateAdminExportComments: İhracat Yorumlar
-TemplateAdminExportRatings: İhracat Puanları
-TemplateAdminManageManuals: Kılavuzlar yönetme
-TemplateAdminManageResourceManuals: Kaynak Paketleri Yönetin
-TemplateAdminResourceIdCsv: ResourceIds Excel dosyasını indirin
-TemplateAdminSitemap: Site Haritası Yönet
-TemplateAdminSubjectSchemeLocalization: Konu Şeması Lokalizasyonunu yönetin
+TemplateAdminCSHConfigFile: CSH Yapılandırma dosyasını indir veya güncelle
+TemplateAdminElasticReindex: Arama Dizinini Yeniden Oluştur
+TemplateAdminExportComments: Yorumları Dışa Aktar
+TemplateAdminExportRatings: Değerlendirmeleri Dışa Aktar
+TemplateAdminManageManuals: Kullanım Kılavuzlarını Yönet
+TemplateAdminManageResourceManuals: Kaynak Paketlerini yönet
+TemplateAdminResourceIdCsv: ResourceIds Excel dosyasını indir
+TemplateAdminSitemap: Site Haritasını yönet
+TemplateAdminSubjectSchemeLocalization: Konu Düzeni Yerelleştirmesini Yönet
 TemplateAdminTitle: Yönetim
-TemplateAdminUploadCategoryXML: Kategori XML dosyasını yönetin
-TemplateAdminUploadCategoryXml: Yeni Kategori XML dosyası yükle
-TemplateAdminUploadNewLangFile: Yeni Standart Languge Kod dosyası yükle
-TemplateAdminUploadSubjectScheme: Konu Düzeni yönetin
+TemplateAdminUploadCategoryXML: Kategori XML dosyasını yönet
+TemplateAdminUploadCategoryXml: Yeni bir Kategori XML dosyası yükle
+TemplateAdminUploadNewLangFile: Yeni bir Varsayılan Dil Kodu dosyası yükle
+TemplateAdminUploadSubjectScheme: Konu Düzenini Yönet
 TemplateAdminUserGroups: Kullanıcı Grupları
 TemplateAdminUserManagement: Kullanıcı Yönetimi
 TemplateAdminUserRoles: Kullanıcı Rolleri
-TemplateBundlePageCollapse: Collapse
-TemplateBundlePageCollapseTooltip: Tüm Başlıklar kapa
+TemplateBundlePageCollapse: Daralt
+TemplateBundlePageCollapseTooltip: Tüm Başlıkları Daralt
 TemplateBundlePageComments: Yorumlar
 TemplateBundlePageContents: İçindekiler
-TemplateBundlePageExpand: Expand
-TemplateBundlePageExpandTooltip: İçindekiler'i Expand
-TemplateBundlePageFeedback: Yorumlarınız
-TemplateBundlePageFeedbackThankYou: Teşekkür ederiz! Yorumlarınız gönderildi.
-TemplateBundlePageFeedbackTooltip: Geribildirim Gönder
-TemplateBundlePageFilterTitle: Bir veya daha fazla seçenek seçin
+TemplateBundlePageExpand: Genişlet
+TemplateBundlePageExpandTooltip: İçindekileri genişlet
+TemplateBundlePageFeedback: Geri Bildirim
+TemplateBundlePageFeedbackThankYou: Teşekkür ederiz! Yorumlarınız gönderildi. 
+TemplateBundlePageFeedbackTooltip: Geri Bildirim Gönder
+TemplateBundlePageFilterTitle: Bir veya daha fazla seçenek belirle
 TemplateBundlePageNext: Sonraki
-TemplateBundlePageNextTopicTooltip: Sonraki Konu git
+TemplateBundlePageNextTopicTooltip: Sonraki Konuya Git
 TemplateBundlePageNo: Hayır
-TemplateBundlePagePrevious: Önceki
-TemplateBundlePagePrevTopicTooltip: Önceki Konu git
-TemplateBundlePagePrint: Baskı
-TemplateBundlePagePrintTooltip: Baskı Konu
-TemplateBundlePagePrivacy: gizliliğinizi korumak için, irtibat bilgilerinizi görüşlerinize eklemeyin. Gizlilik politikamızı inceleyin.
-TemplateBundlePageProvideFeedbackTooltip: Geri Bildirim
-TemplateBundlePageSaveAsPDF: PDF olarak kaydet
-TemplateBundlePageSavePDFTooltip: PDF olarak kaydet
-TemplateBundlePageSaveSelectedTopic: Seçilen Kaydet konu
-TemplateBundlePageSaveSelectedTopicAndSubtopics: Seçilen konu ve alt konuları kaydet
-TemplateBundlePageSeeAlso Ayrıca bakınız:
+TemplateBundlePagePrevious: Geri 
+TemplateBundlePagePrevTopicTooltip: Önceki Konuya Git
+TemplateBundlePagePrint: Yazdır
+TemplateBundlePagePrintTooltip: Konuyu Yazdır
+TemplateBundlePagePrivacy: Gizliliğinizi korumak için geri bildiriminize iletişim bilgileri eklemeyin. Gizlilik ilkemizi inceleyin.
+TemplateBundlePageProvideFeedbackTooltip: Geri Bildirim Ver
+TemplateBundlePageSaveAsPDF: PDF Olarak Kaydet
+TemplateBundlePageSavePDFTooltip: PDF Olarak Kaydet
+TemplateBundlePageSaveSelectedTopic: Seçilen konuyu kaydet
+TemplateBundlePageSaveSelectedTopicAndSubtopics: Seçilen konuyu ve alt konuları kaydet
+TemplateBundlePageSeeAlso: Ayrıca bkz.
 TemplateBundlePageSend: Gönder
 TemplateBundlePageSendLink: Gönder
-TemplateBundlePageSendLinkTooltip: Konu ile Bağlantı Gönder
+TemplateBundlePageSendLinkTooltip: Konuya Bağlantı Gönder
 TemplateBundlePageSubmit: Gönder
-TemplateBundlePageWasThisInformationHelpful: Bu bilgi yararlı oldu mu?
+TemplateBundlePageWasThisInformationHelpful: Bu bilgi yardımcı oldu mu?
 TemplateBundlePageYEs: Evet
-TemplateBundlesDeleteLanguage: dili silme
-TemplateBundlesDeleteManual: kılavuzu sil
-TemplateBundlesDownload: İndirme paket
-TemplateBundlesDownloadClassification: Sınıflandırma XML İndir
-TemplateBundlesHiddenBundle: Gizli manuel
-TemplateBundlesSearchManuals: Arama Kılavuzları
-TemplateBundlesUploadClassification: Yükleme Sınıflandırma XML
-TemplateClassificationForManual: kılavuzuna
-TemplateClassificationUploadClassificationMap: Yükleme Sınıflandırma Harita XML
-TemplateClassificationWarnReindex: NOT: Sınıflandırma Harita yükleniyor tüm site yeniden dizine neden olur. Bu bir kaç dakika sürebilir.
+TemplateBundlesDeleteLanguage: Dil seçeneğini sil
+TemplateBundlesDeleteManual: Kullanım kılavuzunu sil
+TemplateBundlesDownload: Seti indir
+TemplateBundlesDownloadClassification: Sınıflandırma XML’ini indir
+TemplateBundlesHiddenBundle: Gizli kullanım kılavuzu
+TemplateBundlesSearchManuals: Kullanım Kılavuzlarında Ara
+TemplateBundlesUploadClassification: Sınıflandırma XML’ini yükle
+TemplateClassificationForManual: Kullanım kılavuzu için
+TemplateClassificationUploadClassificationMap: Sınıflandırma Haritası XML’ini Yükle
+TemplateClassificationWarnReindex: NOT: Sınıflandırma Haritası yüklendiğinde tüm site dizini yeniden oluşturulur. Bu işlem birkaç dakika sürebilir.
 TemplateContentRolesCRGroups: İçerik Rol Grupları
-TemplateContentRolesDefineNewCR: Yeni İçerik Rol tanımla
+TemplateContentRolesDefineNewCR: Yeni İçerik Rolü Tanımla
 TemplateDefaultLayoutAdministration: Yönetim
 TemplateDefaultLayoutArticles: Makaleler
 TemplateDefaultLayoutBrowseDocumentation: Gözat
-TemplateDefaultLayoutDocumentation: Dokümantasyon Kitaplığı
-TemplateDefaultLayoutHome: Ev
-TemplateDefaultLayoutLanguages: Amerika Birleşik Devletleri - İngilizce
-TemplateDefaultLayoutLinksCareers: Kariyer
-TemplateDefaultLayoutLinksContactUs: Bize
-TemplateDefaultLayoutLinksIntelCorp: Intel Corporation ©
-TemplateDefaultLayoutLinksLegalContractsandTerms: Yasal Sözleşmeler ve Şartlar
-TemplateDefaultLayoutLinksLegalNotices: Yasal Uyarılar
+TemplateDefaultLayoutDocumentation: Belge Kitaplığı
+TemplateDefaultLayoutHome: Giriş Sayfası
+TemplateDefaultLayoutLanguages: United States - English
+TemplateDefaultLayoutLinksCareers: Kariyer Fırsatları
+TemplateDefaultLayoutLinksContactUs: Bize Ulaşın
+TemplateDefaultLayoutLinksIntelCorp: © Intel Corporation
+TemplateDefaultLayoutLinksLegalContractsandTerms: Yasal Sözleşmeler ve Koşullar
+TemplateDefaultLayoutLinksLegalNotices: Yasal Bildirimler 
 TemplateDefaultLayoutLinksSiteMap: Site Haritası
-TemplateDefaultLayoutLinksWebsiteFeedback: Web Sitesi Geri Bildirim
-TemplateDefaultLayoutLogout: Çıkış yapın
+TemplateDefaultLayoutLinksWebsiteFeedback: Web Sitesi Geri Bildirimi
+TemplateDefaultLayoutLogout: Oturumu kapat
 TemplateDefaultLayoutProfile: Profil
 TemplateDefaultLayoutVideos: Videolar
-TemplateFilterCurrentPublication: Şu Yayın
-TemplateRequestResetPasswordEmail: E-Posta
-TemplateRequestResetPasswordSubmit: İstek Parola Sıfırlama E-posta
-TemplateSearchCurrentPublication adı @ Metin: Mevcut arama '# {name}' yayına sınırlıdır
-TemplateSearchPageClearTooltip: Filtreleri Temizle
-TemplateSearchPageFirstPageTooltip: Birinci Sayfa git
+TemplateFilterCurrentPublication: Geçerli Yayın
+TemplateRequestResetPasswordEmail: E-posta
+TemplateRequestResetPasswordSubmit: Parola Sıfırlama E-postası İste
+TemplateSearchCurrentPublication name@Text: Geçerli arama '#{name}' adlı yayınla sınırlıdır
+TemplateSearchPageClearTooltip: Filtreleri temizle
+TemplateSearchPageFirstPageTooltip: İlk Sayfaya Git
 TemplateSearchPageLastPageTooltip: Son Sayfaya Git
 TemplateSearchPageNextPageTooltip: Sonraki Sayfaya Git
 TemplateSearchPagePrevPageTooltip: Önceki sayfaya git
 TemplateSearchPublicationTitle: Yayın
-TemplateSearchSortbyCreatedAsc: Oluşturulma Tarihi - Artan
-TemplateSearchSortbyCreatedDec: Oluşturulma Tarihi - Büyükten
+TemplateSearchSortbyCreatedAsc: Oluşturulma Tarihi – Eskiden Yeniye
+TemplateSearchSortbyCreatedDec: Oluşturulma Tarihi - Yeniden Eskiye
 TemplateSearchSortbyScore: Puan
-TemplateSearchSortbyUpdatedAsc: Eklenme Tarihi - Artan
-TemplateSearchSortbyUpdatedDec: Eklenme Tarihi - Büyükten
-TemplateSearchSortbyViews: Görüntüleme sayısı
-TemplatesSearchPageClear: Şeffaf
-TemplatesSearchPageCurrentResults: zzz Sonuçları xx-yy
-TemplatesSearchPageRefilneResults: Refine Sonuçlar
-TemplatesSearchPageResultUpdated: Güncellendi
-TemplateUploadSitemapDisable: Devre dışı site haritası
-TemplateUploadSitemapDisabled: Site devre dışı
-TemplateUploadSitemapDisabledWord: Engelli
-TemplateUploadSitemapDownloadSitemap: İndirme sitemap.xml
-TemplateUploadSitemapEnable: site haritası etkinleştirme
-TemplateUploadSitemapEnabled: Site etkin
+TemplateSearchSortbyUpdatedAsc: Eklenme Tarihi – Eskiden Yeniye
+TemplateSearchSortbyUpdatedDec: Eklenme Tarihi – Yeniden Eskiye
+TemplateSearchSortbyViews: Görüntülenme Sayısı
+TemplatesSearchPageClear: Temizle
+TemplatesSearchPageCurrentResults: zzz sonuçtan xx-yy tanesi
+TemplatesSearchPageRefilneResults: Sonuçları Daralt
+TemplatesSearchPageResultUpdated: Güncelleme tarihi:
+TemplateUploadSitemapDisable: Site haritasını devre dışı bırak
+TemplateUploadSitemapDisabled: Site haritası devre dışı bırakıldı
+TemplateUploadSitemapDisabledWord: Devre dışı
+TemplateUploadSitemapDownloadSitemap: Sitemap.xml dosyasını indir
+TemplateUploadSitemapEnable: Site haritasını etkinleştir
+TemplateUploadSitemapEnabled: Site haritası etkinleştirildi
 TemplateUploadSitemapEnabledWord: Etkin
-TemplateUploadSitemapLegend: Yükleme sitemap.xml
-TemplateUploadSitemapStatus @ Metin STS: Site # olan {STS}
-TemplTemplateBundlePageProvideFeedbackTooltip: geri bildirim gönderin
+TemplateUploadSitemapLegend: Sitemap.xml dosyasını yükle
+TemplateUploadSitemapStatus sts@Text: Site haritası #{sts}
+TemplTemplateBundlePageProvideFeedbackTooltip: Geri Bildirim gönder
 TextPass txt@Text: #{txt}
-Upload: Yükleme
-UploadLink: Yükleme yayın
+Upload: Yükle
+UploadLink: Yayını yükle
 YesodAuthStormPathSSOErrorOccured: Bir hata oluştu
-YesodAuthStormPathSSOLoginParamError: TOA giriş parametreleri ile bir hata oluştu
-YesodAuthStormPathSSOLoginTryAgain: ile tekrar giriş yapmak için çalışın
+YesodAuthStormPathSSOLoginParamError: SSO oturum açma parametrelerinde hata oluştu
+YesodAuthStormPathSSOLoginTryAgain: Şununla yeniden oturum açmayı deneyin:

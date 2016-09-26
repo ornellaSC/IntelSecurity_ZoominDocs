@@ -1,278 +1,278 @@
-AdvancedSearch：高級搜索
-AdvancedSearchTooltip：選擇的內容過濾器
-BreadcrumbsProductDocumentationHome：產品文檔首頁
-BreadcrumbsSearch：搜索
-Cancel:取消
-Close:關閉
-DeleteText：刪除
-ErrorOccured：發生錯誤
-FilterUsers：過濾器的用戶：
-FoundationLoginOnly：登錄
-FoundationLoginRegister：登錄/註冊
-HandlerAdminOnlyAdmin：拒絕訪問
-HandlerBundlePageAltCSHResult：備用CSH找到主題
-HandlerCategoriesCategoryXMLFileUploaded：類別XML文件上傳
-HandlerClassificationUpdated：分類地圖更新
-HandlerClassificationXMLFile：更新的分類地圖
-HandlerCommentsComments：評論
-HandlerCommentsOneComment：1條評論
-HandlerCommentsPostedCommentOn：發布了評論
-HandlerContentRolesAreYouSureDelete：您確定要刪除這個內容的角色？
-HandlerContentRolesCRDeleted：內容刪除角色
-HandlerContentRolesErrorDeleting：出現問題。內容的作用是不會被刪除。
-HandlerCshAlternateCSHTopicFound：備用CSH主題發現
-HandlerCshCSHRulesUpdated：CSH規則更新
-HandlerCshInvalidAlias​​es：無效的別名鍵CSH中找到的網址
-HandlerCshInvalidCSHRulesFile：無效的CSH規則文件
-HandlerCshNewCshFile：上傳新的CSH配置文件
-HandlerCshReservedAlias​​esUsed：保留別名用於CSH配置文件
-HandlerCustomError400H2：400
-HandlerCustomError400H3：壞請求
-HandlerCustomError401H2：401
-HandlerCustomError401H3：未經授權
-HandlerCustomError403H2：403
-HandlerCustomError403H3：禁止
-HandlerCustomError404H2：404
-HandlerCustomError404H3：未找到
-HandlerCustomError405H2：405
-HandlerCustomError405H3：不允許的方法
-HandlerCustomError500H2：500
-HandlerCustomError500H3：內部服務器錯誤
-HandlerFontoDocumentSaved：文檔保存
-HandlerFontoErrorGeneratingUUID：錯誤生成UUID
-HandlerFontoErrorParsingID：錯誤ID的解析
-HandlerFontoErrorParsingXML：錯誤的解析XML
-HandlerFontoErrorParsingXMLToDocument：錯誤解析XML文檔來
-HandlerFontoNoFileFound：未找到文件
-HandlerFontoNoIDFound：ID未找到
-HandlerFontoUntitledFromCursor：無題 - 從游標
-HandlerGroupsErrorReadingGroupID：錯誤讀取組ID
-HandlerGroupsGroupUpdated：組更新
-HandlerGroupsMustUseUniqueGroupName：必須使用唯一的組名
-HandlerGroupsNoGroupNameFound：組名找到
-HandlerGroupsUnableAssignRole：無法分配角色
-HandlerHowtoContent：內容
-HandlerHowtoDeleted：刪除條
-HandlerHowtoInsufficientPermissions：沒有足夠的權限來編輯該文章
-HandlerHowtoSaved：保存
-HandlerHowtoTitle：標題
-HandlerHtmlEmptyMyDocs：空MyDocs
-HandlerLangDefaultLanguageCodeFileUpdated：更新默認語言代碼文件
-HandlerLangNewLangFile：上傳新的默認語言代碼文件
-HandlerMyPubSourcePublication：來源出版物
-HandlerProfileDisplayName：顯示名稱
-HandlerProfileScreenName：網名
-HandlerProfileUpdated：個人資料已更新
-HandlerProfileUsernameInUse：用戶名存在
-HandlerRatingsInvalidRating：無效的評分
-HandlerRatingsRatingRecorded：已將你的評估記錄
-HandlerRatingsRatingUpdated：您的投票已更新
-HandlerRolesErrorReadingRoleID：錯誤讀取角色ID
-HandlerRolesMustUseUniqueRoleName：使用唯一的角色名稱
-HandlerRolesNoRoleNameFound：無角色名找到
-HandlerRolesNotEnoughAdminUsersRemaining：無法分配用戶
-HandlerRolesSelectedPermissionsLessThenDefault：無法分配權限：選擇的權限比默認權限設置少
-HandlerSearchAllResults：所有結果
-HandlerSearchNoResults：沒有結果
-HandlerSearchOneResult：一個結果
-HandlerSitemapFile：Sitemap文件
-HandlerSitemapFileUploaded：成功更新的站點地圖。
-HandlerSubjectSchemeInvalidSubjectSchemeLocalizationFile：無效的主題方案本地化文件
-HandlerSubjectSchemeLangDeleted郎@文字：＃{}郎刪除本地化文件
-HandlerSubjectSchemeLangsAvailable：可用語言
-HandlerSubjectSchemeLangsDeleteConfirm：您確定要刪除的文件的本地化？
-HandlerSubjectSchemeLangsDeleteError：錯誤刪除本地化文件。
-HandlerSubjectSchemeLangsNewFile：上傳新SubjectScheme本地化文件
-HandlerSubjectSchemeLangUpdated郎@文字：＃{}郎本地化更新文件
-HandlerSubjectSchemeLangUploaded郎@文字：＃{}郎上傳文件的本地化
-HandlerSubjectSchemeProblemOccurredWhileUploadingSubjectScheme：在上傳該主題計劃時出現問題。
-HandlerSubjectSchemeSubjectSchemeUploadedSuccessfully：主題方案上傳成功
-HandlerSubjectSchemeUnknownLanguageCode：未知語言代碼
-HandlerSubjectSchemeUpdated：主題更新計劃
-HandlerSubjectSchemeXMLFile：主題方案XML文件
-HandlerUploadBundleBundle：包
-HandlerUploadBundleDeleteError點¯x@文字：錯誤刪除＃{X}
-HandlerUploadBundleDeleteSuccess點¯x@文字：已成功刪除＃{X}
-HandlerUploadBundleError：錯誤
-HandlerUploadBundleErrorPleaseUpdateSuiteBundleVersion：錯誤 - 請更新您的軟件包版本
-HandlerUploadBundleNoContentToDelete點¯x@文字：沒有內容可在＃刪除{X}
-HandlerUploadBundleOneBundleError：錯誤填充上傳包
-HandlerUploadBundlePublicationUploadedSuccessfully：出版上傳成功
-HandlerUploadBundleSheaf：一捆
-HandlerUsersAddedSuccess：用戶成功添加
-HandlerUsersBadEmail：該電子郵件地址未註冊
-HandlerUsersCRCreated：內容的角色創建組
-HandlerUsersCRGroupNameInUse：內容角色名已在使用
-HandlerUsersCRSetGroupName：請為這個內容角色組設置一個名稱
-HandlerUsersCRUpdated：內容角色組更新
-HandlerUsersDefineCR：定義新內容角色組
-HandlerUsersDeleteSuccess：刪除用戶成功
-HandlerUsersEmailError：錯誤發送密碼重置郵件
-HandlerUsersInvalidToken：無效令牌
-HandlerUsersNoResetToken：沒有重置令牌
-HandlerUsersNoRoleIdFound：無角色ID找到
-HandlerUsersPasswordEmailSent：密碼重置電子郵件發送
-HandlerUsersRegisterSuccess：註冊用戶成功地
-HandlerUsersResetPasswordError：錯誤密碼重置
-HandlerUsersRolesUpdated：用戶角色更新
-HandlerUsersUnableToAssignUserPermissionRole：無法分配用戶權限角色
-HandlerUsersUnknownError：未知的錯誤
+AdvancedSearch: 進階搜尋 
+AdvancedSearchTooltip: 選取內容篩選器
+BreadcrumbsProductDocumentationHome: 產品說明文件首頁
+BreadcrumbsSearch: 搜尋
+Cancel: 取消
+Close: 關閉
+DeleteText: 刪除
+ErrorOccured: 發生一個錯誤
+FilterUsers: 篩選使用者:
+FoundationLoginOnly: 登入
+FoundationLoginRegister: 登入/註冊
+HandlerAdminOnlyAdmin: 存取遭拒
+HandlerBundlePageAltCSHResult: 找到備用 CSH 主題
+HandlerCategoriesCategoryXMLFileUploaded: 已上傳類別 XML 檔案
+HandlerClassificationUpdated: 分類導覽已更新
+HandlerClassificationXMLFile: 已更新分類導覽
+HandlerCommentsComments: 個註解
+HandlerCommentsOneComment: 1 個註解
+HandlerCommentsPostedCommentOn: 在以下位置張貼了一個註解:
+HandlerContentRolesAreYouSureDelete: 是否確定要刪除此內容角色？
+HandlerContentRolesCRDeleted: 已刪除內容角色
+HandlerContentRolesErrorDeleting: 發生問題。 未刪除內容角色。
+HandlerCshAlternateCSHTopicFound: 找到備用 CSH 主題
+HandlerCshCSHRulesUpdated: 已更新 CSH 規則
+HandlerCshInvalidAliases: 在 CSH URL 中找到無效的別名金鑰
+HandlerCshInvalidCSHRulesFile: CSH 規則檔案無效
+HandlerCshNewCshFile: 上傳新 CSH 組態檔案
+HandlerCshReservedAliasesUsed: 在 CSH 組態檔案中使用了保留別名
+HandlerCustomError400H2: 400
+HandlerCustomError400H3: 錯誤的請求
+HandlerCustomError401H2: 401
+HandlerCustomError401H3: 未經授權
+HandlerCustomError403H2: 403
+HandlerCustomError403H3: 已禁止
+HandlerCustomError404H2: 404
+HandlerCustomError404H3: 找不到
+HandlerCustomError405H2: 405
+HandlerCustomError405H3: 不允許的方法
+HandlerCustomError500H2: 500
+HandlerCustomError500H3: 內部伺服器錯誤
+HandlerFontoDocumentSaved: 已儲存文件
+HandlerFontoErrorGeneratingUUID: 產生 UUID 時發生錯誤
+HandlerFontoErrorParsingID: 剖析 ID 時發生錯誤
+HandlerFontoErrorParsingXML: 剖析 XML 時發生錯誤
+HandlerFontoErrorParsingXMLToDocument: 將 XML 剖析到文件時發生錯誤
+HandlerFontoNoFileFound: 找不到檔案
+HandlerFontoNoIDFound: 找不到 ID
+HandlerFontoUntitledFromCursor: 無標題 – 自游標
+HandlerGroupsErrorReadingGroupID: 讀取群組 ID 時發生錯誤
+HandlerGroupsGroupUpdated: 已更新群組
+HandlerGroupsMustUseUniqueGroupName: 必須使用唯一群組名稱
+HandlerGroupsNoGroupNameFound: 找不到群組名稱
+HandlerGroupsUnableAssignRole: 無法指派角色
+HandlerHowtoContent: 內容
+HandlerHowtoDeleted: 文章已刪除
+HandlerHowtoInsufficientPermissions: 權限不足，無法編輯此文章
+HandlerHowtoSaved: 已儲存
+HandlerHowtoTitle: 標題
+HandlerHtmlEmptyMyDocs: 空 MyDocs
+HandlerLangDefaultLanguageCodeFileUpdated: 已更新預設語言代碼檔案
+HandlerLangNewLangFile: 上傳新預設語言代碼檔案
+HandlerMyPubSourcePublication: 來源發佈內容
+HandlerProfileDisplayName: 顯示名稱
+HandlerProfileScreenName: 畫面名稱
+HandlerProfileUpdated: 設定檔已更新
+HandlerProfileUsernameInUse: 使用者名稱存在
+HandlerRatingsInvalidRating: 分級無效
+HandlerRatingsRatingRecorded: 已記錄您的分級
+HandlerRatingsRatingUpdated: 已更新您的分級
+HandlerRolesErrorReadingRoleID: 讀取角色 ID 時發生錯誤
+HandlerRolesMustUseUniqueRoleName: 使用唯一角色名稱
+HandlerRolesNoRoleNameFound: 找不到角色名稱
+HandlerRolesNotEnoughAdminUsersRemaining: 無法指派使用者
+HandlerRolesSelectedPermissionsLessThenDefault: 無法指派權限: 所選權限數少於預設權限集中的權限數
+HandlerSearchAllResults: 所有結果
+HandlerSearchNoResults: 無結果
+HandlerSearchOneResult: 一個結果
+HandlerSitemapFile: 網站導覽檔案
+HandlerSitemapFileUploaded: 已成功更新網站導覽。
+HandlerSubjectSchemeInvalidSubjectSchemeLocalizationFile: 主旨方案當地語系化檔案無效
+HandlerSubjectSchemeLangDeleted lang@Text: #{lang} 已刪除當地語系化檔案
+HandlerSubjectSchemeLangsAvailable: 可用語言
+HandlerSubjectSchemeLangsDeleteConfirm: 是否確定要刪除此當地語系化檔案？ 
+HandlerSubjectSchemeLangsDeleteError: 刪除當地語系化檔案時發生錯誤。
+HandlerSubjectSchemeLangsNewFile: 上傳新的 SubjectScheme 當地語系化檔案
+HandlerSubjectSchemeLangUpdated lang@Text: #{lang} 已更新當地語系化檔案
+HandlerSubjectSchemeLangUploaded lang@Text: #{lang} 已上傳當地語系化檔案 
+HandlerSubjectSchemeProblemOccurredWhileUploadingSubjectScheme: 上傳主旨方案時發生問題。
+HandlerSubjectSchemeSubjectSchemeUploadedSuccessfully: 已成功上傳主旨方案
+HandlerSubjectSchemeUnknownLanguageCode: 未知語言代碼
+HandlerSubjectSchemeUpdated: 主旨方案已更新
+HandlerSubjectSchemeXMLFile: 主旨方案 XML 檔案
+HandlerUploadBundleBundle: 套件
+HandlerUploadBundleDeleteError x@Text: 刪除 #{x} 時發生錯誤
+HandlerUploadBundleDeleteSuccess x@Text: 已成功刪除 #{x}
+HandlerUploadBundleError: 錯誤
+HandlerUploadBundleErrorPleaseUpdateSuiteBundleVersion: 錯誤 - 請更新您的套件版本
+HandlerUploadBundleNoContentToDelete x@Text: #{x} 中沒有要刪除的內容 
+HandlerUploadBundleOneBundleError: 填入上傳的套件時發生錯誤
+HandlerUploadBundlePublicationUploadedSuccessfully: 已成功上傳發佈內容
+HandlerUploadBundleSheaf: sheaf
+HandlerUsersAddedSuccess: 已成功新增使用者
+HandlerUsersBadEmail: 該電子郵件地址未註冊
+HandlerUsersCRCreated: 已建立內容角色群組
+HandlerUsersCRGroupNameInUse: 內容角色名稱已在使用中
+HandlerUsersCRSetGroupName: 請設定此內容角色群組的名稱
+HandlerUsersCRUpdated: 已更新內容角色群組
+HandlerUsersDefineCR: 定義新內容角色群組
+HandlerUsersDeleteSuccess: 已成功刪除使用者
+HandlerUsersEmailError: 傳送密碼重設電子郵件時發生錯誤
+HandlerUsersInvalidToken: Token 無效
+HandlerUsersNoResetToken: 未重設 Token
+HandlerUsersNoRoleIdFound: 找不到角色 ID
+HandlerUsersPasswordEmailSent: 已傳送密碼重設電子郵件
+HandlerUsersRegisterSuccess: 已成功註冊使用者
+HandlerUsersResetPasswordError: 重設密碼時發生錯誤
+HandlerUsersRolesUpdated: 已更新使用者角色
+HandlerUsersUnableToAssignUserPermissionRole: 無法指派使用者權限角色
+HandlerUsersUnknownError: 未知錯誤
 HideTOC: 隱藏目錄
-ImportAddHelperProblemRunningAddHelper：問題運行addHelper
-ImportBundlesTooManyTopics NUM // @詮釋：最多＃{的表演NUM}主題可以發布。請選擇較少的主題，然後再試一次。
-ImportElasticAnalyzerError： - 注：自定義分析錯誤，請參閱日誌了解詳情。使用默認的分析儀。
-ImportElasticErrorRebuilding：錯誤重建索引 - 看日誌了解更多詳情。
-ImportElasticErrorUpdating：錯誤更新指標 - 看日誌了解更多詳情。
-ImportElasticIndexRebuilt點¯x@文字：指數成功重建＃{X}
-ImportElasticIndexUpdated點¯x@文字：指數成功更新＃{X}
-ImportElasticNoPagesFound：沒有在頁面數據庫中找到 - 指數復位。
-ImportElasticNoPagesInBundle：沒有在頁面發現上傳
-ImportInvalidPassword：無效密碼
-ImportRatingsOneRating：1評級
-ImportRatingsRatings：評級
-ImportRolesPermissionDenied：權限被拒絕
-ImportSearchNoCategoriesUploaded：沒有分類的XML文件上傳
-ImportSearchUnknownTopicLink：***未知主題鏈接***
-ImportUsersCaptchaError：驗證碼無效
-ImportUsersCaptchaParseError：驗證碼錯誤
-ImportUsersEmailFieldError：未找到電子郵件領域。
-ImportUsersFldEmail：電子郵件
-ImportUsersFldFirstName：名
-ImportUsersFldLastName：姓
-ImportUsersFldPassword：密碼
-ImportUsersFldReenterPass：重新輸入密碼
-ImportUsersInvalidPass：無效的密碼：選定的密碼必須至少8個字符，其中至少1個大寫字母，1個小寫字母，特殊字符和1個數字。
-LoggedInAs電子郵件@文字：登錄身份＃{EMAIL}。
-Manuals:使用手冊
-PDFPage：頁
-ProductDocumentationSplashTitle: 產品文檔
-PublishHowto：發布
-ResultsPerPage：結果每頁
-ResultsPerPageShow：每頁顯示XX
-Search:搜索產品文檔
-SearchContent：搜索該內容
-SearchHome：搜索產品文檔
-ShowTOC: 顯示內容表格
-SSOLoginParamError：有一個與SSO登錄參數錯誤
-SSOLoginTryAgain：嘗試在重新登錄
-SwitchLang：更改語言
-TemplaesBundlesTitle：文檔庫
-TemplateAddHelperCancel：取消
-TemplateAddHelperSave：保存
-TemplateAddHelperSaveAndClose：保存並關閉
-TemplateAddUserAddUser：添加用戶
-TemplateAddUserCancel：取消
-TemplateAddUserPasswordMessage：密碼必須至少8個字符，其中至少1個大寫字母，1個小寫字母，特殊字符和1個數字。
-TemplateAdminArticleManagement：物品管理
-TemplateAdminContentRoleGroups：內容角色組
-TemplateAdminCSHConfigFile：下載或更新CSH的配置文件
-TemplateAdminElasticReindex：重建搜索索引
-TemplateAdminExportComments：出口評論
-TemplateAdminExportRatings：出口評級
-TemplateAdminManageManuals：管理手冊
-TemplateAdminManageResourceManuals：管理資源包
-TemplateAdminResourceIdCsv：下載ResourceIds Excel文件
-TemplateAdminSitemap：管理網站地圖
-TemplateAdminSubjectSchemeLocalization：管理主題方案本地化
-TemplateAdminTitle：管理
-TemplateAdminUploadCategoryXML：管理類XML文件
-TemplateAdminUploadCategoryXml：上傳一個新的類別的XML文件
-TemplateAdminUploadNewLangFile：上傳一個新的默認Languge代碼文件
-TemplateAdminUploadSubjectScheme：管理主題方案
-TemplateAdminUserGroups：用戶組
-TemplateAdminUserManagement：用戶管理
-TemplateAdminUserRoles：用戶角色
-TemplateBundlePageCollapse：收起
-TemplateBundlePageCollapseTooltip：收起所有的標題
-TemplateBundlePageComments：評論
-TemplateBundlePageContents：內容
-TemplateBundlePageExpand：展開
-TemplateBundlePageExpandTooltip：擴展目錄
-TemplateBundlePageFeedback：信息反饋
-TemplateBundlePageFeedbackThankYou：謝謝！您的意見被送到。
-TemplateBundlePageFeedbackTooltip：提交反饋
-TemplateBundlePageFilterTitle：選擇一個或多個選項
-TemplateBundlePageNext：下一頁
-TemplateBundlePageNextTopicTooltip：轉到下一主題
-TemplateBundlePageNo：否
-TemplateBundlePagePrevious：上一頁
-TemplateBundlePagePrevTopicTooltip：進入上一主題
-TemplateBundlePagePrint：打印
-TemplateBundlePagePrintTooltip：打印主題
-TemplateBundlePagePrivacy：為了保護您的隱私，請不要在您的反饋聯繫信息。查看我們的隱私政策。
-TemplateBundlePageProvideFeedbackTooltip：提供反饋
-TemplateBundlePageSaveAsPDF：另存為PDF
-TemplateBundlePageSavePDFTooltip：另存為PDF
-TemplateBundlePageSaveSelectedTopic：保存所選主題
-TemplateBundlePageSaveSelectedTopicAndSubtopics：保存選定主題和副主題
-TemplateBundlePageSeeAlso：又見
-TemplateBundlePageSend：發送
-TemplateBundlePageSendLink：發送
-TemplateBundlePageSendLinkTooltip：發送鏈接主題
-TemplateBundlePageSubmit：提交
-TemplateBundlePageWasThisInformationHelpful：此信息是否有用？
-TemplateBundlePageYEs：是
-TemplateBundlesDeleteLanguage：刪除語言
-TemplateBundlesDeleteManual：手動刪除
-TemplateBundlesDownload：下載包
-TemplateBundlesDownloadClassification：下載分類XML
-TemplateBundlesHiddenBundle：隱藏手冊
-TemplateBundlesSearchManuals：搜索手冊
-TemplateBundlesUploadClassification：上傳分類XML
-TemplateClassificationForManual：手動
-TemplateClassificationUploadClassificationMap：上傳分類地圖XML
-TemplateClassificationWarnReindex：注意：上傳分類圖將導致整個網站被重新索引。這可能會需要幾分鐘。
-TemplateContentRolesCRGroups：內容角色組
-TemplateContentRolesDefineNewCR：定義新內容的角色
-TemplateDefaultLayoutAdministration：管理
-TemplateDefaultLayoutArticles：文章
-TemplateDefaultLayoutBrowseDocumentation：瀏覽
-TemplateDefaultLayoutDocumentation：文檔庫
-TemplateDefaultLayoutHome：首頁
-TemplateDefaultLayoutLanguages​​：美國 - 英語
-TemplateDefaultLayoutLinksCareers：招聘
-TemplateDefaultLayoutLinksContactUs：聯繫我們
-TemplateDefaultLayoutLinksIntelCorp：©英特爾公司
-TemplateDefaultLayoutLinksLegalContractsandTerms：法律合同和條款
-TemplateDefaultLayoutLinksLegalNotices：法律聲明
-TemplateDefaultLayoutLinksSiteMap：網站地圖
-TemplateDefaultLayoutLinksWebsiteFeedback：網站反饋
-TemplateDefaultLayoutLogout：退出
-TemplateDefaultLayoutProfile：簡介
-TemplateDefaultLayoutVideos：視頻
-TemplateFilterCurrentPublication：當前出版物
-TemplateRequestResetPasswordEmail：電子郵件
-TemplateRequestResetPasswordSubmit：要求密碼重置郵件
-TemplateSearchCurrentPublication名@文字：當前搜索僅限於“＃（名稱）”出版
-TemplateSearchPageClearTooltip：清除篩選
-TemplateSearchPageFirstPageTooltip：轉到第一頁
-TemplateSearchPageLastPageTooltip：轉到最後一頁
-TemplateSearchPageNextPageTooltip：轉到下一頁
-TemplateSearchPagePrevPageTooltip：到前一頁
-TemplateSearchPublicationTitle：出版
-TemplateSearchSortbyCreatedAsc:創建日期 - 遞增
-TemplateSearchSortbyCreatedDec：創建日期 -  Decending
-TemplateSearchSortbyScore：得分
-TemplateSearchSortbyUpdatedAsc：添加日期 - 升序
-TemplateSearchSortbyUpdatedDec：添加日期 -  Decending
-TemplateSearchSortbyViews：查看人數
-TemplatesSearchPageClear：清除
-TemplatesSearchPageCurrentResults：ZZZ結果XX-YY，
-TemplatesSearchPageRefilneResults：提純結果
-TemplatesSearchPageResultUpdated：更新
-TemplateUploadSitemapDisable：禁用網站地圖
-TemplateUploadSitemapDisabled：禁用地圖
-TemplateUploadSitemapDisabledWord：禁用
-TemplateUploadSitemapDownloadSitemap：下載sitemap.xml的
-TemplateUploadSitemapEnable：啟用站點地圖
-TemplateUploadSitemapEnabled：開通了網站地圖
-TemplateUploadSitemapEnabledWord：啟用
-TemplateUploadSitemapLegend：上傳sitemap.xml的
-TemplateUploadSitemapStatus STS @文字：網頁是＃{} STS
-TemplTemplateBundlePageProvideFeedbackTooltip：提交反饋
-TextPass TXT文本@：＃{} TXT
-Upload：上傳
-UploadLink：上傳發布
-YesodAuthStormPathSSOErrorOccured：時出錯
-YesodAuthStormPathSSOLoginParamError：有一個與SSO登錄參數錯誤
-YesodAuthStormPathSSOLoginTryAgain：嘗試在重新登錄
+ImportAddHelperProblemRunningAddHelper: 執行 addHelper 時發生問題
+ImportBundlesTooManyTopics num@Int: 最多可以發佈 #{show num} 個主題。 請選取較少主題，然後再試一次。
+ImportElasticAnalyzerError: - 附註: 自訂分析程式錯誤，請查看記錄瞭解詳細資料。 使用預設分析程式。 
+ImportElasticErrorRebuilding: 重新建置索引時發生錯誤 – 請查看記錄瞭解更多詳細資料。
+ImportElasticErrorUpdating: 更新索引時發生錯誤 - 請查看記錄瞭解更多詳細資料。
+ImportElasticIndexRebuilt x@Text: 已成功重新建置索引 #{x}
+ImportElasticIndexUpdated x@Text: 已成功更新索引 #{x}
+ImportElasticNoPagesFound: 在資料庫中找不到頁面 – 索引重設。
+ImportElasticNoPagesInBundle: 在上傳內容中找不到頁面
+ImportInvalidPassword: 密碼無效
+ImportRatingsOneRating: 1 個分級
+ImportRatingsRatings: 個分級
+ImportRolesPermissionDenied: 權限遭拒
+ImportSearchNoCategoriesUploaded: 未上傳類別 XML 檔案
+ImportSearchUnknownTopicLink: *** 未知主題連結 ***
+ImportUsersCaptchaError: 無效的 reCAPTCHA 
+ImportUsersCaptchaParseError: reCAPTCHA 錯誤
+ImportUsersEmailFieldError: 找不到電子郵件欄位。
+ImportUsersFldEmail: 電子郵件
+ImportUsersFldFirstName: 名字
+ImportUsersFldLastName: 姓氏
+ImportUsersFldPassword: 密碼
+ImportUsersFldReenterPass: 重新輸入密碼
+ImportUsersInvalidPass: 密碼無效: 選取的密碼必須至少包含 8 個字元，其中至少包括 1 個大寫字母、1 個小寫字母、1 個特殊字元和 1 個數字。
+LoggedInAs email@Text: 已使用 #{email} 登入。
+Manuals: 手冊
+PDFPage: 頁面
+ProductDocumentationSplashTitle: 產品說明文件 
+PublishHowto: 發佈
+ResultsPerPage: 每頁的結果數
+ResultsPerPageShow: 每頁顯示 xx 個
+Search: 搜尋產品說明文件
+SearchContent: 搜尋此內容
+SearchHome: 搜尋產品說明文件
+ShowTOC: 顯示目錄
+SSOLoginParamError: SSO 登入參數中存在錯誤
+SSOLoginTryAgain: 請嘗試使用以下內容重新登入
+SwitchLang: 變更語言
+TemplaesBundlesTitle: 說明文件庫
+TemplateAddHelperCancel: 取消
+TemplateAddHelperSave: 儲存
+TemplateAddHelperSaveAndClose: 儲存並關閉
+TemplateAddUserAddUser: 新增使用者
+TemplateAddUserCancel: 取消
+TemplateAddUserPasswordMessage: 密碼必須至少包含 8 個字元，其中至少包括 1 個大寫字母、1 個小寫字母、1 個特殊字元和 1 個數字。
+TemplateAdminArticleManagement: 文章管理
+TemplateAdminContentRoleGroups: 內容角色群組
+TemplateAdminCSHConfigFile: 下載或更新 CSH 組態檔案
+TemplateAdminElasticReindex: 重新建置搜尋索引
+TemplateAdminExportComments: 匯出註解
+TemplateAdminExportRatings: 匯出分級
+TemplateAdminManageManuals: 管理手冊
+TemplateAdminManageResourceManuals: 管理資源套件
+TemplateAdminResourceIdCsv: 下載 ResourceIds Excel 檔案
+TemplateAdminSitemap: 管理網站導覽
+TemplateAdminSubjectSchemeLocalization: 管理主旨方案當地語系化
+TemplateAdminTitle: 管理
+TemplateAdminUploadCategoryXML: 管理類別 XML 檔案
+TemplateAdminUploadCategoryXml: 上傳新類別 XML 檔案
+TemplateAdminUploadNewLangFile: 上傳新預設語言代碼檔案
+TemplateAdminUploadSubjectScheme: 管理主旨方案
+TemplateAdminUserGroups: 使用者群組
+TemplateAdminUserManagement: 使用者管理
+TemplateAdminUserRoles: 使用者角色
+TemplateBundlePageCollapse: 摺疊
+TemplateBundlePageCollapseTooltip: 摺疊所有標題
+TemplateBundlePageComments: 意見
+TemplateBundlePageContents: 目錄
+TemplateBundlePageExpand: 展開
+TemplateBundlePageExpandTooltip: 展開目錄
+TemplateBundlePageFeedback: 意見反映
+TemplateBundlePageFeedbackThankYou: 非常感謝。 您的註解已傳送。 
+TemplateBundlePageFeedbackTooltip: 提交意見反映
+TemplateBundlePageFilterTitle: 選取一或多個選項
+TemplateBundlePageNext: 下一個
+TemplateBundlePageNextTopicTooltip: 前往下一主題
+TemplateBundlePageNo: 否
+TemplateBundlePagePrevious: 上一個 
+TemplateBundlePagePrevTopicTooltip: 前往上一主題
+TemplateBundlePagePrint: 列印
+TemplateBundlePagePrintTooltip: 列印主題
+TemplateBundlePagePrivacy: 為保護您的隱私權，請不要在您的意見反映中包含連絡資訊。 檢閱我們的隱私權政策。
+TemplateBundlePageProvideFeedbackTooltip: 提供意見反映
+TemplateBundlePageSaveAsPDF: 另存為 PDF
+TemplateBundlePageSavePDFTooltip: 另存為 PDF
+TemplateBundlePageSaveSelectedTopic: 儲存選取的主題
+TemplateBundlePageSaveSelectedTopicAndSubtopics: 儲存選取的主題和副主題
+TemplateBundlePageSeeAlso: 另請參閱
+TemplateBundlePageSend: 傳送
+TemplateBundlePageSendLink: 傳送
+TemplateBundlePageSendLinkTooltip: 傳送主題連結
+TemplateBundlePageSubmit: 提交
+TemplateBundlePageWasThisInformationHelpful: 此資訊是否有幫助？
+TemplateBundlePageYEs: 是
+TemplateBundlesDeleteLanguage: 刪除語言
+TemplateBundlesDeleteManual: 刪除手冊
+TemplateBundlesDownload: 下載套件
+TemplateBundlesDownloadClassification: 下載分類 XML
+TemplateBundlesHiddenBundle: 隱藏的手冊
+TemplateBundlesSearchManuals: 搜尋手冊
+TemplateBundlesUploadClassification: 上傳分類 XML
+TemplateClassificationForManual: 對於手冊
+TemplateClassificationUploadClassificationMap: 上傳分類導覽 XML
+TemplateClassificationWarnReindex: 附註: 上傳分類導覽會導致對整個網站重新編制索引。 這可能需要幾分鐘時間。
+TemplateContentRolesCRGroups: 內容角色群組
+TemplateContentRolesDefineNewCR: 定義新內容角色
+TemplateDefaultLayoutAdministration: 管理
+TemplateDefaultLayoutArticles: 文章
+TemplateDefaultLayoutBrowseDocumentation: 瀏覽
+TemplateDefaultLayoutDocumentation: 說明文件庫
+TemplateDefaultLayoutHome: 首頁
+TemplateDefaultLayoutLanguages: United States - English
+TemplateDefaultLayoutLinksCareers: 工作機會
+TemplateDefaultLayoutLinksContactUs: 連絡我們
+TemplateDefaultLayoutLinksIntelCorp: © Intel Corporation
+TemplateDefaultLayoutLinksLegalContractsandTerms: 法律契約和條款
+TemplateDefaultLayoutLinksLegalNotices: 法律聲明 
+TemplateDefaultLayoutLinksSiteMap: 網站導覽
+TemplateDefaultLayoutLinksWebsiteFeedback: 網站意見反映
+TemplateDefaultLayoutLogout: 登出
+TemplateDefaultLayoutProfile: 設定檔
+TemplateDefaultLayoutVideos: 視訊
+TemplateFilterCurrentPublication: 目前發佈內容
+TemplateRequestResetPasswordEmail: 電子郵件
+TemplateRequestResetPasswordSubmit: 請求密碼重設電子郵件
+TemplateSearchCurrentPublication name@Text: 目前搜尋僅限在「#{name}」發佈內容中進行
+TemplateSearchPageClearTooltip: 清除篩選器
+TemplateSearchPageFirstPageTooltip: 移至第一頁
+TemplateSearchPageLastPageTooltip: 移至最後一頁
+TemplateSearchPageNextPageTooltip: 移至下一頁面
+TemplateSearchPagePrevPageTooltip: 移至上一頁
+TemplateSearchPublicationTitle: 發佈內容
+TemplateSearchSortbyCreatedAsc: 建立日期 - 遞增順序
+TemplateSearchSortbyCreatedDec: 建立日期 – 遞減順序
+TemplateSearchSortbyScore: 分數
+TemplateSearchSortbyUpdatedAsc: 新增日期 - 遞增順序
+TemplateSearchSortbyUpdatedDec: 新增日期 - 遞減順序
+TemplateSearchSortbyViews: 檢視次數
+TemplatesSearchPageClear: 清除
+TemplatesSearchPageCurrentResults: 第 xx-yy 個 (共 zzz 個) 結果
+TemplatesSearchPageRefilneResults: 縮小結果範圍
+TemplatesSearchPageResultUpdated: 已更新
+TemplateUploadSitemapDisable: 停用網站導覽
+TemplateUploadSitemapDisabled: 已停用網站導覽
+TemplateUploadSitemapDisabledWord: 已停用
+TemplateUploadSitemapDownloadSitemap: 下載 sitemap.xml
+TemplateUploadSitemapEnable: 啟用網站導覽
+TemplateUploadSitemapEnabled: 已啟用網站導覽
+TemplateUploadSitemapEnabledWord: 已啟用
+TemplateUploadSitemapLegend: 上傳 sitemap.xml
+TemplateUploadSitemapStatus sts@Text: 網站導覽為 #{sts}
+TemplTemplateBundlePageProvideFeedbackTooltip: 提交意見反映
+TextPass txt@Text: #{txt}
+Upload: 上傳
+UploadLink: 上傳發佈
+YesodAuthStormPathSSOErrorOccured: 發生一個錯誤
+YesodAuthStormPathSSOLoginParamError: SSO 登入參數中存在錯誤
+YesodAuthStormPathSSOLoginTryAgain: 請嘗試使用以下內容重新登入

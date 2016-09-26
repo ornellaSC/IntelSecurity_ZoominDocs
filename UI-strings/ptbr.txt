@@ -1,278 +1,278 @@
-AdvancedSearch: Pesquisa Avançada
-AdvancedSearchTooltip: Selecione filtros de conteúdo
-BreadcrumbsProductDocumentationHome: Documentação do Produto Início
-BreadcrumbsSearch: Pesquisa
-Cancel: Anular
-Close: Close
-DeleteText: Apagar
-ErrorOccured: Ocorreu um erro
-FilterUsers: usuários de filtro:
-FoundationLoginOnly: Faça logon
-FoundationLoginRegister: Inicie sessão / Registo
+AdvancedSearch: Pesquisa avançada 
+AdvancedSearchTooltip: Selecionar filtros de conteúdo
+BreadcrumbsProductDocumentationHome: Início da documentação do produto
+BreadcrumbsSearch: Pesquisar
+Cancel: Cancelar
+Close: Fechar
+DeleteText: Excluir
+ErrorOccured: Erro
+FilterUsers: Usuários de filtro:
+FoundationLoginOnly: Entrar
+FoundationLoginRegister: Entrar / Registrar-se
 HandlerAdminOnlyAdmin: Acesso negado
-HandlerBundlePageAltCSHResult: Alternate CSH Tópico Encontrado
-HandlerCategoriesCategoryXMLFileUploaded: Categoria Arquivo XML Carregado
-HandlerClassificationUpdated: Mapa Classificação atualizada
-HandlerClassificationXMLFile: Actualização Mapa Classificação
+HandlerBundlePageAltCSHResult: Tópico de CSH alternativo encontrado
+HandlerCategoriesCategoryXMLFileUploaded: Upload do Arquivo XML de categoria concluído
+HandlerClassificationUpdated: Mapa de classificação atualizado
+HandlerClassificationXMLFile: Mapa de classificação atualizado
 HandlerCommentsComments: comentários
 HandlerCommentsOneComment: 1 comentário
-HandlerCommentsPostedCommentOn: postou um comentário no:
-HandlerContentRolesAreYouSureDelete: Tem certeza de que deseja excluir esta função de conteúdo?
-HandlerContentRolesCRDeleted: Papel conteúdo excluído
-HandlerContentRolesErrorDeleting: Ocorreu um problema. O papel de conteúdo não foi excluída.
-HandlerCshAlternateCSHTopicFound: Alternate CSH Topic encontrados
-HandlerCshCSHRulesUpdated: Regras CSH Atualizado
-HandlerCshInvalidAliases: inválido Alias ​​chaves achadas na URL CSH
-HandlerCshInvalidCSHRulesFile: arquivo de regras inválido CSH
-HandlerCshNewCshFile: Carregar nova arquivo de configuração CSH
-HandlerCshReservedAliasesUsed: Reservados Aliases usados ​​no arquivo de configuração CSH
+HandlerCommentsPostedCommentOn: publicou um comentário em:
+HandlerContentRolesAreYouSureDelete: Tem certeza de que deseja excluir esta Função de conteúdo?
+HandlerContentRolesCRDeleted: Função de conteúdo excluída
+HandlerContentRolesErrorDeleting: Erro. A função de conteúdo não foi excluída.
+HandlerCshAlternateCSHTopicFound: Tópico de CSH alternativo encontrado
+HandlerCshCSHRulesUpdated: Regras de CSH atualizadas
+HandlerCshInvalidAliases: Chaves do alias inválidas encontradas no URL de CSH
+HandlerCshInvalidCSHRulesFile: Arquivo de Regras de CSH inválido
+HandlerCshNewCshFile: Faça upload do novo Arquivo de configuração de CSH
+HandlerCshReservedAliasesUsed: Aliases reservados usados no Arquivo de configuração de CSH
 HandlerCustomError400H2: 400
-HandlerCustomError400H3: Bad Request
+HandlerCustomError400H3: Solicitação inválida
 HandlerCustomError401H2: 401
-HandlerCustomError401H3: Unauthorized
+HandlerCustomError401H3: Não autorizado
 HandlerCustomError403H2: 403
 HandlerCustomError403H3: Proibido
 HandlerCustomError404H2: 404
-HandlerCustomError404H3: não encontrado
+HandlerCustomError404H3: Não encontrado
 HandlerCustomError405H2: 405
 HandlerCustomError405H3: Método não permitido
 HandlerCustomError500H2: 500
-HandlerCustomError500H3: Internal Server Error
-HandlerFontoDocumentSaved: documento salvo
-HandlerFontoErrorGeneratingUUID: UUID de geração de erro
-HandlerFontoErrorParsingID: Código do Erro ao analisar
-HandlerFontoErrorParsingXML: XML Erro ao analisar
-HandlerFontoErrorParsingXMLToDocument: erro de análise XML para o documento
+HandlerCustomError500H3: Erro interno do servidor
+HandlerFontoDocumentSaved: Documento salvo
+HandlerFontoErrorGeneratingUUID: Erro ao gerar UUID
+HandlerFontoErrorParsingID: Erro ao analisar ID
+HandlerFontoErrorParsingXML: Erro ao transformar o XML
+HandlerFontoErrorParsingXMLToDocument: Erro ao transformar o XML em Documento
 HandlerFontoNoFileFound: Arquivo não encontrado
-HandlerFontoNoIDFound: ID não encontrado
-HandlerFontoUntitledFromCursor: Untitled - de Cursor
-HandlerGroupsErrorReadingGroupID: grupo de leitura de erro ID
-HandlerGroupsGroupUpdated: Grupo Atualizado
-HandlerGroupsMustUseUniqueGroupName: Deve-se usar o nome do grupo original
-HandlerGroupsNoGroupNameFound: Sem nome do grupo encontrados
-HandlerGroupsUnableAssignRole: Não é possível atribuir papel
+HandlerFontoNoIDFound: ID não encontrada
+HandlerFontoUntitledFromCursor: Sem título - do Cursor
+HandlerGroupsErrorReadingGroupID: Erro ao ler ID de grupo
+HandlerGroupsGroupUpdated: Grupo atualizado
+HandlerGroupsMustUseUniqueGroupName: É necessário usar um nome de grupo único
+HandlerGroupsNoGroupNameFound: Nenhum nome de grupo encontrado
+HandlerGroupsUnableAssignRole: Não foi possível atribuir função
 HandlerHowtoContent: Conteúdo
-HandlerHowtoDeleted a artigo suprimido
-HandlerHowtoInsufficientPermissions: Permissões insuficientes para editar este artigo
-HandlerHowtoSaved: Saved
+HandlerHowtoDeleted: Artigo excluído
+HandlerHowtoInsufficientPermissions: Permissões insuficientes para editar este Artigo
+HandlerHowtoSaved: Salvo
 HandlerHowtoTitle: Título
-HandlerHtmlEmptyMyDocs: MyDocs vazios
-HandlerLangDefaultLanguageCodeFileUpdated: Actualização de arquivo padrão de códigos de idioma
-HandlerLangNewLangFile: arquivo novo Código Idioma Padrão
-HandlerMyPubSourcePublication: Publicação Fonte
-HandlerProfileDisplayName: nome de exibição
-HandlerProfileScreenName: Nome de exibição
+HandlerHtmlEmptyMyDocs: Esvaziar Meus Documentos
+HandlerLangDefaultLanguageCodeFileUpdated: Arquivo do código de idioma padrão atualizado
+HandlerLangNewLangFile: Faça upload do Novo arquivo de código de idioma padrão
+HandlerMyPubSourcePublication: Publicação de origem
+HandlerProfileDisplayName: Nome de exibição
+HandlerProfileScreenName: Nome da tela
 HandlerProfileUpdated: Perfil atualizado
-HandlerProfileUsernameInUse: Nome de usuário existe
-HandlerRatingsInvalidRating: classificação inválido
-HandlerRatingsRatingRecorded: Sua classificação foi gravada
-HandlerRatingsRatingUpdated: Sua nota foi atualizada
-HandlerRolesErrorReadingRoleID: Erro papel leitura ID
-HandlerRolesMustUseUniqueRoleName: Use um nome de função única
-HandlerRolesNoRoleNameFound: Sem nome do papel encontrado
-HandlerRolesNotEnoughAdminUsersRemaining: Não é possível atribuir usuários
-HandlerRolesSelectedPermissionsLessThenDefault: Não é possível atribuir permissões: Selected permissões são menos de conjunto de permissões padrão
+HandlerProfileUsernameInUse: Nome de usuário existente
+HandlerRatingsInvalidRating: Classificação inválida
+HandlerRatingsRatingRecorded: A sua classificação foi registrada
+HandlerRatingsRatingUpdated: A sua classificação foi atualizada
+HandlerRolesErrorReadingRoleID: Erro ao ler ID de função
+HandlerRolesMustUseUniqueRoleName: Use um nome de função único
+HandlerRolesNoRoleNameFound: Nenhum nome de função encontrado
+HandlerRolesNotEnoughAdminUsersRemaining: Não foi possível atribuir usuários
+HandlerRolesSelectedPermissionsLessThenDefault: Não foi possível atribuir permissões: O total de permissões selecionadas é menor do que o conjunto de permissões padrão
 HandlerSearchAllResults: Todos os resultados
 HandlerSearchNoResults: Nenhum resultado
 HandlerSearchOneResult: Um resultado
-HandlerSitemapFile: arquivo Sitemap
-HandlerSitemapFileUploaded: Mapa do site atualizado com sucesso.
-HandlerSubjectSchemeInvalidSubjectSchemeLocalizationFile: Invalid Assunto Arquivo Esquema Localization
-HandlerSubjectSchemeLangDeleted lang @ texto: # {lang} Deleted File Localization
+HandlerSitemapFile: Arquivo do mapa do site
+HandlerSitemapFileUploaded: Mapa do site atualizado com êxito.
+HandlerSubjectSchemeInvalidSubjectSchemeLocalizationFile: Arquivo da localização do esquema do assunto inválido
+HandlerSubjectSchemeLangDeleted lang@Text: Arquivo da localização de #{lang} excluído
 HandlerSubjectSchemeLangsAvailable: Idiomas disponíveis
-HandlerSubjectSchemeLangsDeleteConfirm: Tem certeza de que deseja excluir o arquivo de localização?
-HandlerSubjectSchemeLangsDeleteError: Erro ao excluir arquivo de localização.
-HandlerSubjectSchemeLangsNewFile: Carregar Novo SubjectScheme arquivo de localização
-HandlerSubjectSchemeLangUpdated lang @ texto: # {lang} Atualizado arquivo de localização
-HandlerSubjectSchemeLangUploaded lang @ texto: # {lang} Carregado arquivo de localização
-HandlerSubjectSchemeProblemOccurredWhileUploadingSubjectScheme: Ocorreu um problema ao carregar o esquema sujeito.
-HandlerSubjectSchemeSubjectSchemeUploadedSuccessfully: Esquema Assunto enviada com sucesso
-HandlerSubjectSchemeUnknownLanguageCode: Desconhecido Código de idioma
-HandlerSubjectSchemeUpdated: Esquema Assunto atualizada
-HandlerSubjectSchemeXMLFile: arquivo XML Assunto esquema
+HandlerSubjectSchemeLangsDeleteConfirm: Tem certeza de que deseja excluir o Arquivo da localização? 
+HandlerSubjectSchemeLangsDeleteError: Erro ao excluir o arquivo da localização.
+HandlerSubjectSchemeLangsNewFile: Fazer upload do Novo arquivo da localização do esquema do assunto
+HandlerSubjectSchemeLangUpdated lang@Text: Arquivo da localização de #{lang} atualizado
+HandlerSubjectSchemeLangUploaded lang@Text: Upload do Arquivo da localização de #{lang} concluído 
+HandlerSubjectSchemeProblemOccurredWhileUploadingSubjectScheme: Ocorreu um problema durante o upload do Esquema do assunto.
+HandlerSubjectSchemeSubjectSchemeUploadedSuccessfully: Upload do esquema do assunto concluído com êxito
+HandlerSubjectSchemeUnknownLanguageCode: Código de idioma desconhecido
+HandlerSubjectSchemeUpdated: Esquema do assunto atualizado
+HandlerSubjectSchemeXMLFile: Arquivo XML do esquema do assunto
 HandlerUploadBundleBundle: pacote
-HandlerUploadBundleDeleteError x @ texto: Erro ao eliminar # {x}
-HandlerUploadBundleDeleteSuccess x @ texto: excluído # {x}
+HandlerUploadBundleDeleteError x@Text: Erro ao excluir #{x}
+HandlerUploadBundleDeleteSuccess x@Text: #{x} excluído com êxito
 HandlerUploadBundleError: Erro
-HandlerUploadBundleErrorPleaseUpdateSuiteBundleVersion: Erro - Por favor, atualize sua versão pacote
-HandlerUploadBundleNoContentToDelete x @ texto: Nenhum conteúdo excluir na # {x}
-HandlerUploadBundleOneBundleErrorpacote: povoamento de erro carregado
-HandlerUploadBundlePublicationUploadedSuccessfully: Publicação enviada com sucesso
-HandlerUploadBundleSheaf: Polia
-HandlerUsersAddedSuccess: Usuário adicionado com sucesso
-HandlerUsersBadEmail: Este endereço de e-mail não está registado
-HandlerUsersCRCreated: Conteúdo Papel Grupo criado
-HandlerUsersCRGroupNameInUse: Nome da função conteúdo já está em uso
-HandlerUsersCRSetGroupName: Por favor, defina um nome para este Grupo de Função conteúdo
-HandlerUsersCRUpdated: Conteúdo Papel Grupo atualizada
-HandlerUsersDefineCR: Definir Novo Papel Grupo de conteúdo
-HandlerUsersDeleteSuccess: User excluído com sucesso
-HandlerUsersEmailError: Erro no envio de redefinição de senha e-mail
+HandlerUploadBundleErrorPleaseUpdateSuiteBundleVersion: Erro - Atualize a sua versão do pacote
+HandlerUploadBundleNoContentToDelete x@Text: Nenhum conteúdo a excluir em #{x} 
+HandlerUploadBundleOneBundleError: Erro ao popular o pacote do upload
+HandlerUploadBundlePublicationUploadedSuccessfully: Upload da publicação concluído com êxito
+HandlerUploadBundleSheaf: sheaf
+HandlerUsersAddedSuccess: Usuário adicionado com êxito
+HandlerUsersBadEmail: Aquele endereço de e-mail não está registrado
+HandlerUsersCRCreated: Grupo de função de conteúdo criado
+HandlerUsersCRGroupNameInUse: Esse nome de Função de conteúdo já está em uso
+HandlerUsersCRSetGroupName: Defina um nome para este Grupo de função de conteúdo
+HandlerUsersCRUpdated: Grupo de função de conteúdo atualizado
+HandlerUsersDefineCR: Definir Novo grupo de função de conteúdo
+HandlerUsersDeleteSuccess: Usuário excluído com êxito
+HandlerUsersEmailError: Erro ao enviar e-mail de redefinição de senha
 HandlerUsersInvalidToken: Token inválido
-HandlerUsersNoResetToken: Sem sinal de reset
-HandlerUsersNoRoleIdFound: Não id papel encontrado
-HandlerUsersPasswordEmailSent: redefinição de senha e-mail enviado
-HandlerUsersRegisterSuccess: Registered User com sucesso
-HandlerUsersResetPasswordError: Erro de senha redefinir
-HandlerUsersRolesUpdated: Funções do usuário Atualizado
-HandlerUsersUnableToAssignUserPermissionRole: Não é possível atribuir função de permissão do usuário
+HandlerUsersNoResetToken: Nenhum token de redefinição
+HandlerUsersNoRoleIdFound: Nenhum id de função encontrado
+HandlerUsersPasswordEmailSent: E-mail de redefinição de senha enviado
+HandlerUsersRegisterSuccess: Usuário registrado com êxito
+HandlerUsersResetPasswordError: Erro ao redefinir senha
+HandlerUsersRolesUpdated: Funções de usuário atualizadas
+HandlerUsersUnableToAssignUserPermissionRole: Não foi possível atribuir função de permissão ao usuário
 HandlerUsersUnknownError: Erro desconhecido
 HideTOC: Ocultar Sumário
-ImportAddHelperProblemRunningAddHelper: addHelper correndo Problema
-ImportBundlesTooManyTopics num @ Int: Um máximo de # {espectáculo num} tópicos podem ser publicados. Selecione menos tópicos e tente novamente.
-ImportElasticAnalyzerError: - Nota: erro analisador personalizado, consulte o log para obter detalhes. Usando analisador padrão.
-ImportElasticErrorRebuilding: Erro índice de reconstrução - veja o log para obter mais detalhes.
-ImportElasticErrorUpdating: Erro índice de atualização - veja o log para obter mais detalhes.
-ImportElasticIndexRebuilt x @ texto: Índice reconstruída com sucesso # {x}
-ImportElasticIndexUpdated x @ texto: Índice atualizado com sucesso # {x}
-ImportElasticNoPagesFound: Não páginas encontradas na base de dados - redefinição do índice.
-ImportElasticNoPagesInBundle: Páginas Não foram encontrados no carregamento
-ImportInvalidPassword: senha inválida
-ImportRatingsOneRating: 1 Avaliação
+ImportAddHelperProblemRunningAddHelper: Problemas ao executar addHelper
+ImportBundlesTooManyTopics num@Int: Um número máximo de #{show num} tópicos pode ser publicado. Selecione menos tópicos e tente novamente.
+ImportElasticAnalyzerError: - Observação: erro no analisador personalizado. Consulte o log para obter detalhes. Usando o analisador padrão. 
+ImportElasticErrorRebuilding: Erro ao recriar índice. Consulte o log para obter detalhes.
+ImportElasticErrorUpdating: Erro ao atualizar índice. Consulte o log para obter detalhes.
+ImportElasticIndexRebuilt x@Text: Índice recriado com êxito #{x}
+ImportElasticIndexUpdated x@Text: Índice atualizado com êxito #{x}
+ImportElasticNoPagesFound: Nenhuma página encontrada no banco de dados – redefinição de índice.
+ImportElasticNoPagesInBundle: Nenhuma página encontrada no upload
+ImportInvalidPassword: Senha inválida
+ImportRatingsOneRating: 1 Classificação
 ImportRatingsRatings: Classificações
 ImportRolesPermissionDenied: Permissão negada
-ImportSearchNoCategoriesUploaded: Nenhum arquivo XML Categorias Carregado
-ImportSearchUnknownTopicLink: *** link do tópico desconhecido ***
-ImportUsersCaptchaError: Invalid reCAPTCHA
-ImportUsersCaptchaParseError: Erro reCAPTCHA
-ImportUsersEmailFieldError: No campo de e-mail encontrados.
-ImportUsersFldEmail: Email
-ImportUsersFldFirstName: Nome Primeiro
+ImportSearchNoCategoriesUploaded: Não houve upload de Arquivo XML de categorias
+ImportSearchUnknownTopicLink: *** link de tópico desconhecido ***
+ImportUsersCaptchaError: reCAPTCHA inválido 
+ImportUsersCaptchaParseError: Erro no reCAPTCHA
+ImportUsersEmailFieldError: Nenhum campo de e-mail encontrado.
+ImportUsersFldEmail: E-mail
+ImportUsersFldFirstName: Nome
 ImportUsersFldLastName: Sobrenome
-ImportUsersFldPassword: Password
-ImportUsersFldReenterPass: Redigite a senha
-ImportUsersInvalidPass: senha inválida: selecionado senha deve ter pelo menos 8 caracteres, incluindo pelo menos 1 letra maiúscula, uma letra minúscula, um carácter especial e um número.
-LoggedInAs email @ texto: Logado como # {email}.
+ImportUsersFldPassword: Senha
+ImportUsersFldReenterPass: Reinserir senha
+ImportUsersInvalidPass: Senha inválida: as senhas selecionadas devem ter, no mínimo, oito caracteres, incluindo uma letra maiúscula, uma letra minúscula, um caractere especial e um número.
+LoggedInAs email@Text: Entrou como #{email}.
 Manuals: Manuais
 PDFPage: Página
-ProductDocumentationSplashTitle: Documentação do produto
+ProductDocumentationSplashTitle: Documentação do produto 
 PublishHowto: Publicar
 ResultsPerPage: Resultados por página
-ResultsPerPageShow: Show xx por página
-Search: Pesquisa Documentação do produto
-SearchContent: Procurar este conteúdo
-SearchHome: Documentação Product Search
-ShowTOC: Mostrar Tabela de Conteúdos
-SSOLoginParamError: Houve um erro com parâmetros de login SSO
-SSOLoginTryAgain: Tente fazer o login novamente com
+ResultsPerPageShow: Mostrar xx por página
+Search: Pesquisar na documentação do produto
+SearchContent: Pesquisar neste conteúdo
+SearchHome: Pesquisar na documentação do produto
+ShowTOC: Mostrar Sumário
+SSOLoginParamError: Erro com os parâmetros de entrada de SSO
+SSOLoginTryAgain: Tente entrar novamente com
 SwitchLang: Alterar idioma
 TemplaesBundlesTitle: Biblioteca de documentação
-TemplateAddHelperCancel: Anular
-TemplateAddHelperSave: Save
+TemplateAddHelperCancel: Cancelar
+TemplateAddHelperSave: Salvar
 TemplateAddHelperSaveAndClose: Salvar e fechar
-TemplateAddUserAddUser: Adicionar Usuário
-TemplateAddUserCancel: Anular
-TemplateAddUserPasswordMessage: A senha deve ter pelo menos 8 caracteres, incluindo pelo menos 1 letra maiúscula, uma letra minúscula, um carácter especial e um número.
-TemplateAdminArticleManagement: Artigo Gestão
-TemplateAdminContentRoleGroups: Conteúdo Grupos de Função
-TemplateAdminCSHConfigFile: Faça o download ou atualizar o arquivo de configuração CSH
-TemplateAdminElasticReindex: Reconstruir Índice de Busca
+TemplateAddUserAddUser: Adicionar usuário
+TemplateAddUserCancel: Cancelar
+TemplateAddUserPasswordMessage: As senhas devem ter, no mínimo, oito caracteres, incluindo uma letra maiúscula, uma letra minúscula, um caractere especial e um número.
+TemplateAdminArticleManagement: Gerenciamento de artigo
+TemplateAdminContentRoleGroups: Grupos de função de conteúdo
+TemplateAdminCSHConfigFile: Fazer download ou atualizar arquivo de Configuração de CSH
+TemplateAdminElasticReindex: Recriar índice de pesquisa
 TemplateAdminExportComments: Exportar comentários
-TemplateAdminExportRatings: Notas de Exportação
-TemplateAdminManageManuals: Gerenciar Manuais
-TemplateAdminManageResourceManuals: gerenciar pacotes de recursos
-TemplateAdminResourceIdCsv: Baixar o arquivo ResourceIds Excel
-TemplateAdminSitemap: Gerenciar Mapa do Site
-TemplateAdminSubjectSchemeLocalization: Gerenciar Localização Esquema Assunto
+TemplateAdminExportRatings: Exportar classificações
+TemplateAdminManageManuals: Gerenciar manuais
+TemplateAdminManageResourceManuals: Gerenciar pacotes de recursos
+TemplateAdminResourceIdCsv: Fazer download do arquivo do Excel de ResourceIds
+TemplateAdminSitemap: Gerenciar mapa do site
+TemplateAdminSubjectSchemeLocalization: Gerenciar Localização do esquema do assunto
 TemplateAdminTitle: Administração
-TemplateAdminUploadCategoryXML: Gerenciar arquivo XML Categoria
-TemplateAdminUploadCategoryXml: Carregar um novo ficheiro XML Categoria
-TemplateAdminUploadNewLangFile: Carregar um novo arquivo de código Languge Padrão
-TemplateAdminUploadSubjectScheme: Gerir Scheme Assunto
+TemplateAdminUploadCategoryXML: Gerenciar Arquivo XML de categoria
+TemplateAdminUploadCategoryXml: Fazer o upload de um novo Arquivo XML de categoria
+TemplateAdminUploadNewLangFile: Fazer upload de um novo Arquivo de código de idioma padrão
+TemplateAdminUploadSubjectScheme: Gerenciar Esquema do assunto
 TemplateAdminUserGroups: Grupos de usuários
 TemplateAdminUserManagement: Gerenciamento de usuários
-TemplateAdminUserRoles: Funções de Usuário
-TemplateBundlePageCollapse: Fechar
-TemplateBundlePageCollapseTooltip: Reduzir Todos Títulos
+TemplateAdminUserRoles: Funções do usuário
+TemplateBundlePageCollapse: Recolher
+TemplateBundlePageCollapseTooltip: Recolher todos os títulos
 TemplateBundlePageComments: Comentários
-TemplateBundlePageContents: Conteúdos
-TemplateBundlePageExpand: Expand
-TemplateBundlePageExpandTooltip: Expandir Índice
+TemplateBundlePageContents: Conteúdo
+TemplateBundlePageExpand: Expandir
+TemplateBundlePageExpandTooltip: Expandir Sumário
 TemplateBundlePageFeedback: Comentários
-TemplateBundlePageFeedbackThankYou: Obrigado! Seus comentários foram enviados.
-TemplateBundlePageFeedbackTooltip: Enviar Referência
-TemplateBundlePageFilterTitle: Selecione uma ou mais opções
-TemplateBundlePageNext: Next
+TemplateBundlePageFeedbackThankYou: Obrigado! Os seus comentários foram enviados. 
+TemplateBundlePageFeedbackTooltip: Enviar comentários
+TemplateBundlePageFilterTitle: Selecionar uma ou mais opções
+TemplateBundlePageNext: Avançar
 TemplateBundlePageNextTopicTooltip: Ir para o próximo tópico
-TemplateBundlePageNo: Nenhuma
-TemplateBundlePagePrevious: Anterior
-TemplateBundlePagePrevTopicTooltip: Ir para Tópico Anterior
-TemplateBundlePagePrint: Print
-TemplateBundlePagePrintTooltip: Tópico Imprimir
-TemplateBundlePagePrivacy: Para proteger sua privacidade, não inclua informações de contato em seu feedback. Rever a nossa política de privacidade.
-TemplateBundlePageProvideFeedbackTooltip: Fornecer Comentários
+TemplateBundlePageNo: Não
+TemplateBundlePagePrevious: Voltar 
+TemplateBundlePagePrevTopicTooltip: Ir para o tópico anterior
+TemplateBundlePagePrint: Imprimir
+TemplateBundlePagePrintTooltip: Imprimir tópico
+TemplateBundlePagePrivacy: Para proteger a sua privacidade, não inclua as suas informações de contato nos comentários. Revise a nossa política de privacidade.
+TemplateBundlePageProvideFeedbackTooltip: Fornecer comentários
 TemplateBundlePageSaveAsPDF: Salvar como PDF
 TemplateBundlePageSavePDFTooltip: Salvar como PDF
-TemplateBundlePageSaveSelectedTopic: tópico Guardar selecionado
-TemplateBundlePageSaveSelectedTopicAndSubtopics: Salvar tema e subtemas selecionadas
+TemplateBundlePageSaveSelectedTopic: Salvar tópico selecionado
+TemplateBundlePageSaveSelectedTopicAndSubtopics: Salvar tópico e subtópicos selecionados
 TemplateBundlePageSeeAlso: Ver também
 TemplateBundlePageSend: Enviar
 TemplateBundlePageSendLink: Enviar
-TemplateBundlePageSendLinkTooltip: Enviar Link to Topic
+TemplateBundlePageSendLinkTooltip: Enviar link para tópico
 TemplateBundlePageSubmit: Enviar
-TemplateBundlePageWasThisInformationHelpful: esta informação foi útil?
+TemplateBundlePageWasThisInformationHelpful: Essa informação foi útil?
 TemplateBundlePageYEs: Sim
 TemplateBundlesDeleteLanguage: Excluir idioma
-TemplateBundlesDeleteManual: Excluir o manual
-TemplateBundlesDownload: Pacote de download
-TemplateBundlesDownloadClassification: Download Classificação XML
-TemplateBundlesHiddenBundle: Hidden Manual
-TemplateBundlesSearchManuals: Manuais de pesquisa
-TemplateBundlesUploadClassification: Carregar Classificação XML
-TemplateClassificationForManual: Para o manual
-TemplateClassificationUploadClassificationMap: Carregar mapa da classificação XML
-TemplateClassificationWarnReindex: NOTA: Carregar um Mapa Classificação fará com que o site inteiro para ser re-indexados. Isso pode levar vários minutos.
-TemplateContentRolesCRGroups: Conteúdo Grupos de Função
-TemplateContentRolesDefineNewCR: Definir novo função de conteúdo
+TemplateBundlesDeleteManual: Excluir manual
+TemplateBundlesDownload: Fazer download do pacote
+TemplateBundlesDownloadClassification: Fazer download do XML de classificação
+TemplateBundlesHiddenBundle: Manual oculto
+TemplateBundlesSearchManuals: Pesquisar manuais
+TemplateBundlesUploadClassification: Fazer upload de XML de classificação
+TemplateClassificationForManual: Para manual
+TemplateClassificationUploadClassificationMap: Fazer upload do XML do mapa de classificação
+TemplateClassificationWarnReindex: OBSERVAÇÃO: o upload de um mapa de classificação reindexará todo o site. A conclusão deste processo pode levar vários minutos.
+TemplateContentRolesCRGroups: Grupos de função de conteúdo
+TemplateContentRolesDefineNewCR: Definir nova função de conteúdo
 TemplateDefaultLayoutAdministration: Administração
-TemplateDefaultLayoutArticles: artigos
-TemplateDefaultLayoutBrowseDocumentation: Navegar
+TemplateDefaultLayoutArticles: Artigos
+TemplateDefaultLayoutBrowseDocumentation: Procurar
 TemplateDefaultLayoutDocumentation: Biblioteca de documentação
 TemplateDefaultLayoutHome: Início
 TemplateDefaultLayoutLanguages: United States - English
-TemplateDefaultLayoutLinksCareers: Carreira
-TemplateDefaultLayoutLinksContactUs: Fale Conosco
+TemplateDefaultLayoutLinksCareers: Carreiras
+TemplateDefaultLayoutLinksContactUs: Fale conosco
 TemplateDefaultLayoutLinksIntelCorp: © Intel Corporation
-TemplateDefaultLayoutLinksLegalContractsandTerms: Contratos e Termos Legais
-TemplateDefaultLayoutLinksLegalNotices: Avisos Legais
-TemplateDefaultLayoutLinksSiteMap: Mapa do Site
-TemplateDefaultLayoutLinksWebsiteFeedback: Avaliação Site
+TemplateDefaultLayoutLinksLegalContractsandTerms: Termos e contratos legais
+TemplateDefaultLayoutLinksLegalNotices: Avisos legais  
+TemplateDefaultLayoutLinksSiteMap: Mapa do site
+TemplateDefaultLayoutLinksWebsiteFeedback: Comentários sobre o site
 TemplateDefaultLayoutLogout: Sair
 TemplateDefaultLayoutProfile: Perfil
 TemplateDefaultLayoutVideos: Vídeos
 TemplateFilterCurrentPublication: Publicação atual
-TemplateRequestResetPasswordEmail: Email
-TemplateRequestResetPasswordSubmit: Request Password Reset Email
-TemplateSearchCurrentPublication nome @ texto: pesquisa atual é limitado ao "{name} # 'publicação
+TemplateRequestResetPasswordEmail: E-mail
+TemplateRequestResetPasswordSubmit: Solicitar e-mail de redefinição de senha
+TemplateSearchCurrentPublication name@Text: A pesquisa atual limita-se à publicação de '#{name}'
 TemplateSearchPageClearTooltip: Limpar filtros
-TemplateSearchPageFirstPageTooltip: Vá para a primeira página
-TemplateSearchPageLastPageTooltip: Vá para Última Página
-TemplateSearchPageNextPageTooltip: Vá para a página seguinte
-TemplateSearchPagePrevPageTooltip: Vá para a página anterior
+TemplateSearchPageFirstPageTooltip: Ir para a primeira página
+TemplateSearchPageLastPageTooltip: Ir para a última página
+TemplateSearchPageNextPageTooltip: Ir para a próxima página
+TemplateSearchPagePrevPageTooltip: Ir para a página anterior
 TemplateSearchPublicationTitle: Publicação
-TemplateSearchSortbyCreatedAsc: Data de Criação - Crescente
-TemplateSearchSortbyCreatedDec: Data de Criação - Decending
+TemplateSearchSortbyCreatedAsc: Data de criação - crescente
+TemplateSearchSortbyCreatedDec: Data de criação - Decrescente
 TemplateSearchSortbyScore: Pontuação
-TemplateSearchSortbyUpdatedAsc: Data - Crescente
-TemplateSearchSortbyUpdatedDec: Data - Decending
-TemplateSearchSortbyViews: Número de Visualizações
+TemplateSearchSortbyUpdatedAsc: Data da adição - crescente
+TemplateSearchSortbyUpdatedDec: Data da adição - decrescente
+TemplateSearchSortbyViews: Número de exibições
 TemplatesSearchPageClear: Limpar
 TemplatesSearchPageCurrentResults: Resultados xx-yy de zzz
-TemplatesSearchPageRefilneResults: resultados Refinar
-TemplatesSearchPageResultUpdated: Actualização
-TemplateUploadSitemapDisable: mapa do site Disable
-TemplateUploadSitemapDisabled: Mapa do desativada
-TemplateUploadSitemapDisabledWord: Disabled
-TemplateUploadSitemapDownloadSitemap: Baixar sitemap.xml
-TemplateUploadSitemapEnable: Ativar sitemap
-TemplateUploadSitemapEnabled: Mapa habilitado
+TemplatesSearchPageRefilneResults: Refinar resultados
+TemplatesSearchPageResultUpdated: Atualizado
+TemplateUploadSitemapDisable: Desativar mapa do site
+TemplateUploadSitemapDisabled: Mapa do site desativado
+TemplateUploadSitemapDisabledWord: Desativado
+TemplateUploadSitemapDownloadSitemap: Fazer download de sitemap.xml
+TemplateUploadSitemapEnable: Ativar mapa do site
+TemplateUploadSitemapEnabled: Mapa do site ativado
 TemplateUploadSitemapEnabledWord: Ativado
-TemplateUploadSitemapLegend: Carregar sitemap.xml
-TemplateUploadSitemapStatus sts @ texto: Sitemap é # {} pts
-TemplTemplateBundlePageProvideFeedbackTooltip: Enviar comentário
+TemplateUploadSitemapLegend: Fazer upload de sitemap.xml
+TemplateUploadSitemapStatus sts@Text: O mapa do site é #{sts}
+TemplTemplateBundlePageProvideFeedbackTooltip: Enviar comentários
 TextPass txt@Text: #{txt}
-Upload: Carregar
-publicação Upload: UploadLink
-YesodAuthStormPathSSOErrorOccured: Ocorreu um erro
-YesodAuthStormPathSSOLoginParamError: Houve um erro com parâmetros de login SSO
-YesodAuthStormPathSSOLoginTryAgain: Tente fazer o login novamente com
+Upload: Fazer upload
+UploadLink: Fazer upload da publicação
+YesodAuthStormPathSSOErrorOccured: Erro
+YesodAuthStormPathSSOLoginParamError: Erro com os parâmetros de entrada de SSO
+YesodAuthStormPathSSOLoginTryAgain: Tente entrar novamente com

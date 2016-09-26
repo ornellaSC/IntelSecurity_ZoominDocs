@@ -1,278 +1,278 @@
-AdvancedSearch: Tarkennettu haku
+AdvancedSearch: Tarkennettu haku 
 AdvancedSearchTooltip: Valitse sisältösuodattimet
-BreadcrumbsProductDocumentationHome: Tuotedokumentointi Home
-BreadcrumbsSearch: Haku
+BreadcrumbsProductDocumentationHome: Tuotedokumentaation etusivu
+BreadcrumbsSearch: Hae
 Cancel: Peruuta
-Close: Close
+Close: Sulje
 DeleteText: Poista
-ErrorOccured: Virhe
-FilterUsers: Filter käyttäjät:
-FoundationLoginOnly: Kirjaudu
-FoundationLoginRegister: Kirjaudu / Register
-HandlerAdminOnlyAdmin: Käyttö estetty
-HandlerBundlePageAltCSHResult: Alternate CSH Aihe Löydetty
-HandlerCategoriesCategoryXMLFileUploaded: Luokka XML File Ladattu
-HandlerClassificationUpdated: Luokittelu kartta päivitetään
-HandlerClassificationXMLFile: Päivitetty Luokittelu Kartta
-HandlerCommentsComments: kommentit
+ErrorOccured: Järjestelmässä tapahtui virhe
+FilterUsers: Suodata käyttäjiä:
+FoundationLoginOnly: Kirjaudu sisään
+FoundationLoginRegister: Kirjaudu sisään / Rekisteröidy
+HandlerAdminOnlyAdmin: Pääsy evätty
+HandlerBundlePageAltCSHResult: Vaihtoehtoinen CSH-aihe löytyi.
+HandlerCategoriesCategoryXMLFileUploaded: Luokkien XML-tiedosto lähetetty
+HandlerClassificationUpdated: Luokittelukartta on päivitetty.
+HandlerClassificationXMLFile: Päivitetty luokittelukartta
+HandlerCommentsComments: kommenttia
 HandlerCommentsOneComment: 1 kommentti
-HandlerCommentsPostedCommentOn: kommentoinut:
-HandlerContentRolesAreYouSureDelete: Oletko varma että haluat poistaa tämän sisällön rooli?
-HandlerContentRolesCRDeleted: Content Rooli poistettu
-HandlerContentRolesErrorDeleting: tapahtui virhe. Sisältö rooli ei poistettu.
-HandlerCshAlternateCSHTopicFound: Alternate CSH Aihe löytyi
-HandlerCshCSHRulesUpdated: CSH säännöt päivitetty
-HandlerCshInvalidAliases: Virheellinen Alias ​​Keys Löytyy CSH URL
-HandlerCshInvalidCSHRulesFile: Virheellinen CSH Säännöt tiedosto
-HandlerCshNewCshFile: Lataa uusia CSH Config File
-HandlerCshReservedAliasesUsed: Varattu Aliakset Käytetään CSH Config File
+HandlerCommentsPostedCommentOn: julkaisi kommentin aiheesta:
+HandlerContentRolesAreYouSureDelete: Haluatko varmasti poistaa tämän sisältöroolin?
+HandlerContentRolesCRDeleted: Sisältörooli on poistettu.
+HandlerContentRolesErrorDeleting: Järjestelmässä ilmeni ongelma. Sisältöroolia ei poistettu.
+HandlerCshAlternateCSHTopicFound: Vaihtoehtoinen CSH-aihe löytyi
+HandlerCshCSHRulesUpdated: CSH-säännöt on päivitetty
+HandlerCshInvalidAliases: CSH:n URL-osoitteesta löytyi virheelliset aliasavaimet.
+HandlerCshInvalidCSHRulesFile: Virheellinen CSH-sääntötiedosto
+HandlerCshNewCshFile: Lähetä uusi CSH-määritystiedosto
+HandlerCshReservedAliasesUsed: CSH-määritystiedostossa on käytössä varatut aliakset.
 HandlerCustomError400H2: 400
-HandlerCustomError400H3: Bad Request
+HandlerCustomError400H3: Virheellinen pyyntö
 HandlerCustomError401H2: 401
-HandlerCustomError401H3: Luvaton
+HandlerCustomError401H3: Ei sallittu
 HandlerCustomError403H2: 403
-HandlerCustomError403H3: Kielletty
+HandlerCustomError403H3: Estetty
 HandlerCustomError404H2: 404
-HandlerCustomError404H3: Not Found
+HandlerCustomError404H3: Ei löydy
 HandlerCustomError405H2: 405
-HandlerCustomError405H3: Menetelmää ei sallita
+HandlerCustomError405H3: Menetelmä ei ole sallittu
 HandlerCustomError500H2: 500
-HandlerCustomError500H3: Internal Server Error
-HandlerFontoDocumentSaved: Asiakirja tallennettu
-HandlerFontoErrorGeneratingUUID: Virhe luotaessa UUID
-HandlerFontoErrorParsingID: jäsennysvirhe tunnus
-HandlerFontoErrorParsingXML: jäsennysvirhe XML
-HandlerFontoErrorParsingXMLToDocument: Virhe jäsennys XML Document
-HandlerFontoNoFileFound: Tiedostoa ei löydy
-HandlerFontoNoIDFound: ID ei löytynyt
-HandlerFontoUntitledFromCursor: Untitled - alkaen Cursor
-HandlerGroupsErrorReadingGroupID: lukuvirhe ryhmä ID
-HandlerGroupsGroupUpdated: Group Päivitetty
-HandlerGroupsMustUseUniqueGroupName: Käytettävä ainutlaatuisen ryhmän nimeä
-HandlerGroupsNoGroupNameFound: Ei ryhmän nimi löytynyt
-HandlerGroupsUnableAssignRole: Ei voi antaa rooli
+HandlerCustomError500H3: Sisäinen palvelinvirhe
+HandlerFontoDocumentSaved: Tiedosto tallennettu
+HandlerFontoErrorGeneratingUUID: Virhe luotaessa UUID-tunnusta
+HandlerFontoErrorParsingID: Virhe jäsennettäessä tunnusta
+HandlerFontoErrorParsingXML: Virhe jäsennettäessä XML-tiedostoa
+HandlerFontoErrorParsingXMLToDocument: Virhe jäsennettäessä XML-tiedostoa asiakirjaksi
+HandlerFontoNoFileFound: Tiedostoa ei löytynyt
+HandlerFontoNoIDFound: Tunnusta ei löytynyt
+HandlerFontoUntitledFromCursor: Nimetön - kohdistimelta
+HandlerGroupsErrorReadingGroupID: Virhe luettaessa ryhmätunnusta
+HandlerGroupsGroupUpdated: Ryhmä on päivitetty
+HandlerGroupsMustUseUniqueGroupName: Käytä ainutlaatuista ryhmänimeä
+HandlerGroupsNoGroupNameFound: Ryhmänimeä ei löytynyt
+HandlerGroupsUnableAssignRole: Roolia ei voitu määrittää
 HandlerHowtoContent: Sisältö
-HandlerHowtoDeleted: Artikla poistettu
-HandlerHowtoInsufficientPermissions: eivät riitä muokata tätä artiklan
-HandlerHowtoSaved: Tallennetut
+HandlerHowtoDeleted: Artikkeli on poistettu.
+HandlerHowtoInsufficientPermissions: Käyttöoikeudet eivät riitä tämän artikkelin muokkaamiseen.
+HandlerHowtoSaved: Tallennettu
 HandlerHowtoTitle: Otsikko
-HandlerHtmlEmptyMyDocs: Tyhjä MyDocs
-HandlerLangDefaultLanguageCodeFileUpdated: Päivitetty Default Language Code File
-HandlerLangNewLangFile: Lataa uusi olet Kielikoodien File
-HandlerMyPubSourcePublication: Source Julkaisu
+HandlerHtmlEmptyMyDocs: Tyhjennä MyDocs
+HandlerLangDefaultLanguageCodeFileUpdated: Päivitetty oletusarvoinen kielikooditiedosto
+HandlerLangNewLangFile: Lähetä uusi oletusarvoinen kielikooditiedosto
+HandlerMyPubSourcePublication: Lähdejulkaisu
 HandlerProfileDisplayName: Näyttönimi
-HandlerProfileScreenName: Näytön nimi
-HandlerProfileUpdated: Profiili päivitetty
-HandlerProfileUsernameInUse: Käyttäjätunnus olemassa
+HandlerProfileScreenName: Näyttönimi
+HandlerProfileUpdated: Profiili on päivitetty.
+HandlerProfileUsernameInUse: Olemassa oleva käyttäjänimi
 HandlerRatingsInvalidRating: Virheellinen luokitus
-HandlerRatingsRatingRecorded: Arvostelusi on tallennettu
-HandlerRatingsRatingUpdated: Arvostelusi on päivitetty
-HandlerRolesErrorReadingRoleID: lukuvirhe rooli ID
-HandlerRolesMustUseUniqueRoleName: Käytä ainutlaatuinen rooli nimi
-HandlerRolesNoRoleNameFound: Ei roolin nimi löytynyt
-HandlerRolesNotEnoughAdminUsersRemaining: Ei voi määrittää käyttäjiä
-HandlerRolesSelectedPermissionsLessThenDefault: Ei voi määrittää käyttöoikeuksia: Valitut käyttöoikeudet ovat alle oletusluvaksi asetettu
+HandlerRatingsRatingRecorded: Luokituksesi on tallennettu
+HandlerRatingsRatingUpdated: Luokituksesi on päivitetty
+HandlerRolesErrorReadingRoleID: Virhe luettaessa roolitunnusta
+HandlerRolesMustUseUniqueRoleName: Käytä ainutlaatuista roolinimeä
+HandlerRolesNoRoleNameFound: Roolinimeä ei löytynyt
+HandlerRolesNotEnoughAdminUsersRemaining: Käyttäjiä ei voitu määrittää
+HandlerRolesSelectedPermissionsLessThenDefault: Käyttöoikeuksia ei voitu määrittää: valitut käyttöoikeudet ovat pienempiä kuin oletusarvoinen käyttöoikeusjoukko
 HandlerSearchAllResults: Kaikki tulokset
 HandlerSearchNoResults: Ei tuloksia
 HandlerSearchOneResult: Yksi tulos
-HandlerSitemapFile: sivustokarttatiedoston
-HandlerSitemapFileUploaded: Päivitetty Sitemap onnistuneesti.
-HandlerSubjectSchemeInvalidSubjectSchemeLocalizationFile: Virheellinen Aihe Scheme lokalisointi File
-HandlerSubjectSchemeLangDeleted lang @ Teksti: # {lang} Poistettu lokalisointi File
-HandlerSubjectSchemeLangsAvailable: Available Languages
-HandlerSubjectSchemeLangsDeleteConfirm: Oletko varma että haluat poistaa Localization tiedosto?
-HandlerSubjectSchemeLangsDeleteError: Virhe poistettaessa lokalisointi tiedostoa.
-HandlerSubjectSchemeLangsNewFile: Upload New SubjectScheme lokalisointi File
-HandlerSubjectSchemeLangUpdated lang @ Teksti: # {lang} Päivitetty lokalisointi File
-HandlerSubjectSchemeLangUploaded lang @ Teksti: # {lang} Ladattu lokalisointi File
-HandlerSubjectSchemeProblemOccurredWhileUploadingSubjectScheme: tapahtui virhe ladattaessa Aihe Scheme.
-HandlerSubjectSchemeSubjectSchemeUploadedSuccessfully: Aihe järjestelmä ladattu onnistuneesti
+HandlerSitemapFile: Sivustokarttatiedosto
+HandlerSitemapFileUploaded: Sivustokartta on päivitetty.
+HandlerSubjectSchemeInvalidSubjectSchemeLocalizationFile: Virheellinen aihemallin lokalisointitiedosto
+HandlerSubjectSchemeLangDeleted lang@Text: #{lang} poistettu lokalisointitiedosto
+HandlerSubjectSchemeLangsAvailable: Käytettävissä olevat kielet
+HandlerSubjectSchemeLangsDeleteConfirm: Haluatko varmasti poistaa lokalisointitiedoston? 
+HandlerSubjectSchemeLangsDeleteError: Virhe poistettaessa lokalisointitiedostoa.
+HandlerSubjectSchemeLangsNewFile: Lähetä uusi aihemallin lokalisointitiedosto
+HandlerSubjectSchemeLangUpdated lang@Text: #{lang} päivitetty lokalisointitiedosto
+HandlerSubjectSchemeLangUploaded lang@Text: #{lang} lähetetty lokalisointitiedosto 
+HandlerSubjectSchemeProblemOccurredWhileUploadingSubjectScheme: Järjestelmässä ilmeni ongelma lähetettäessä aihemallia.
+HandlerSubjectSchemeSubjectSchemeUploadedSuccessfully: Aihemalli on lähetetty
 HandlerSubjectSchemeUnknownLanguageCode: Tuntematon kielikoodi
-HandlerSubjectSchemeUpdated: Aihe järjestelmä päivitetään
-HandlerSubjectSchemeXMLFile: Aihe järjestelmä XML
-HandlerUploadBundleBundle: bundle
-HandlerUploadBundleDeleteError x @ Teksti: Virhe poistettaessa # {x}
-HandlerUploadBundleDeleteSuccess x @ Teksti: Poistettiin # {x}
+HandlerSubjectSchemeUpdated: Aihemalli on päivitetty.
+HandlerSubjectSchemeXMLFile: Aihemallin XML-tiedosto
+HandlerUploadBundleBundle: paketti
+HandlerUploadBundleDeleteError x@Text: Virhe poistettaessa #{x}
+HandlerUploadBundleDeleteSuccess x@Text: #{x} on poistettu
 HandlerUploadBundleError: Virhe
-HandlerUploadBundleErrorPleaseUpdateSuiteBundleVersion: Error - Päivitä nippu versio
-HandlerUploadBundleNoContentToDelete x @ Teksti: Ei sisältö poistettava # {x}
-HandlerUploadBundleOneBundleError: Error jäsenöittäminen ladattu bundle
-HandlerUploadBundlePublicationUploadedSuccessfully: julkaisu lataus onnistui
-HandlerUploadBundleSheaf: nippu
-HandlerUsersAddedSuccess: Käyttäjä onnistuneesti lisätty
-HandlerUsersBadEmail: Tämä sähköpostiosoite ei ole rekisteröity
-HandlerUsersCRCreated: Sisältö Rooliryhmän luotu
-HandlerUsersCRGroupNameInUse: Content Rooli nimi on jo käytössä
-HandlerUsersCRSetGroupName: Aseta nimi tälle Content Rooliryhmän
-HandlerUsersCRUpdated: Sisältö Rooliryhmän päivitetty
-HandlerUsersDefineCR: Määritä uusi sisältö Rooliryhmän
-HandlerUsersDeleteSuccess: Poistetaan Käyttäjä onnistuneesti
-HandlerUsersEmailError: Virhe lähetettäessä salasananvaihtoviestin
-HandlerUsersInvalidToken: Virheellinen Token
-HandlerUsersNoResetToken: Ei nollausta token
-HandlerUsersNoRoleIdFound: Ei roolin tunnus löytynyt
-HandlerUsersPasswordEmailSent: Salasananvaihtosähköposti lähetetty
-HandlerUsersRegisterSuccess: Rekisteröitynyt käyttäjä onnistuneesti
-HandlerUsersResetPasswordError: Error nollaaminen salasanan
-HandlerUsersRolesUpdated: käyttäjärooleja Päivitetty
-HandlerUsersUnableToAssignUserPermissionRole: Ei voi antaa käyttäjälle lupaa rooli
+HandlerUploadBundleErrorPleaseUpdateSuiteBundleVersion: Virhe - päivitä pakettiversiosi
+HandlerUploadBundleNoContentToDelete x@Text: Ei poistettavaa sisältöä sijainnissa #{x} 
+HandlerUploadBundleOneBundleError: Virhe täytettäessä lähetettyä pakettia
+HandlerUploadBundlePublicationUploadedSuccessfully: Julkaisu on lähetetty
+HandlerUploadBundleSheaf: sheaf
+HandlerUsersAddedSuccess: Käyttäjä on lisätty
+HandlerUsersBadEmail: Sähköpostiosoitetta ei ole rekisteröity
+HandlerUsersCRCreated: Sisältörooliryhmä on luotu.
+HandlerUsersCRGroupNameInUse: Sisältörooliryhmälle valittu nimi on jo käytössä
+HandlerUsersCRSetGroupName: Anna sisältörooliryhmälle nimi
+HandlerUsersCRUpdated: Sisältörooliryhmä on päivitetty.
+HandlerUsersDefineCR: Määritä uusi sisältörooliryhmä
+HandlerUsersDeleteSuccess: Käyttäjä on poistettu
+HandlerUsersEmailError: Virhe lähetettäessä salasanan palautussähköpostia.
+HandlerUsersInvalidToken: Virheellinen tunnus
+HandlerUsersNoResetToken: Ei palautustunnusta
+HandlerUsersNoRoleIdFound: Roolitunnusta ei löytynyt
+HandlerUsersPasswordEmailSent: Salasanan palautussähköposti on lähetetty.
+HandlerUsersRegisterSuccess: Käyttäjä on rekisteröity
+HandlerUsersResetPasswordError: Virhe palautettaessa salasanaa.
+HandlerUsersRolesUpdated: Käyttäjäroolit on päivitetty.
+HandlerUsersUnableToAssignUserPermissionRole: Käyttäjän käyttöoikeusroolia ei voitu määrittää
 HandlerUsersUnknownError: Tuntematon virhe
-ImportAddHelperProblemRunningAddHelper: Ongelma käynnissä addHelper
 HideTOC: Piilota sisällysluettelo
-ImportBundlesTooManyTopics num @ Int: Korkeintaan # {osoittavat num} aiheita voidaan julkaista. Valitse vähemmän aiheita ja yritä uudelleen.
-ImportElasticAnalyzerError: - Huomautus: Custom analysaattori virhe, katso loki lisätietoja. Käyttämällä default analysaattori.
-ImportElasticErrorRebuilding: Error uudelleenrakentaminen index - katso loki lisätietoja.
-ImportElasticErrorUpdating: Virhe päivitettäessä index - katso loki lisätietoja.
-ImportElasticIndexRebuilt x @ Teksti: Index onnistuneesti uudelleen # {x}
-ImportElasticIndexUpdated x @ Teksti: Index päivittänyt # {x}
-ImportElasticNoPagesFound: Ei Sivut löytynyt tietokannasta - index reset.
-ImportElasticNoPagesInBundle: Ei Sivut löytynyt upload
+ImportAddHelperProblemRunningAddHelper: Ongelma addHelperin suorittamisessa
+ImportBundlesTooManyTopics num@Int: Korkeintaan #{show num} aihetta voidaan julkaista. Valitse vähemmän aiheita ja yritä uudelleen.
+ImportElasticAnalyzerError: - Huomautus: Virhe mukautetussa analysointitoiminnossa, katso lisätietoja lokista. Oletusarvoinen analysointitoiminto käytössä. 
+ImportElasticErrorRebuilding: Virhe muodostettaessa indeksiä uudelleen - katso lisätietoja lokista.
+ImportElasticErrorUpdating: Virhe päivitettäessä indeksiä - katso lisätietoja lokista.
+ImportElasticIndexRebuilt x@Text: Indeksi on muodostettu uudelleen #{x}
+ImportElasticIndexUpdated x@Text: Indeksi on päivitetty #{x}
+ImportElasticNoPagesFound: Tietokannasta ei löytynyt sivuja - indeksi palautettu.
+ImportElasticNoPagesInBundle: Lähetyksestä ei löytynyt sivuja
 ImportInvalidPassword: Virheellinen salasana
-ImportRatingsOneRating: 1 Arvostelu
-ImportRatingsRatings: Arviot
-ImportRolesPermissionDenied: Lupa evätty
-ImportSearchNoCategoriesUploaded: Ei kategorioita XML Ladattu
-ImportSearchUnknownTopicLink: *** tuntematon aihe linkkiä ***
-ImportUsersCaptchaError: Virheellinen reCAPTCHA
-ImportUsersCaptchaParseError: reCAPTCHA Error
-ImportUsersEmailFieldError: Ei email kenttään löytynyt.
+ImportRatingsOneRating: 1 luokitus
+ImportRatingsRatings: Luokitusta
+ImportRolesPermissionDenied: Käyttöoikeutta ei myönnetty
+ImportSearchNoCategoriesUploaded: Luokkien XML-tiedostoa ei ole lähetetty
+ImportSearchUnknownTopicLink: *** tuntematon aihelinkki ***
+ImportUsersCaptchaError: Virheellinen reCAPTCHA 
+ImportUsersCaptchaParseError: reCAPTCHA-virhe
+ImportUsersEmailFieldError: Sähköpostikenttää ei löytynyt.
 ImportUsersFldEmail: Sähköposti
 ImportUsersFldFirstName: Etunimi
 ImportUsersFldLastName: Sukunimi
 ImportUsersFldPassword: Salasana
-ImportUsersFldReenterPass: Valittu salasana
-ImportUsersInvalidPass: Virheellinen salasana: valitun salasanan on oltava vähintään 8 merkkiä, joista vähintään 1 iso kirjain, 1 pieni kirjain, 1 erikoismerkki, ja 1 numero.
-LoggedInAs email @ Teksti: Kirjautuneena # {email}.
-Manuals: Käyttöohjeet
-PDFPage: Page
-ProductDocumentationSplashTitle: tuotteen ohjeet
+ImportUsersFldReenterPass: Kirjoita salasana uudelleen
+ImportUsersInvalidPass: Virheellinen salasana: salasanassa on oltava vähintään kahdeksan merkkiä ja sen on sisällettävä vähintään yksi iso kirjain, yksi pieni kirjain, yksi erikoismerkki ja yksi numero.
+LoggedInAs email@Text: Kirjautunut käyttäjänä #{email}.
+Manuals: Käyttöoppaat
+PDFPage: Sivu
+ProductDocumentationSplashTitle: Tuotedokumentaatio 
 PublishHowto: Julkaise
-ResultsPerPage: Tuloksia sivulla
-ResultsPerPageShow: Näytä xx per sivu
-Search: Haku Tuotedokumentointi
-SearchContent: Etsi tämän sisällön
-SearchHome: Hae Tuotedokumentointi
+ResultsPerPage: Tulosta sivulla
+ResultsPerPageShow: Näytä xx tulosta sivulla
+Search: Etsi tuotedokumentaatiota
+SearchContent: Etsi tästä sisällöstä
+SearchHome: Etsi tuotedokumentaatiota
 ShowTOC: Näytä sisällysluettelo
-SSOLoginParamError: virhe SSO kirjautumisparametreja
-SSOLoginTryAgain: Yritä kirjautua uudelleen sisään
-SwitchLang: Vaihda kieli
-TemplaesBundlesTitle: Documentation Library
+SSOLoginParamError: SSO-kirjautumisparametrivirhe
+SSOLoginTryAgain: Yritä kirjautua uudelleen tunnuksella
+SwitchLang: Vaihda kieltä
+TemplaesBundlesTitle: Dokumentaatiokirjasto
 TemplateAddHelperCancel: Peruuta
 TemplateAddHelperSave: Tallenna
 TemplateAddHelperSaveAndClose: Tallenna ja sulje
 TemplateAddUserAddUser: Lisää käyttäjä
 TemplateAddUserCancel: Peruuta
-TemplateAddUserPasswordMessage: Salasanan täytyy olla vähintään 8 merkkiä, joista vähintään 1 iso kirjain, 1 pieni kirjain, 1 erikoismerkki, ja 1 numero.
-TemplateAdminArticleManagement: Article Management
-TemplateAdminContentRoleGroups: Sisällön rooliryhmät
-TemplateAdminCSHConfigFile: Lataa tai päivitä CSH Asetustiedosto
-TemplateAdminElasticReindex: Rebuild Search Index
-TemplateAdminExportComments: Export Kommentit
-TemplateAdminExportRatings: Export Arviot
-TemplateAdminManageManuals: Hallitse Käyttöohjeet
-TemplateAdminManageResourceManuals: Hallitse Resource Paketit
-TemplateAdminResourceIdCsv: Lataa ResourceIds Excel-tiedosto
-TemplateAdminSitemap: Hallitse Sivukartta
-TemplateAdminSubjectSchemeLocalization: hallinta Aihe Scheme lokalisointi
-TemplateAdminTitle: Administration
-TemplateAdminUploadCategoryXML: Hallitse Luokka XML
-TemplateAdminUploadCategoryXml: Lataa uusi luokka XML
-TemplateAdminUploadNewLangFile: Lataa uusi Default Languge Kooditiedosto
-TemplateAdminUploadSubjectScheme: hallinta Aihe Scheme
-TemplateAdminUserGroups: käyttäjäryhmät
+TemplateAddUserPasswordMessage: Salasanassa on oltava vähintään kahdeksan merkkiä ja sen on sisällettävä vähintään yksi iso kirjain, yksi pieni kirjain, yksi erikoismerkki ja yksi numero.
+TemplateAdminArticleManagement: Artikkelien hallinta
+TemplateAdminContentRoleGroups: Sisältörooliryhmät
+TemplateAdminCSHConfigFile: Lataa tai päivitä CSH-määritystiedosto
+TemplateAdminElasticReindex: Muodosta hakuindeksi uudelleen
+TemplateAdminExportComments: Vie kommentit
+TemplateAdminExportRatings: Vie luokitukset
+TemplateAdminManageManuals: Käyttöoppaiden hallinta
+TemplateAdminManageResourceManuals: Hallinnoi resurssipaketteja
+TemplateAdminResourceIdCsv: Lataa ResurssiTunnukset-Excel-tiedosto
+TemplateAdminSitemap: Hallinnoi sivustokarttaa
+TemplateAdminSubjectSchemeLocalization: Aihemallin lokalisoinnin hallinta
+TemplateAdminTitle: Hallinta
+TemplateAdminUploadCategoryXML: Halinnoi luokkien XML-tiedostoa
+TemplateAdminUploadCategoryXml: Lähetä uusi luokkien XML-tiedosto
+TemplateAdminUploadNewLangFile: Lähetä uusi oletusarvoinen kielikooditiedosto
+TemplateAdminUploadSubjectScheme: Aihemallin hallinta
+TemplateAdminUserGroups: Käyttäjäryhmät
 TemplateAdminUserManagement: Käyttäjien hallinta
-TemplateAdminUserRoles: käyttäjärooleja
-TemplateBundlePageCollapse: Collapse
-TemplateBundlePageCollapseTooltip: Tiivistä kaikki osastot
+TemplateAdminUserRoles: Käyttäjäroolit
+TemplateBundlePageCollapse: Kutista
+TemplateBundlePageCollapseTooltip: Kutista kaikki otsikot
 TemplateBundlePageComments: Kommentit
-TemplateBundlePageContents: Sisältö
+TemplateBundlePageContents: Sisällys
 TemplateBundlePageExpand: Laajenna
 TemplateBundlePageExpandTooltip: Laajenna sisällysluettelo
 TemplateBundlePageFeedback: Palaute
-TemplateBundlePageFeedbackThankYou: Kiitos! Kommenttisi lähetettiin.
+TemplateBundlePageFeedbackThankYou: Kiitos! Kommenttisi on lähetetty. 
 TemplateBundlePageFeedbackTooltip: Lähetä palautetta
-TemplateBundlePageFilterTitle: Valitse yksi tai useampia vaihtoehtoja
+TemplateBundlePageFilterTitle: Valitse vähintään yksi vaihtoehto
 TemplateBundlePageNext: Seuraava
-TemplateBundlePageNextTopicTooltip: Mene Seuraava aihe
-TemplateBundlePageNo: o
-TemplateBundlePagePrevious: Edellinen
-TemplateBundlePagePrevTopicTooltip: Mene Edellinen aihe
+TemplateBundlePageNextTopicTooltip: Siirry seuraavaan aiheeseen
+TemplateBundlePageNo: Ei
+TemplateBundlePagePrevious: Edellinen 
+TemplateBundlePagePrevTopicTooltip: Siirry edelliseen aiheeseen
 TemplateBundlePagePrint: Tulosta
 TemplateBundlePagePrintTooltip: Tulosta aihe
-TemplateBundlePagePrivacy: Tietosuojasi, eivät sisällä yhteystietoja palautteeseen. Tutustu yksityisyyden suoja.
+TemplateBundlePagePrivacy: Tietoturvasyistä älä sisällytä palautteeseen yhteystietojasi. Tutustu tietosuojakäytäntöömme.
 TemplateBundlePageProvideFeedbackTooltip: Anna palautetta
-TemplateBundlePageSaveAsPDF: Tallenna PDF
-TemplateBundlePageSavePDFTooltip: Tallenna PDF
-TemplateBundlePageSaveSelectedTopic: Tallenna valitun aiheen
-TemplateBundlePageSaveSelectedTopicAndSubtopics: Tallenna valitun aiheen ja ala-aiheet
+TemplateBundlePageSaveAsPDF: Tallenna PDF-tiedostona
+TemplateBundlePageSavePDFTooltip: Tallenna PDF-tiedostona
+TemplateBundlePageSaveSelectedTopic: Tallenna valittu aihe
+TemplateBundlePageSaveSelectedTopicAndSubtopics: Tallenna valittu aihe ja sen aliaiheet
 TemplateBundlePageSeeAlso: Katso myös
 TemplateBundlePageSend: Lähetä
 TemplateBundlePageSendLink: Lähetä
-TemplateBundlePageSendLinkTooltip: Lähetä Linkki aihe
+TemplateBundlePageSendLinkTooltip: Lähetä linkki aiheeseen
 TemplateBundlePageSubmit: Lähetä
-TemplateBundlePageWasThisInformationHelpful: Oliko tästä tiedosta apua?
+TemplateBundlePageWasThisInformationHelpful: Oliko näistä tiedoista hyötyä?
 TemplateBundlePageYEs: Kyllä
 TemplateBundlesDeleteLanguage: Poista kieli
-TemplateBundlesDeleteManual: Poista manuaalinen
-TemplateBundlesDownload: Lataa bundle
-TemplateBundlesDownloadClassification: Lataa luokitus XML
-TemplateBundlesHiddenBundle: Hidden manuaalinen
-TemplateBundlesSearchManuals: Haku Käyttöohjeet
-TemplateBundlesUploadClassification: Lataa luokitus XML
-TemplateClassificationForManual: For manuaalinen
-TemplateClassificationUploadClassificationMap: Lataa luokitus Map XML
-TemplateClassificationWarnReindex: HUOM lähettäminen Luokittelu Map aiheuttaa koko sivuston uudelleen indeksoitu. Tämä voi kestää useita minuutteja.
-TemplateContentRolesCRGroups: Sisällön rooliryhmät
-TemplateContentRolesDefineNewCR: Määritä uusi sisältö Role
-TemplateDefaultLayoutAdministration: Administration
+TemplateBundlesDeleteManual: Poista käyttöopas
+TemplateBundlesDownload: Lataa paketti
+TemplateBundlesDownloadClassification: Lataa luokittelun XML
+TemplateBundlesHiddenBundle: Piilotettu käyttöopas
+TemplateBundlesSearchManuals: Hae käyttöoppaita
+TemplateBundlesUploadClassification: Lähetä luokittelun XML
+TemplateClassificationForManual: Käyttöoppaalle
+TemplateClassificationUploadClassificationMap: Lähetä luokittelukartan XML
+TemplateClassificationWarnReindex: HUOMAUTUS: Uuden luokittelukartan lähettäminen aiheuttaa koko sivuston uudelleenindeksoinnin. Tämä voi kestää useita minuutteja.
+TemplateContentRolesCRGroups: Sisältörooliryhmät
+TemplateContentRolesDefineNewCR: Määritä uusi sisältörooli
+TemplateDefaultLayoutAdministration: Hallinta
 TemplateDefaultLayoutArticles: Artikkelit
 TemplateDefaultLayoutBrowseDocumentation: Selaa
-TemplateDefaultLayoutDocumentation: Documentation Library
-TemplateDefaultLayoutHome: Home
-TemplateDefaultLayoutLanguages: Yhdysvallat - Englanti
+TemplateDefaultLayoutDocumentation: Dokumentaatiokirjasto
+TemplateDefaultLayoutHome: Etusivu
+TemplateDefaultLayoutLanguages: United States - English
 TemplateDefaultLayoutLinksCareers: Työpaikat
 TemplateDefaultLayoutLinksContactUs: Ota yhteyttä
 TemplateDefaultLayoutLinksIntelCorp: © Intel Corporation
-TemplateDefaultLayoutLinksLegalContractsandTerms: Oikeudellinen Sopimukset ja Ehdot
-TemplateDefaultLayoutLinksLegalNotices: Lakitiedotteet
-TemplateDefaultLayoutLinksSiteMap: Site Map
-TemplateDefaultLayoutLinksWebsiteFeedback: Web-sivuston palaute
+TemplateDefaultLayoutLinksLegalContractsandTerms: Oikeudelliset sopimukset ja ehdot
+TemplateDefaultLayoutLinksLegalNotices: Oikeudelliset huomautukset  
+TemplateDefaultLayoutLinksSiteMap: Sivustokartta
+TemplateDefaultLayoutLinksWebsiteFeedback: Sivuston palaute
 TemplateDefaultLayoutLogout: Kirjaudu ulos
 TemplateDefaultLayoutProfile: Profiili
-TemplateDefaultLayoutVideos: videot
+TemplateDefaultLayoutVideos: Videot
 TemplateFilterCurrentPublication: Nykyinen julkaisu
 TemplateRequestResetPasswordEmail: Sähköposti
-TemplateRequestResetPasswordSubmit: Pyydä Salasananvaihtosähköposti
-TemplateSearchCurrentPublication nimi @ Teksti: Nykyinen haku rajoittuu "# {name} 'julkaisu
-TemplateSearchPageClearTooltip: Clear Filters
-TemplateSearchPageFirstPageTooltip: Mene Ensimmäinen sivu
-TemplateSearchPageLastPageTooltip: Mene Viimeinen sivu
-TemplateSearchPageNextPageTooltip: Mene Seuraava sivu
-TemplateSearchPagePrevPageTooltip: Mene edelliselle sivulle
-TemplateSearchPublicationTitle: julkaisu
-TemplateSearchSortbyCreatedAsc: Luotu - Nouseva
-TemplateSearchSortbyCreatedDec: Luotu - laskevassa
-TemplateSearchSortbyScore: Pisteet
-TemplateSearchSortbyUpdatedAsc: Lisätty - Nouseva
-TemplateSearchSortbyUpdatedDec: Lisätty - laskevassa
-TemplateSearchSortbyViews: lukumäärä Näkymät
-TemplatesSearchPageClear: Clear
-TemplatesSearchPageCurrentResults: Tulokset xx-yy of zzz
-TemplatesSearchPageRefilneResults: Tarkenna Tulokset
+TemplateRequestResetPasswordSubmit: Pyydä salasanan palautussähköpostia
+TemplateSearchCurrentPublication name@Text: Nykyinen haku on rajoitettu julkaisuun '#{name}'
+TemplateSearchPageClearTooltip: Tyhjennä suodatin
+TemplateSearchPageFirstPageTooltip: Siirry ensimmäiselle sivulle
+TemplateSearchPageLastPageTooltip: Siirry viimeiselle sivulle
+TemplateSearchPageNextPageTooltip: Siirry seuraavalle sivulle
+TemplateSearchPagePrevPageTooltip: Siirry edelliselle sivulle
+TemplateSearchPublicationTitle: Julkaisu
+TemplateSearchSortbyCreatedAsc: Luontipäivä – nouseva
+TemplateSearchSortbyCreatedDec: Luontipäivä – laskeva
+TemplateSearchSortbyScore: Tulos
+TemplateSearchSortbyUpdatedAsc: Lisäyspäivä – nouseva
+TemplateSearchSortbyUpdatedDec: Lisäyspäivä – laskeva
+TemplateSearchSortbyViews: Katselukertojen määrä
+TemplatesSearchPageClear: Tyhjennä
+TemplatesSearchPageCurrentResults: Tulokset xx–yy/zzz
+TemplatesSearchPageRefilneResults: Tarkenna tuloksia
 TemplatesSearchPageResultUpdated: Päivitetty
-TemplateUploadSitemapDisable: Poista sivukartta
-TemplateUploadSitemapDisabled: Sitemap käytöstä
-TemplateUploadSitemapDisabledWord: Vammaiset
+TemplateUploadSitemapDisable: Poista sivustokartta käytöstä
+TemplateUploadSitemapDisabled: Sivustokartta on poistettu käytöstä
+TemplateUploadSitemapDisabledWord: Ei käytössä
 TemplateUploadSitemapDownloadSitemap: Lataa sivustokartta.xml
-TemplateUploadSitemapEnable: Ota sivukartta
-TemplateUploadSitemapEnabled: Sitemap käytössä
+TemplateUploadSitemapEnable: Ota sivustokartta käyttöön
+TemplateUploadSitemapEnabled: Sivustokartta on otettu käyttöön
 TemplateUploadSitemapEnabledWord: Käytössä
-TemplateUploadSitemapLegend: Upload sivustokartta.xml
-TemplateUploadSitemapStatus sts @ Teksti: Blogi on # {s}
-TemplTemplateBundlePageProvideFeedbackTooltip: Anna palautetta
+TemplateUploadSitemapLegend: Lähetä sivustokartta.xml
+TemplateUploadSitemapStatus sts@Text: Sivustokartta on #{sts}
+TemplTemplateBundlePageProvideFeedbackTooltip: Lähetä palautetta
 TextPass txt@Text: #{txt}
-Upload: Lataa
-UploadLink: Lataa julkaisu
-YesodAuthStormPathSSOErrorOccured: Tapahtui virhe
-YesodAuthStormPathSSOLoginParamError: virhe SSO kirjautumisparametreja
-YesodAuthStormPathSSOLoginTryAgain: Yritä kirjautua uudelleen sisään
+Upload: Lähetä
+UploadLink: Lähetä julkaisu
+YesodAuthStormPathSSOErrorOccured: Virhe
+YesodAuthStormPathSSOLoginParamError: SSO-kirjautumisparametrivirhe
+YesodAuthStormPathSSOLoginTryAgain: Yritä kirjautua uudelleen tunnuksella
