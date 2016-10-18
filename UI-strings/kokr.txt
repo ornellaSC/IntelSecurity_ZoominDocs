@@ -235,6 +235,7 @@ TemplateDefaultLayoutLinksContactUs: 문의처
 TemplateDefaultLayoutLinksIntelCorp: © Intel Corporation
 TemplateDefaultLayoutLinksLegalContractsandTerms: 법적 계약 및 기간
 TemplateDefaultLayoutLinksLegalNotices: 법적 고지 사항 
+TemplateDefaultLayoutLinksPrivacy: 은둔
 TemplateDefaultLayoutLinksSiteMap: 사이트 맵
 TemplateDefaultLayoutLinksWebsiteFeedback: 웹 사이트 피드백
 TemplateDefaultLayoutLogout: 로그아웃

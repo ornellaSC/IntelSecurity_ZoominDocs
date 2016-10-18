@@ -235,6 +235,7 @@ TemplateDefaultLayoutLinksContactUs: Bize Ulaşın
 TemplateDefaultLayoutLinksIntelCorp: © Intel Corporation
 TemplateDefaultLayoutLinksLegalContractsandTerms: Yasal Sözleşmeler ve Koşullar
 TemplateDefaultLayoutLinksLegalNotices: Yasal Bildirimler 
+TemplateDefaultLayoutLinksPrivacy: Gizlilik
 TemplateDefaultLayoutLinksSiteMap: Site Haritası
 TemplateDefaultLayoutLinksWebsiteFeedback: Web Sitesi Geri Bildirimi
 TemplateDefaultLayoutLogout: Oturumu kapat

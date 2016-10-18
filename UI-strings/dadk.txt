@@ -235,6 +235,7 @@ TemplateDefaultLayoutLinksContactUs: Kontakt os
 TemplateDefaultLayoutLinksIntelCorp: © Intel Corporation
 TemplateDefaultLayoutLinksLegalContractsandTerms: Juridiske kontrakter og vilkår
 TemplateDefaultLayoutLinksLegalNotices: Juridiske oplysninger 
+TemplateDefaultLayoutLinksPrivacy: Privatliv
 TemplateDefaultLayoutLinksSiteMap: Oversigt over websted
 TemplateDefaultLayoutLinksWebsiteFeedback: Feedback for websted
 TemplateDefaultLayoutLogout: Log af

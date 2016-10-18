@@ -235,6 +235,7 @@ TemplateDefaultLayoutLinksContactUs: お問い合わせ
 TemplateDefaultLayoutLinksIntelCorp: © Intel Corporation
 TemplateDefaultLayoutLinksLegalContractsandTerms: 適法契約と利用条件
 TemplateDefaultLayoutLinksLegalNotices: 法的通知
+TemplateDefaultLayoutLinksPrivacy: プライバシー
 TemplateDefaultLayoutLinksSiteMap: サイトマップ
 TemplateDefaultLayoutLinksWebsiteFeedback: サイトについてのお問い合わせ
 TemplateDefaultLayoutLogout: サインアウト

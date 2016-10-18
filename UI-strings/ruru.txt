@@ -235,6 +235,7 @@ TemplateDefaultLayoutLinksContactUs: Связаться с нами
 TemplateDefaultLayoutLinksIntelCorp: © Intel Corporation
 TemplateDefaultLayoutLinksLegalContractsandTerms: Законные контракты и условия
 TemplateDefaultLayoutLinksLegalNotices: Правовое уведомление  
+TemplateDefaultLayoutLinksPrivacy: Конфиденциальность
 TemplateDefaultLayoutLinksSiteMap: Карта сайта
 TemplateDefaultLayoutLinksWebsiteFeedback: Обратная связь через веб-сайт
 TemplateDefaultLayoutLogout: Выйти

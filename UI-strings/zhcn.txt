@@ -235,6 +235,7 @@ TemplateDefaultLayoutLinksContactUs: 联系我们
 TemplateDefaultLayoutLinksIntelCorp: © Intel Corporation
 TemplateDefaultLayoutLinksLegalContractsandTerms: 法律合同与条款
 TemplateDefaultLayoutLinksLegalNotices: 法律声明 
+TemplateDefaultLayoutLinksPrivacy: 隐私
 TemplateDefaultLayoutLinksSiteMap: 站点地图
 TemplateDefaultLayoutLinksWebsiteFeedback: 网站反馈
 TemplateDefaultLayoutLogout: 注销

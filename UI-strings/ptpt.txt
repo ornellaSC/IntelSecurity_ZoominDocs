@@ -235,6 +235,7 @@ TemplateDefaultLayoutLinksContactUs: Contacte-nos
 TemplateDefaultLayoutLinksIntelCorp: © Intel Corporation
 TemplateDefaultLayoutLinksLegalContractsandTerms: Termos e contratos legais
 TemplateDefaultLayoutLinksLegalNotices: Avisos legais 
+TemplateDefaultLayoutLinksPrivacy: Privacidade
 TemplateDefaultLayoutLinksSiteMap: Mapa do site
 TemplateDefaultLayoutLinksWebsiteFeedback: Comentários acerca do Web site
 TemplateDefaultLayoutLogout: Terminar sessão

@@ -235,6 +235,7 @@ TemplateDefaultLayoutLinksContactUs: 連絡我們
 TemplateDefaultLayoutLinksIntelCorp: © Intel Corporation
 TemplateDefaultLayoutLinksLegalContractsandTerms: 法律契約和條款
 TemplateDefaultLayoutLinksLegalNotices: 法律聲明 
+TemplateDefaultLayoutLinksPrivacy: 隱私
 TemplateDefaultLayoutLinksSiteMap: 網站導覽
 TemplateDefaultLayoutLinksWebsiteFeedback: 網站意見反映
 TemplateDefaultLayoutLogout: 登出
