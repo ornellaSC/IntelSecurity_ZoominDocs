@@ -234,7 +234,8 @@ TemplateDefaultLayoutLinksCareers: Careers
 TemplateDefaultLayoutLinksContactUs: Contact Us
 TemplateDefaultLayoutLinksIntelCorp: © Intel Corporation
 TemplateDefaultLayoutLinksLegalContractsandTerms: Legal Contracts and Terms
-TemplateDefaultLayoutLinksLegalNotices: Legal Notices  
+TemplateDefaultLayoutLinksLegalNotices: Legal Notice
+TemplateDefaultLayoutLinksPrivacy: Privacy
 TemplateDefaultLayoutLinksSiteMap: Site Map
 TemplateDefaultLayoutLinksWebsiteFeedback: Website Feedback
 TemplateDefaultLayoutLogout: Sign out
