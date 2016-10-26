@@ -153,7 +153,8 @@ PDFPage: Страница
 ProductDocumentationSplashTitle: Документация по продукту 
 PublishHowto: Публиковать
 ResultsPerPage: Количество результатов на странице
-ResultsPerPageShow: Отображать xx на странице
+ResultsPerPageShowFirst: Отображать
+ResultsPerPageShow: на странице
 Search: Поиск в документации по продукту
 SearchContent: Поиск в этом содержимом
 SearchHome: Поиск в документации по продукту
@@ -204,7 +205,8 @@ TemplateBundlePagePrevious: Назад
 TemplateBundlePagePrevTopicTooltip: Перейти к предыдущей теме
 TemplateBundlePagePrint: Печать
 TemplateBundlePagePrintTooltip: Распечатать тему
-TemplateBundlePagePrivacy: Чтобы сохранить конфиденциальность, не указывайте контактные данные в вашем отзыве. Ознакомьтесь с нашей политикой конфиденциальности.
+TemplateBundlePagePrivacy: Чтобы сохранить конфиденциальность, не указывайте контактные данные в вашем отзыве. Ознакомьтесь с нашей
+TemplateBundlePagePrivacyLast: политикой конфиденциальности.
 TemplateBundlePageProvideFeedbackCharsLeft: 500 символов осталось
 TemplateBundlePageProvideFeedbackTooltip: Предоставить отзыв
 TemplateBundlePageSaveAsPDF: Сохранить в формате PDF
@@ -264,7 +266,8 @@ TemplateSearchSortbyUpdatedAsc: Дата добавления – по возр
 TemplateSearchSortbyUpdatedDec: Дата добавления – по убыванию
 TemplateSearchSortbyViews: Число просмотров
 TemplatesSearchPageClear: Очистить
-TemplatesSearchPageCurrentResults: Результаты xx-yy из zzz
+TemplatesSearchPageCurrentResultsFirst: Результаты
+TemplatesSearchPageCurrentResults: из
 TemplatesSearchPageRefilneResults: Уточнить результаты
 TemplatesSearchPageResultUpdated: Обновлено
 TemplateUploadSitemapDisable: Отключить карту сайта

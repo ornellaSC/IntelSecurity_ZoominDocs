@@ -153,7 +153,8 @@ PDFPage: Sivu
 ProductDocumentationSplashTitle: Tuotedokumentaatio 
 PublishHowto: Julkaise
 ResultsPerPage: Tulosta sivulla
-ResultsPerPageShow: Näytä xx tulosta sivulla
+ResultsPerPageShowFirst: Näytä
+ResultsPerPageShow: tulosta sivulla
 Search: Etsi tuotedokumentaatiota
 SearchContent: Etsi tästä sisällöstä
 SearchHome: Etsi tuotedokumentaatiota
@@ -204,7 +205,8 @@ TemplateBundlePagePrevious: Edellinen
 TemplateBundlePagePrevTopicTooltip: Siirry edelliseen aiheeseen
 TemplateBundlePagePrint: Tulosta
 TemplateBundlePagePrintTooltip: Tulosta aihe
-TemplateBundlePagePrivacy: Tietoturvasyistä älä sisällytä palautteeseen yhteystietojasi. Tutustu tietosuojakäytäntöömme.
+TemplateBundlePagePrivacy: Tietoturvasyistä älä sisällytä palautteeseen yhteystietojasi. Tutustu 
+TemplateBundlePagePrivacyLast: tietosuojakäytäntöömme.
 TemplateBundlePageProvideFeedbackCharsLeft: 500 merkkiä jäljellä
 TemplateBundlePageProvideFeedbackTooltip: Anna palautetta
 TemplateBundlePageSaveAsPDF: Tallenna PDF-tiedostona
@@ -264,7 +266,8 @@ TemplateSearchSortbyUpdatedAsc: Lisäyspäivä – nouseva
 TemplateSearchSortbyUpdatedDec: Lisäyspäivä – laskeva
 TemplateSearchSortbyViews: Katselukertojen määrä
 TemplatesSearchPageClear: Tyhjennä
-TemplatesSearchPageCurrentResults: Tulokset xx–yy/zzz
+TemplatesSearchPageCurrentResultsFirst: Tulokset 
+TemplatesSearchPageCurrentResults: of
 TemplatesSearchPageRefilneResults: Tarkenna tuloksia
 TemplatesSearchPageResultUpdated: Päivitetty
 TemplateUploadSitemapDisable: Poista sivustokartta käytöstä

@@ -153,7 +153,8 @@ PDFPage: Sida
 ProductDocumentationSplashTitle: Produktdokumentation 
 PublishHowto: Publicera
 ResultsPerPage: Resultat per sida
-ResultsPerPageShow: Visa xx per sida
+ResultsPerPageShowFirst: Visa
+ResultsPerPageShow: per sida
 Search: Sök i produktdokumentationen
 SearchContent: Sök i det här innehållet
 SearchHome: Sök i produktdokumentationen
@@ -204,7 +205,8 @@ TemplateBundlePagePrevious: Föregående
 TemplateBundlePagePrevTopicTooltip: Gå till föregående avsnitt
 TemplateBundlePagePrint: Skriv ut
 TemplateBundlePagePrintTooltip: Skriv ut avsnitt
-TemplateBundlePagePrivacy: Av sekretesskäl ber vi dig att inte inkludera någon kontaktinformation i din feedback. Läs igenom vår sekretesspolicy.
+TemplateBundlePagePrivacy: Av sekretesskäl ber vi dig att inte inkludera någon kontaktinformation i din feedback. Läs igenom
+TemplateBundlePagePrivacyLast: vår sekretesspolicy.
 TemplateBundlePageProvideFeedbackCharsLeft: 500 tecken kvar
 TemplateBundlePageProvideFeedbackTooltip: Ge feedback
 TemplateBundlePageSaveAsPDF: Spara som PDF
@@ -264,7 +266,8 @@ TemplateSearchSortbyUpdatedAsc: Tillagd den – Fallande
 TemplateSearchSortbyUpdatedDec: Tillagd den – Stigande
 TemplateSearchSortbyViews: Antal visningar
 TemplatesSearchPageClear: Rensa
-TemplatesSearchPageCurrentResults: Resultat xx–yy av zzz
+TemplatesSearchPageCurrentResultsFirst: Resultat
+TemplatesSearchPageCurrentResults: av
 TemplatesSearchPageRefilneResults: Begränsa resultaten
 TemplatesSearchPageResultUpdated: Uppdaterad
 TemplateUploadSitemapDisable: Inaktivera webbplatskarta

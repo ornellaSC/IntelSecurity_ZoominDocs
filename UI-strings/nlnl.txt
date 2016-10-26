@@ -153,7 +153,8 @@ PDFPage: Pagina
 ProductDocumentationSplashTitle: Productdocumentatie 
 PublishHowto: Publiceren
 ResultsPerPage: Resultaten per pagina
-ResultsPerPageShow: xx per pagina tonen
+ResultsPerPageShowFirst:
+ResultsPerPageShow: per pagina tonen
 Search: Zoeken in productdocumentatie
 SearchContent: Zoek in deze inhoud
 SearchHome: Zoeken in productdocumentatie
@@ -204,7 +205,8 @@ TemplateBundlePagePrevious: Vorige
 TemplateBundlePagePrevTopicTooltip: Ga naar vorig onderwerp
 TemplateBundlePagePrint: Afdrukken
 TemplateBundlePagePrintTooltip: Onderwerp afdrukken
-TemplateBundlePagePrivacy: Neem ter bescherming van uw privacy geen contactgegevens op in uw feedback. Lees ons privacybeleid.
+TemplateBundlePagePrivacy: Neem ter bescherming van uw privacy geen contactgegevens op in uw feedback. Lees ons 
+TemplateBundlePagePrivacyLast: privacybeleid.
 TemplateBundlePageProvideFeedbackCharsLeft: 500 tegn igjen
 TemplateBundlePageProvideFeedbackTooltip: Feedback geven
 TemplateBundlePageSaveAsPDF: Opslaan als PDF
@@ -264,7 +266,8 @@ TemplateSearchSortbyUpdatedAsc: Datum toegevoegd - oplopend
 TemplateSearchSortbyUpdatedDec: Datum toegevoegd - aflopend
 TemplateSearchSortbyViews: Aantal weergaven
 TemplatesSearchPageClear: Wissen
-TemplatesSearchPageCurrentResults: Resultaten xx-yy van zzz
+TemplatesSearchPageCurrentResultsFirst: Resultaten
+TemplatesSearchPageCurrentResults: van
 TemplatesSearchPageRefilneResults: Resultaten verfijnen
 TemplatesSearchPageResultUpdated: Bijgewerkt
 TemplateUploadSitemapDisable: Siteoverzicht uitschakelen

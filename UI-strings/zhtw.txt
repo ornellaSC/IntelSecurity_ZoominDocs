@@ -153,7 +153,8 @@ PDFPage: 頁面
 ProductDocumentationSplashTitle: 產品說明文件 
 PublishHowto: 發佈
 ResultsPerPage: 每頁的結果數
-ResultsPerPageShow: 每頁顯示 xx 個
+ResultsPerPageShowFirst: 每頁顯示
+ResultsPerPageShow: 個
 Search: 搜尋產品說明文件
 SearchContent: 搜尋此內容
 SearchHome: 搜尋產品說明文件
@@ -205,6 +206,7 @@ TemplateBundlePagePrevTopicTooltip: 前往上一主題
 TemplateBundlePagePrint: 列印
 TemplateBundlePagePrintTooltip: 列印主題
 TemplateBundlePagePrivacy: 為保護您的隱私權，請不要在您的意見反映中包含連絡資訊。 檢閱我們的隱私權政策。
+TemplateBundlePagePrivacyLast: privacy policy.
 TemplateBundlePageProvideFeedbackCharsLeft: 剩餘500個字符
 TemplateBundlePageProvideFeedbackTooltip: 提供意見反映
 TemplateBundlePageSaveAsPDF: 另存為 PDF
@@ -264,7 +266,8 @@ TemplateSearchSortbyUpdatedAsc: 新增日期 - 遞增順序
 TemplateSearchSortbyUpdatedDec: 新增日期 - 遞減順序
 TemplateSearchSortbyViews: 檢視次數
 TemplatesSearchPageClear: 清除
-TemplatesSearchPageCurrentResults: 第 xx-yy 個 (共 zzz 個) 結果
+TemplatesSearchPageCurrentResultsFirst: 第
+TemplatesSearchPageCurrentResults: 個 (共 個) 結果
 TemplatesSearchPageRefilneResults: 縮小結果範圍
 TemplatesSearchPageResultUpdated: 已更新
 TemplateUploadSitemapDisable: 停用網站導覽

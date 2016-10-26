@@ -153,7 +153,8 @@ PDFPage: Side
 ProductDocumentationSplashTitle: Produktdokumentation 
 PublishHowto: Publicer
 ResultsPerPage: Resultater pr. side
-ResultsPerPageShow: Vis xx pr. side
+ResultsPerPageShowFirst: Vis
+ResultsPerPageShow: pr. side
 Search: Søg i produktdokumentation
 SearchContent: Søg i dette dokument
 SearchHome: Søg i produktdokumentation
@@ -204,7 +205,8 @@ TemplateBundlePagePrevious: Forrige
 TemplateBundlePagePrevTopicTooltip: Gå til forrige emne
 TemplateBundlePagePrint: Udskriv
 TemplateBundlePagePrintTooltip: Udskriv emne
-TemplateBundlePagePrivacy: For at beskytte dine personlige oplysninger skal du ikke inkludere kontaktoplysninger i din feedback. Gennemse vores politik om personlige oplysninger.
+TemplateBundlePagePrivacy: For at beskytte dine personlige oplysninger skal du ikke inkludere kontaktoplysninger i din feedback. Gennemse vores politik om
+TemplateBundlePagePrivacyLast: personlige oplysninger.
 TemplateBundlePageProvideFeedbackCharsLeft: 500 tegn tilbage
 TemplateBundlePageProvideFeedbackTooltip: Giv feedback
 TemplateBundlePageSaveAsPDF: Gem som PDF
@@ -264,7 +266,8 @@ TemplateSearchSortbyUpdatedAsc: Dato tilføjet – stigende
 TemplateSearchSortbyUpdatedDec: Dato tilføjet – aftagende
 TemplateSearchSortbyViews: Antal visninger
 TemplatesSearchPageClear: Ryd
-TemplatesSearchPageCurrentResults: Resultater xx-yy af zzz
+TemplatesSearchPageCurrentResultsFirst: Resultater
+TemplatesSearchPageCurrentResults: af
 TemplatesSearchPageRefilneResults: Tilpas resultater
 TemplatesSearchPageResultUpdated: Opdateret
 TemplateUploadSitemapDisable: Deaktiver oversigt over websted

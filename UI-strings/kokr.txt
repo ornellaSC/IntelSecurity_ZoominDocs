@@ -153,7 +153,8 @@ PDFPage: 페이지
 ProductDocumentationSplashTitle: 제품 설명서 
 PublishHowto: 게시
 ResultsPerPage: 페이지당 결과
-ResultsPerPageShow: 페이지당 xx개 표시
+ResultsPerPageShowFirst: 페이지당
+ResultsPerPageShow: 개 표시
 Search: 제품 설명서 검색
 SearchContent: 이 콘텐츠 검색
 SearchHome: 제품 설명서 검색
@@ -204,7 +205,8 @@ TemplateBundlePagePrevious: 이전
 TemplateBundlePagePrevTopicTooltip: 이전 항목으로 이동
 TemplateBundlePagePrint: 인쇄
 TemplateBundlePagePrintTooltip: 항목 인쇄
-TemplateBundlePagePrivacy: 개인 정보를 보호하려면 피드백에 연락처 정보를 포함하지 마십시오. 개인 정보 보호 정책을 검토하십시오.
+TemplateBundlePagePrivacy: 개인 정보를 보호하려면 피드백에 연락처 정보를 포함하지 마십시오. 개인 정보 보호
+TemplateBundlePagePrivacyLast: 정책을 검토하십시오.
 TemplateBundlePageProvideFeedbackCharsLeft: 500 자 남음
 TemplateBundlePageProvideFeedbackTooltip: 피드백 제공
 TemplateBundlePageSaveAsPDF: PDF로 저장
@@ -264,7 +266,8 @@ TemplateSearchSortbyUpdatedAsc: 추가된 날짜 - 오름차순
 TemplateSearchSortbyUpdatedDec: 추가된 날짜 - 내림차순
 TemplateSearchSortbyViews: 조회 수
 TemplatesSearchPageClear: 지우기
-TemplatesSearchPageCurrentResults: 결과 xx-yy/zzz
+TemplatesSearchPageCurrentResultsFirst: 결과
+TemplatesSearchPageCurrentResults:
 TemplatesSearchPageRefilneResults: 결과 구체화
 TemplatesSearchPageResultUpdated: 업데이트됨
 TemplateUploadSitemapDisable: 사이트 맵 사용 안 함

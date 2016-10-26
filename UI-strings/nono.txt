@@ -153,7 +153,8 @@ PDFPage: Side
 ProductDocumentationSplashTitle: Produktdokumentasjon 
 PublishHowto: Publiser
 ResultsPerPage: Resultater per side
-ResultsPerPageShow: Vis xx per side
+ResultsPerPageShowFirst: Vis
+ResultsPerPageShow: per side
 Search: Søk i produktdokumentasjonen
 SearchContent: Søk i dette innholdet
 SearchHome: Søk i produktdokumentasjonen
@@ -204,7 +205,8 @@ TemplateBundlePagePrevious: Forrige
 TemplateBundlePagePrevTopicTooltip: Gå til forrige emne
 TemplateBundlePagePrint: Skriv ut
 TemplateBundlePagePrintTooltip: Skriv ut emne
-TemplateBundlePagePrivacy: Unngå å ta med kontaktinformasjon i tilbakemeldingen, slik at personvernet ditt opprettholdes. Se retningslinjene våre for personvern.
+TemplateBundlePagePrivacy: Unngå å ta med kontaktinformasjon i tilbakemeldingen, slik at personvernet ditt opprettholdes. Se retningslinjene våre
+TemplateBundlePagePrivacyLast: for personvern.
 TemplateBundlePageProvideFeedbackCharsLeft: 500 tekens over
 TemplateBundlePageProvideFeedbackTooltip: Gi tilbakemeldinger
 TemplateBundlePageSaveAsPDF: Lagre som PDF
@@ -212,7 +214,7 @@ TemplateBundlePageSavePDFTooltip: Lagre som PDF
 TemplateBundlePageSaveSelectedTopic: Lagre det valgte emnet
 TemplateBundlePageSaveSelectedTopicAndSubtopics: Lagre det valgte emnet og underemner
 TemplateBundlePageSeeAlso: Se også
-TemplateBundlePageSend: Send
+TemplateBundlePageSend: Sende
 TemplateBundlePageSendLink: Send
 TemplateBundlePageSendLinkTooltip: Send kobling til emne
 TemplateBundlePageSubmit: Send inn
@@ -264,7 +266,8 @@ TemplateSearchSortbyUpdatedAsc: Dato lagt til – stigende
 TemplateSearchSortbyUpdatedDec: Dato lagt til – synkende
 TemplateSearchSortbyViews: Antall visninger
 TemplatesSearchPageClear: Fjern
-TemplatesSearchPageCurrentResults: Resultater xx-yy av zzz
+TemplatesSearchPageCurrentResultsFirst: Resultater
+TemplatesSearchPageCurrentResults: av
 TemplatesSearchPageRefilneResults: Avgrense søkeresultatene
 TemplatesSearchPageResultUpdated: Oppdatert
 TemplateUploadSitemapDisable: Deaktiver områdekart

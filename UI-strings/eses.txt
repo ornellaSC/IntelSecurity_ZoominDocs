@@ -153,7 +153,8 @@ PDFPage: Página
 ProductDocumentationSplashTitle: Documentación de productos 
 PublishHowto: Publicar
 ResultsPerPage: Resultados por página
-ResultsPerPageShow: Mostrar xx por página
+ResultsPerPageShowFirst: Mostrar
+ResultsPerPageShow: por página
 Search: Buscar en documentación de productos
 SearchContent: Buscar en este contenido
 SearchHome: Buscar en documentación de productos
@@ -204,7 +205,8 @@ TemplateBundlePagePrevious: Anterior
 TemplateBundlePagePrevTopicTooltip: Ir al tema anterior
 TemplateBundlePagePrint: Imprimir
 TemplateBundlePagePrintTooltip: Imprimir tema
-TemplateBundlePagePrivacy: Para proteger su privacidad, no incluya información de contacto en sus comentarios. Revise nuestra política de privacidad.
+TemplateBundlePagePrivacy: Para proteger su privacidad, no incluya información de contacto en sus comentarios. Revise nuestra política
+TemplateBundlePagePrivacyLast: de privacidad.
 TemplateBundlePageProvideFeedbackCharsLeft: 500 caracteres restantes
 TemplateBundlePageProvideFeedbackTooltip: Proporcionar comentarios
 TemplateBundlePageSaveAsPDF: Guardar como PDF
@@ -264,7 +266,8 @@ TemplateSearchSortbyUpdatedAsc: Fecha de adición - Ascendente
 TemplateSearchSortbyUpdatedDec: Fecha de adición - Descendente
 TemplateSearchSortbyViews: Número de vistas
 TemplatesSearchPageClear: Borrar
-TemplatesSearchPageCurrentResults: Resultados xx-yy de zzz
+TemplatesSearchPageCurrentResultsFirst: Resultados
+TemplatesSearchPageCurrentResults: de
 TemplatesSearchPageRefilneResults: Refinar resultados
 TemplatesSearchPageResultUpdated: Actualizado
 TemplateUploadSitemapDisable: Desactivar mapa del sitio

@@ -153,7 +153,8 @@ PDFPage: Sayfa
 ProductDocumentationSplashTitle: Ürün Belgeleri 
 PublishHowto: Yayımla
 ResultsPerPage: Sayfa başına sonuçlar
-ResultsPerPageShow: Sayfa başına xx sonuç göster
+ResultsPerPageShowFirst: Sayfa başına 
+ResultsPerPageShow: sonuç göster
 Search: Ürün Belgelerinde ara
 SearchContent: Bu içerikte ara
 SearchHome: Ürün Belgelerinde Ara
@@ -204,7 +205,8 @@ TemplateBundlePagePrevious: Geri
 TemplateBundlePagePrevTopicTooltip: Önceki Konuya Git
 TemplateBundlePagePrint: Yazdır
 TemplateBundlePagePrintTooltip: Konuyu Yazdır
-TemplateBundlePagePrivacy: Gizliliğinizi korumak için geri bildiriminize iletişim bilgileri eklemeyin. Gizlilik ilkemizi inceleyin.
+TemplateBundlePagePrivacy: Gizliliğinizi korumak için geri bildiriminize iletişim bilgileri eklemeyin. Gizlilik
+TemplateBundlePagePrivacyLast: ilkemizi inceleyin.
 TemplateBundlePageProvideFeedbackCharsLeft: 500 karakter kaldı
 TemplateBundlePageProvideFeedbackTooltip: Geri Bildirim Ver
 TemplateBundlePageSaveAsPDF: PDF Olarak Kaydet
@@ -264,7 +266,8 @@ TemplateSearchSortbyUpdatedAsc: Eklenme Tarihi – Eskiden Yeniye
 TemplateSearchSortbyUpdatedDec: Eklenme Tarihi – Yeniden Eskiye
 TemplateSearchSortbyViews: Görüntülenme Sayısı
 TemplatesSearchPageClear: Temizle
-TemplatesSearchPageCurrentResults: zzz sonuçtan xx-yy tanesi
+TemplatesSearchPageCurrentResultsFirst: sonuçtan
+TemplatesSearchPageCurrentResults: tanesi
 TemplatesSearchPageRefilneResults: Sonuçları Daralt
 TemplatesSearchPageResultUpdated: Güncelleme tarihi:
 TemplateUploadSitemapDisable: Site haritasını devre dışı bırak

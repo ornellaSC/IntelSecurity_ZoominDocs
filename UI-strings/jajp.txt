@@ -153,7 +153,8 @@ PDFPage: ページ
 ProductDocumentationSplashTitle: 製品マニュアル
 PublishHowto: 公開
 ResultsPerPage: 1 ページに表示する結果の件数
-ResultsPerPageShow: 1 ページに xx 件を表示
+ResultsPerPageShowFirst: ページに
+ResultsPerPageShow: 件を表示
 Search: 製品マニュアルを検索
 SearchContent: このコンテンツを検索
 SearchHome: 製品マニュアルを検索
@@ -204,7 +205,8 @@ TemplateBundlePagePrevious: 前へ
 TemplateBundlePagePrevTopicTooltip: 前のトピックに移動
 TemplateBundlePagePrint: 印刷
 TemplateBundlePagePrintTooltip: トピックを印刷
-TemplateBundlePagePrivacy: プライバシーの保護のため、フィードバックには連絡先の情報を入力しないでください。プライバシー ポリシーをご確認ください。
+TemplateBundlePagePrivacy: プライバシーの保護のため、フィードバックには連絡先の情報を入力しないでください。プライバシー ポリ
+TemplateBundlePagePrivacyLast: シーをご確認ください。
 TemplateBundlePageProvideFeedbackCharsLeft: 500文字が残って
 TemplateBundlePageProvideFeedbackTooltip: フィードバックを送信する
 TemplateBundlePageSaveAsPDF: PDF で保存
@@ -264,6 +266,7 @@ TemplateSearchSortbyUpdatedAsc: 追加日 - 昇順
 TemplateSearchSortbyUpdatedDec: 追加日 - 降順
 TemplateSearchSortbyViews: 表示回数
 TemplatesSearchPageClear: クリア
+TemplatesSearchPageCurrentResultsFirst: Results
 TemplatesSearchPageCurrentResults: 検索結果 xx-yy / zzz 件
 TemplatesSearchPageRefilneResults: 結果の絞り込み
 TemplatesSearchPageResultUpdated: 更新

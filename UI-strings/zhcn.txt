@@ -153,7 +153,8 @@ PDFPage: 页面
 ProductDocumentationSplashTitle: 产品文档 
 PublishHowto: 发布
 ResultsPerPage: 每页的结果数
-ResultsPerPageShow: 每页显示 xx
+ResultsPerPageShowFirst: 每页显示
+ResultsPerPageShow:
 Search: 搜索产品文档
 SearchContent: 搜索此内容
 SearchHome: 搜索产品文档
@@ -204,7 +205,8 @@ TemplateBundlePagePrevious: 上一个
 TemplateBundlePagePrevTopicTooltip: 转至上一个主题
 TemplateBundlePagePrint: 打印
 TemplateBundlePagePrintTooltip: 打印主题
-TemplateBundlePagePrivacy: 为保护您的隐私权，请勿在反馈中包含联系信息。 查看我们的隐私权政策。
+TemplateBundlePagePrivacy: 为保护您的隐私权，请勿在反馈中包含联系信息。
+TemplateBundlePagePrivacyLast:  查看我们的隐私权政策。
 TemplateBundlePageProvideFeedbackCharsLeft: 剩余500个字符
 TemplateBundlePageProvideFeedbackTooltip: 提供反馈
 TemplateBundlePageSaveAsPDF: 另存为 PDF
@@ -264,7 +266,8 @@ TemplateSearchSortbyUpdatedAsc: 添加日期 – 升序
 TemplateSearchSortbyUpdatedDec: 添加日期 – 降序
 TemplateSearchSortbyViews: 查看次数
 TemplatesSearchPageClear: 清除
-TemplatesSearchPageCurrentResults: 结果 xx-yy/zzz
+TemplatesSearchPageCurrentResultsFirst: 结果
+TemplatesSearchPageCurrentResults:
 TemplatesSearchPageRefilneResults: 优化结果
 TemplatesSearchPageResultUpdated: 已更新
 TemplateUploadSitemapDisable: 禁用站点地图
