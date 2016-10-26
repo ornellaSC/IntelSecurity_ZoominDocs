@@ -73,6 +73,11 @@ HandlerRolesNoRoleNameFound: Inget rollnamn hittades
 HandlerRolesNotEnoughAdminUsersRemaining: Det gick inte att tilldela användare
 HandlerRolesSelectedPermissionsLessThenDefault: Det gick inte att tilldela behörigheter: De valda behörigheterna är färre än standardbehörighetsuppsättningen
 HandlerSearchAllResults: Alla resultat
+HandlerSearchNoResultsMsgTryFollowing: Inga resultat funna. Försök med följande:g:
+HandlerSearchNoResultsMsgSpelledCorrectly: Se till att alla ord är rättstavade.
+HandlerSearchNoResultsMsgTryDifferent: Försök med olika nyckelord.
+HandlerSearchNoResultsMsgMoreGeneral: Försök med fler generella nyckelord.
+HandlerSearchNoResultsMsgNoFindProdVer: Hittar inte din produkt eller version? Gå till Intel Security Serviceportal.
 HandlerSearchNoResults: Inga resultat
 HandlerSearchOneResult: Ett resultat
 HandlerSitemapFile: Fil med webbplatskarta
@@ -200,6 +205,7 @@ TemplateBundlePagePrevTopicTooltip: Gå till föregående avsnitt
 TemplateBundlePagePrint: Skriv ut
 TemplateBundlePagePrintTooltip: Skriv ut avsnitt
 TemplateBundlePagePrivacy: Av sekretesskäl ber vi dig att inte inkludera någon kontaktinformation i din feedback. Läs igenom vår sekretesspolicy.
+TemplateBundlePageProvideFeedbackCharsLeft: 500 tecken kvar
 TemplateBundlePageProvideFeedbackTooltip: Ge feedback
 TemplateBundlePageSaveAsPDF: Spara som PDF
 TemplateBundlePageSavePDFTooltip: Spara som PDF
@@ -270,7 +276,6 @@ TemplateUploadSitemapEnabled: Webbplatskartan har aktiverats
 TemplateUploadSitemapEnabledWord: Aktiverad
 TemplateUploadSitemapLegend: Överför sitemap.xml
 TemplateUploadSitemapStatus sts@Text: Webbplatskartan är #{sts}
-TemplTemplateBundlePageProvideFeedbackTooltip: Skicka feedback
 TextPass txt@Text: #{txt}
 Upload: Överför
 UploadLink: Överför publikation

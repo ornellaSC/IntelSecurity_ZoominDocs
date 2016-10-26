@@ -73,6 +73,11 @@ HandlerRolesNoRoleNameFound: Keinen Rollennamen gefunden
 HandlerRolesNotEnoughAdminUsersRemaining: Benutzer zuweisen nicht möglich
 HandlerRolesSelectedPermissionsLessThenDefault: Berechtigungen können nicht zugewiesen werden: Ausgewählte Berechtigungen sind weniger als Standard-Berechtigungssatz
 HandlerSearchAllResults: Alle Ergebnisse
+HandlerSearchNoResultsMsgTryFollowing: Keine Ergebnisse gefunden. Versuchen Sie Folgendes:
+HandlerSearchNoResultsMsgSpelledCorrectly: Stellen Sie sicher, dass alle Wörter richtig geschrieben sind.
+HandlerSearchNoResultsMsgTryDifferent: Probieren Sie verschiedene Suchbegriffe.
+HandlerSearchNoResultsMsgMoreGeneral: Probieren Sie allgemeinere Suchbegriffe.
+HandlerSearchNoResultsMsgNoFindProdVer: Finden Sie Ihr Produkt oder Ihre Version nicht? Gehen Sie zum Intel Security ServicePortal.
 HandlerSearchNoResults: Keine Ergebnisse
 HandlerSearchOneResult: Ein Ergebnis
 HandlerSitemapFile: Sitemap-Datei
@@ -200,6 +205,7 @@ TemplateBundlePagePrevTopicTooltip: Zum vorherigen Thema
 TemplateBundlePagePrint: Drucken
 TemplateBundlePagePrintTooltip: Thema drucken
 TemplateBundlePagePrivacy: Fügen Sie aus Datenschutzgründen Ihrem Feedback keine Kontaktinformationen hinzu. Lesen Sie unsere Datenschutzrichtlinien.
+TemplateBundlePageProvideFeedbackCharsLeft: 500 Zeichen übrig
 TemplateBundlePageProvideFeedbackTooltip: Feedback geben
 TemplateBundlePageSaveAsPDF: Als PDF speichern
 TemplateBundlePageSavePDFTooltip: Als PDF speichern
@@ -270,7 +276,6 @@ TemplateUploadSitemapEnabled: Sitemap aktiviert
 TemplateUploadSitemapEnabledWord: Aktiviert
 TemplateUploadSitemapLegend: sitemap.xml hochladen
 TemplateUploadSitemapStatus sts@Text: Sitemap ist #{sts}
-TemplTemplateBundlePageProvideFeedbackTooltip: Einreichen von Feedback
 TextPass txt@Text: #{txt}
 Upload: Hochladen
 UploadLink: Publikation hochladen

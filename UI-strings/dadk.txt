@@ -73,6 +73,11 @@ HandlerRolesNoRoleNameFound: Intet rollenavn fundet
 HandlerRolesNotEnoughAdminUsersRemaining: Kan ikke tildele brugere
 HandlerRolesSelectedPermissionsLessThenDefault: Kan ikke tildele tilladelser: De valgte tilladelser er mindre end den indstillede standardtilladelse
 HandlerSearchAllResults: Alle resultater
+HandlerSearchNoResultsMsgTryFollowing: Ingen resultater fundet. Prøv følgende:
+HandlerSearchNoResultsMsgSpelledCorrectly: Sørg for at alle ord er stavet korrekt.
+HandlerSearchNoResultsMsgTryDifferent: Prøv forskellige søgeord.
+HandlerSearchNoResultsMsgMoreGeneral: Prøv mere generelle søgeord.
+HandlerSearchNoResultsMsgNoFindProdVer: Må ikke finde dit produkt eller din version? Gå til Intel Security ServicePortal.
 HandlerSearchNoResults: Ingen resultater
 HandlerSearchOneResult: Et resultat
 HandlerSitemapFile: Fil med oversigt over websted
@@ -200,6 +205,7 @@ TemplateBundlePagePrevTopicTooltip: Gå til forrige emne
 TemplateBundlePagePrint: Udskriv
 TemplateBundlePagePrintTooltip: Udskriv emne
 TemplateBundlePagePrivacy: For at beskytte dine personlige oplysninger skal du ikke inkludere kontaktoplysninger i din feedback. Gennemse vores politik om personlige oplysninger.
+TemplateBundlePageProvideFeedbackCharsLeft: 500 tegn tilbage
 TemplateBundlePageProvideFeedbackTooltip: Giv feedback
 TemplateBundlePageSaveAsPDF: Gem som PDF
 TemplateBundlePageSavePDFTooltip: Gem som PDF
@@ -270,7 +276,6 @@ TemplateUploadSitemapEnabled: Oversigt over websted aktiveret
 TemplateUploadSitemapEnabledWord: Aktiveret
 TemplateUploadSitemapLegend: Overfør sitemap.xml
 TemplateUploadSitemapStatus sts@Text: Oversigt over websted er #{sts}
-TemplTemplateBundlePageProvideFeedbackTooltip: Indsend feedback
 TextPass txt@Text: #{txt}
 Upload: Overfør
 UploadLink: Overfør publikation

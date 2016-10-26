@@ -73,6 +73,11 @@ HandlerRolesNoRoleNameFound: Nie znaleziono nazwy roli
 HandlerRolesNotEnoughAdminUsersRemaining: Nie można przypisać użytkowników
 HandlerRolesSelectedPermissionsLessThenDefault: Nie można przypisać uprawnień: Wybrany zestaw uprawnień jest mniejszy niż domyślny
 HandlerSearchAllResults: Wszystkie wyniki
+HandlerSearchNoResultsMsgTryFollowing: Nie znaleziono wyników. Spróbuj wykonać następujące czynności:
+HandlerSearchNoResultsMsgSpelledCorrectly: Upewnij się, że wszystkie słowa zostały poprawnie napisane.
+HandlerSearchNoResultsMsgTryDifferent: Spróbuj użyć innych słów kluczowych.
+HandlerSearchNoResultsMsgMoreGeneral: Spróbuj użyć bardziej ogólnych słów kluczowych.
+HandlerSearchNoResultsMsgNoFindProdVer: Nie znaleziono produktu lub wersji? Przejdź do Intel Bezpieczeństwa ServicePortal.
 HandlerSearchNoResults: Brak wyników
 HandlerSearchOneResult: Jeden wynik
 HandlerSitemapFile: Plik mapy witryny
@@ -200,6 +205,7 @@ TemplateBundlePagePrevTopicTooltip: Przejdź do poprzedniego tematu
 TemplateBundlePagePrint: Drukuj
 TemplateBundlePagePrintTooltip: Wydrukuj temat
 TemplateBundlePagePrivacy: Aby chronić swoją prywatność, nie podawaj informacji kontaktowych w treści swojej opinii. Przejrzyj nasze zasady zachowania prywatności.
+TemplateBundlePageProvideFeedbackCharsLeft: 500 pozostało znaków
 TemplateBundlePageProvideFeedbackTooltip: Prześlij opinię
 TemplateBundlePageSaveAsPDF: Zapisz jako plik PDF
 TemplateBundlePageSavePDFTooltip: Zapisz jako plik PDF
@@ -270,7 +276,6 @@ TemplateUploadSitemapEnabled: Mapa witryny została włączona
 TemplateUploadSitemapEnabledWord: Włączona
 TemplateUploadSitemapLegend: Prześlij plik sitemap.xml
 TemplateUploadSitemapStatus sts@Text: Mapa witryny jest #{sts}
-TemplTemplateBundlePageProvideFeedbackTooltip: Wyślij opinię
 TextPass txt@Text: #{txt}
 Upload: Prześlij
 UploadLink: Prześlij publikację

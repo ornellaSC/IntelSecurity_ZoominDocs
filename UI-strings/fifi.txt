@@ -73,6 +73,11 @@ HandlerRolesNoRoleNameFound: Roolinimeä ei löytynyt
 HandlerRolesNotEnoughAdminUsersRemaining: Käyttäjiä ei voitu määrittää
 HandlerRolesSelectedPermissionsLessThenDefault: Käyttöoikeuksia ei voitu määrittää: valitut käyttöoikeudet ovat pienempiä kuin oletusarvoinen käyttöoikeusjoukko
 HandlerSearchAllResults: Kaikki tulokset
+HandlerSearchNoResultsMsgTryFollowing: Ei tuloksia. Kokeile seuraavia:
+HandlerSearchNoResultsMsgSpelledCorrectly: Varmista, että kaikki sanat on kirjoitettu oikein.
+HandlerSearchNoResultsMsgTryDifferent: Kokeile eri avainsanoja.
+HandlerSearchNoResultsMsgMoreGeneral: Kokeile yleisempiä hakusanoja.
+HandlerSearchNoResultsMsgNoFindProdVer: Siirry Intel Security huoltoportaali. Älä löydä tuotetta tai versio? 
 HandlerSearchNoResults: Ei tuloksia
 HandlerSearchOneResult: Yksi tulos
 HandlerSitemapFile: Sivustokarttatiedosto
@@ -200,6 +205,7 @@ TemplateBundlePagePrevTopicTooltip: Siirry edelliseen aiheeseen
 TemplateBundlePagePrint: Tulosta
 TemplateBundlePagePrintTooltip: Tulosta aihe
 TemplateBundlePagePrivacy: Tietoturvasyistä älä sisällytä palautteeseen yhteystietojasi. Tutustu tietosuojakäytäntöömme.
+TemplateBundlePageProvideFeedbackCharsLeft: 500 merkkiä jäljellä
 TemplateBundlePageProvideFeedbackTooltip: Anna palautetta
 TemplateBundlePageSaveAsPDF: Tallenna PDF-tiedostona
 TemplateBundlePageSavePDFTooltip: Tallenna PDF-tiedostona
@@ -270,7 +276,6 @@ TemplateUploadSitemapEnabled: Sivustokartta on otettu käyttöön
 TemplateUploadSitemapEnabledWord: Käytössä
 TemplateUploadSitemapLegend: Lähetä sivustokartta.xml
 TemplateUploadSitemapStatus sts@Text: Sivustokartta on #{sts}
-TemplTemplateBundlePageProvideFeedbackTooltip: Lähetä palautetta
 TextPass txt@Text: #{txt}
 Upload: Lähetä
 UploadLink: Lähetä julkaisu

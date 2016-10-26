@@ -73,6 +73,11 @@ HandlerRolesNoRoleNameFound: 역할 이름이 없음
 HandlerRolesNotEnoughAdminUsersRemaining: 사용자를 할당할 수 없음
 HandlerRolesSelectedPermissionsLessThenDefault: 권한을 할당할 수 없음: 선택한 권한이 기본 권한 집합보다 적습니다.
 HandlerSearchAllResults: 모든 결과
+HandlerSearchNoResultsMsgTryFollowing: 검색 결과가 없습니다. 다음을 시도해보십시오
+HandlerSearchNoResultsMsgSpelledCorrectly: 모든 단어의 철자가 올바른지 확인하십시오.
+HandlerSearchNoResultsMsgTryDifferent: 다른 키워드를 사용해보십시오.
+HandlerSearchNoResultsMsgMoreGeneral: 좀 더 일반적인 키워드를 사용해보십시오.
+HandlerSearchNoResultsMsgNoFindProdVer: 제품 또는 버전을 찾을 수 없습니까? 인텔 보안 서비스 포털로 이동합니다.
 HandlerSearchNoResults: 결과 없음
 HandlerSearchOneResult: 1개 결과
 HandlerSitemapFile: 사이트 맵 파일
@@ -200,6 +205,7 @@ TemplateBundlePagePrevTopicTooltip: 이전 항목으로 이동
 TemplateBundlePagePrint: 인쇄
 TemplateBundlePagePrintTooltip: 항목 인쇄
 TemplateBundlePagePrivacy: 개인 정보를 보호하려면 피드백에 연락처 정보를 포함하지 마십시오. 개인 정보 보호 정책을 검토하십시오.
+TemplateBundlePageProvideFeedbackCharsLeft: 500 자 남음
 TemplateBundlePageProvideFeedbackTooltip: 피드백 제공
 TemplateBundlePageSaveAsPDF: PDF로 저장
 TemplateBundlePageSavePDFTooltip: PDF로 저장
@@ -270,7 +276,6 @@ TemplateUploadSitemapEnabled: 사이트 맵을 사용하도록 설정함
 TemplateUploadSitemapEnabledWord: 사용
 TemplateUploadSitemapLegend: sitemap.xml 업로드
 TemplateUploadSitemapStatus sts@Text: 사이트 맵이 #{sts}입니다.
-TemplTemplateBundlePageProvideFeedbackTooltip: 피드백 제출
 TextPass txt@Text: #{txt}
 Upload: 업로드
 UploadLink: 게시물 업로드

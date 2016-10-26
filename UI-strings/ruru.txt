@@ -73,6 +73,11 @@ HandlerRolesNoRoleNameFound: Имя роли не найдено
 HandlerRolesNotEnoughAdminUsersRemaining: Не удается назначить пользователей
 HandlerRolesSelectedPermissionsLessThenDefault: Не удается назначить разрешения: уровень выбранных разрешений ниже, чем уровень набора разрешений по умолчанию
 HandlerSearchAllResults: Все результаты
+HandlerSearchNoResultsMsgTryFollowing: Результатов не найдено. Попробуйте выполнить следующие действия:
+HandlerSearchNoResultsMsgSpelledCorrectly: Убедись, что все слова написаны правильно.
+HandlerSearchNoResultsMsgTryDifferent: Попробуйте использовать другие ключевые слова.
+HandlerSearchNoResultsMsgMoreGeneral: Попробуйте использовать более общие ключевые слова.
+HandlerSearchNoResultsMsgNoFindProdVer: Не нашли свой продукт или версию? Перейти к Intel Security ServicePortal.
 HandlerSearchNoResults: Нет результатов
 HandlerSearchOneResult: Один результат
 HandlerSitemapFile: Файл карты сайта
@@ -200,6 +205,7 @@ TemplateBundlePagePrevTopicTooltip: Перейти к предыдущей те�
 TemplateBundlePagePrint: Печать
 TemplateBundlePagePrintTooltip: Распечатать тему
 TemplateBundlePagePrivacy: Чтобы сохранить конфиденциальность, не указывайте контактные данные в вашем отзыве. Ознакомьтесь с нашей политикой конфиденциальности.
+TemplateBundlePageProvideFeedbackCharsLeft: 500 символов осталось
 TemplateBundlePageProvideFeedbackTooltip: Предоставить отзыв
 TemplateBundlePageSaveAsPDF: Сохранить в формате PDF
 TemplateBundlePageSavePDFTooltip: Сохранить в формате PDF
@@ -270,7 +276,6 @@ TemplateUploadSitemapEnabled: Карта сайта включена
 TemplateUploadSitemapEnabledWord: Включена
 TemplateUploadSitemapLegend: Выгрузить файл sitemap.xml
 TemplateUploadSitemapStatus sts@Text: Состояние карты сайта: #{sts}
-TemplTemplateBundlePageProvideFeedbackTooltip: Отправить отзыв
 TextPass txt@Text: #{txt}
 Upload: Выгрузить
 UploadLink: Отправить публикацию

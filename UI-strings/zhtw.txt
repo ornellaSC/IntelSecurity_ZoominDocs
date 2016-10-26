@@ -73,6 +73,11 @@ HandlerRolesNoRoleNameFound: 找不到角色名稱
 HandlerRolesNotEnoughAdminUsersRemaining: 無法指派使用者
 HandlerRolesSelectedPermissionsLessThenDefault: 無法指派權限: 所選權限數少於預設權限集中的權限數
 HandlerSearchAllResults: 所有結果
+HandlerSearchNoResultsMsgTryFollowing: 未找到結果。 嘗試以下操作：
+HandlerSearchNoResultsMsgSpelledCorrectly: 確保所有字詞拼寫正確。
+HandlerSearchNoResultsMsgTryDifferent: 嘗試其他關鍵字。
+HandlerSearchNoResultsMsgMoreGeneral: 嘗試使用更寬泛的關鍵字。
+HandlerSearchNoResultsMsgNoFindProdVer: 找不到您的產品或版本？ 轉到Intel Security ServicePortal。
 HandlerSearchNoResults: 無結果
 HandlerSearchOneResult: 一個結果
 HandlerSitemapFile: 網站導覽檔案
@@ -200,6 +205,7 @@ TemplateBundlePagePrevTopicTooltip: 前往上一主題
 TemplateBundlePagePrint: 列印
 TemplateBundlePagePrintTooltip: 列印主題
 TemplateBundlePagePrivacy: 為保護您的隱私權，請不要在您的意見反映中包含連絡資訊。 檢閱我們的隱私權政策。
+TemplateBundlePageProvideFeedbackCharsLeft: 剩餘500個字符
 TemplateBundlePageProvideFeedbackTooltip: 提供意見反映
 TemplateBundlePageSaveAsPDF: 另存為 PDF
 TemplateBundlePageSavePDFTooltip: 另存為 PDF
@@ -270,7 +276,6 @@ TemplateUploadSitemapEnabled: 已啟用網站導覽
 TemplateUploadSitemapEnabledWord: 已啟用
 TemplateUploadSitemapLegend: 上傳 sitemap.xml
 TemplateUploadSitemapStatus sts@Text: 網站導覽為 #{sts}
-TemplTemplateBundlePageProvideFeedbackTooltip: 提交意見反映
 TextPass txt@Text: #{txt}
 Upload: 上傳
 UploadLink: 上傳發佈

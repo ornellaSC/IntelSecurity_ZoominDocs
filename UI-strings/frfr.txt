@@ -73,6 +73,11 @@ HandlerRolesNoRoleNameFound: Aucun nom de rôle n'a été trouvé
 HandlerRolesNotEnoughAdminUsersRemaining: Utilisateurs impossibles à affecter
 HandlerRolesSelectedPermissionsLessThenDefault: Autorisations impossibles à affecter : les autorisations sélectionnées sont inférieures à l'ensemble d'autorisations par défaut
 HandlerSearchAllResults: Tous les résultats
+HandlerSearchNoResultsMsgTryFollowing: Aucun résultat trouvé. Essayez ce qui suit:
+HandlerSearchNoResultsMsgSpelledCorrectly: Assure toi que tous les mots sont épelés correctement.
+HandlerSearchNoResultsMsgTryDifferent: Essayez différents mots-clés.
+HandlerSearchNoResultsMsgMoreGeneral: Essayez des mots clés plus généraux.
+HandlerSearchNoResultsMsgNoFindProdVer: Ne pas trouver votre produit ou une version? Allez à la sécurité ServicePortal Intel.
 HandlerSearchNoResults: Aucun résultat
 HandlerSearchOneResult: Un résultat
 HandlerSitemapFile: Fichier de plan du site
@@ -200,6 +205,7 @@ TemplateBundlePagePrevTopicTooltip: Accéder à la rubrique précédente
 TemplateBundlePagePrint: Imprimer
 TemplateBundlePagePrintTooltip: Imprimer la rubrique
 TemplateBundlePagePrivacy: Afin de garantir la confidentialité de vos informations personnelles, veuillez ne pas inclure vos coordonnées dans vos commentaires. Lisez notre politique de confidentialité.
+TemplateBundlePageProvideFeedbackCharsLeft: 500 caractères restants
 TemplateBundlePageProvideFeedbackTooltip: Fournir des commentaires
 TemplateBundlePageSaveAsPDF: Enregistrer au format PDF
 TemplateBundlePageSavePDFTooltip: Enregistrer au format PDF
@@ -270,7 +276,6 @@ TemplateUploadSitemapEnabled: Plan du site activé
 TemplateUploadSitemapEnabledWord: Activé
 TemplateUploadSitemapLegend: Charger le fichier sitemap.xml
 TemplateUploadSitemapStatus sts@Text: Le plan du site est #{sts}
-TemplTemplateBundlePageProvideFeedbackTooltip: Envoyer des commentaires
 TextPass txt@Text: #{txt}
 Upload: Charger
 UploadLink: Charger une publication

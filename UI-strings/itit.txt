@@ -73,6 +73,11 @@ HandlerRolesNoRoleNameFound: Nessun nome di ruolo trovato
 HandlerRolesNotEnoughAdminUsersRemaining: Impossibile assegnare utenti
 HandlerRolesSelectedPermissionsLessThenDefault: Impossibile assegnare autorizzazioni: le autorizzazioni selezionate sono inferiori al set di autorizzazioni predefinito
 HandlerSearchAllResults: Tutti i risultati
+HandlerSearchNoResultsMsgTryFollowing: Nessun risultato trovato. Provare quanto segue:
+HandlerSearchNoResultsMsgSpelledCorrectly: Assicurarsi che tutte le parole siano state digitate correttamente.
+HandlerSearchNoResultsMsgTryDifferent: Prova parole chiave diverse.
+HandlerSearchNoResultsMsgMoreGeneral: Prova parole chiave più generiche.
+HandlerSearchNoResultsMsgNoFindProdVer: Non trovare il prodotto o la versione? Vai alla Intel Security ServicePortal.
 HandlerSearchNoResults: Nessun risultato
 HandlerSearchOneResult: Un risultato
 HandlerSitemapFile: File della mappa del sito
@@ -200,6 +205,7 @@ TemplateBundlePagePrevTopicTooltip: Passa all'argomento precedente
 TemplateBundlePagePrint: Stampa
 TemplateBundlePagePrintTooltip: Stampa argomento
 TemplateBundlePagePrivacy: Per salvaguardare la privacy, non includere informazioni di contatto nel commento. Consulta l'informativa sulla privacy.
+TemplateBundlePageProvideFeedbackCharsLeft: 500 caratteri
 TemplateBundlePageProvideFeedbackTooltip: Fornisci commenti
 TemplateBundlePageSaveAsPDF: Salva come PDF
 TemplateBundlePageSavePDFTooltip: Salva come PDF
@@ -270,7 +276,6 @@ TemplateUploadSitemapEnabled: Mappa del sito attivata
 TemplateUploadSitemapEnabledWord: Attivata
 TemplateUploadSitemapLegend: Carica il file sitemap.xml
 TemplateUploadSitemapStatus sts@Text: La mappa del sito è #{sts}
-TemplTemplateBundlePageProvideFeedbackTooltip: Invia commento
 TextPass txt@Text: #{txt}
 Upload: Carica
 UploadLink: Carica pubblicazione

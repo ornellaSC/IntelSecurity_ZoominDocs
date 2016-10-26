@@ -73,6 +73,11 @@ HandlerRolesNoRoleNameFound: ロール名が見つかりません
 HandlerRolesNotEnoughAdminUsersRemaining: ユーザーを割り当てることができません
 HandlerRolesSelectedPermissionsLessThenDefault: 権限を割り当てることができません。選択された権限はデフォルトの権限セットより権限が少なくなっています
 HandlerSearchAllResults: すべての結果
+HandlerSearchNoResultsMsgTryFollowing: 結果が見つかりません。以下のことを試してみてください。
+HandlerSearchNoResultsMsgSpelledCorrectly: すべての単語のスペルが正しいことを確認してください。
+HandlerSearchNoResultsMsgTryDifferent: 別のキーワードを試してください。
+HandlerSearchNoResultsMsgMoreGeneral: より一般的なキーワードをお試しください。
+HandlerSearchNoResultsMsgNoFindProdVer: お使いの製品またはバージョンが見つかりませんか？インテルセキュリティサービスポータルに移動します。
 HandlerSearchNoResults: 結果なし
 HandlerSearchOneResult: 1 つの結果
 HandlerSitemapFile: サイトマップ ファイル
@@ -200,6 +205,7 @@ TemplateBundlePagePrevTopicTooltip: 前のトピックに移動
 TemplateBundlePagePrint: 印刷
 TemplateBundlePagePrintTooltip: トピックを印刷
 TemplateBundlePagePrivacy: プライバシーの保護のため、フィードバックには連絡先の情報を入力しないでください。プライバシー ポリシーをご確認ください。
+TemplateBundlePageProvideFeedbackCharsLeft: 500文字が残って
 TemplateBundlePageProvideFeedbackTooltip: フィードバックを送信する
 TemplateBundlePageSaveAsPDF: PDF で保存
 TemplateBundlePageSavePDFTooltip: PDF で保存
@@ -270,7 +276,6 @@ TemplateUploadSitemapEnabled: サイトマップが有効になりました
 TemplateUploadSitemapEnabledWord: 有効
 TemplateUploadSitemapLegend: sitemap.xml をアップロードする
 TemplateUploadSitemapStatus sts@Text: サイトマップは #{sts} です
-TemplTemplateBundlePageProvideFeedbackTooltip: フィードバックを送信する
 TextPass txt@Text: #{txt}
 Upload: アップロード
 UploadLink: 文書のアップロード

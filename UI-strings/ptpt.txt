@@ -73,6 +73,11 @@ HandlerRolesNoRoleNameFound: Nenhum nome da função encontrado
 HandlerRolesNotEnoughAdminUsersRemaining: Não foi possível atribuir utilizadores
 HandlerRolesSelectedPermissionsLessThenDefault: Não foi possível atribuir permissões. As permissões selecionadas são inferiores ao conjunto de permissões predefinido.
 HandlerSearchAllResults: Todos os resultados
+HandlerSearchNoResultsMsgTryFollowing: Nenhum resultado encontrado. Tente o seguinte:
+HandlerSearchNoResultsMsgSpelledCorrectly: Certifique-se de que todas as palavras estão escritas corretamente.
+HandlerSearchNoResultsMsgTryDifferent: Tente palavras-chave diferentes.
+HandlerSearchNoResultsMsgMoreGeneral: Tente palavras-chave mais gerais.
+HandlerSearchNoResultsMsgNoFindProdVer: Não encontrar o seu produto ou versão mais recente? Vá para a Segurança ServicePortal Intel.
 HandlerSearchNoResults: Não há resultados
 HandlerSearchOneResult: Um resultado
 HandlerSitemapFile: Ficheiro do mapa do site
@@ -200,6 +205,7 @@ TemplateBundlePagePrevTopicTooltip: Aceder ao tópico anterior
 TemplateBundlePagePrint: Imprimir
 TemplateBundlePagePrintTooltip: Imprimir tópico
 TemplateBundlePagePrivacy: Para proteger a sua privacidade, não inclua informações de contacto nos comentários. Consulte a nossa Política de Privacidade.
+TemplateBundlePageProvideFeedbackCharsLeft: 500 caracteres restantes
 TemplateBundlePageProvideFeedbackTooltip: Enviar comentários
 TemplateBundlePageSaveAsPDF: Guardar como PDF
 TemplateBundlePageSavePDFTooltip: Guardar como PDF
@@ -270,7 +276,6 @@ TemplateUploadSitemapEnabled: Mapa do site ativado
 TemplateUploadSitemapEnabledWord: Ativado
 TemplateUploadSitemapLegend: Carregar sitemap.xml
 TemplateUploadSitemapStatus sts@Text: O mapa do site é #{sts}
-TemplTemplateBundlePageProvideFeedbackTooltip: Submeter comentários
 TextPass txt@Text: #{txt}
 Upload: Carregar
 UploadLink: Carregar publicação

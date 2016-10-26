@@ -73,6 +73,11 @@ HandlerRolesNoRoleNameFound: Geen rolnaam gevonden
 HandlerRolesNotEnoughAdminUsersRemaining: Kan geen gebruikers toewijzen
 HandlerRolesSelectedPermissionsLessThenDefault: Kan geen machtigingen toewijzen: geselecteerde machtigingen zijn minder dan standaard machtigingenset
 HandlerSearchAllResults: Alle resultaten
+HandlerSearchNoResultsMsgTryFollowing: Geen resultaten gevonden. Probeer het volgende:
+HandlerSearchNoResultsMsgSpelledCorrectly: Zorg ervoor dat alle woorden correct gespeld zijn.
+HandlerSearchNoResultsMsgTryDifferent: Probeer verschillende trefwoorden.
+HandlerSearchNoResultsMsgMoreGeneral: Probeer meer algemene zoekwoorden.
+HandlerSearchNoResultsMsgNoFindProdVer: Heeft uw product of versie niet vinden? Ga naar de Intel Beveiliging ServicePortal..
 HandlerSearchNoResults: Geen resultaten
 HandlerSearchOneResult: Eén resultaat
 HandlerSitemapFile: Siteoverzichtsbestand
@@ -200,6 +205,7 @@ TemplateBundlePagePrevTopicTooltip: Ga naar vorig onderwerp
 TemplateBundlePagePrint: Afdrukken
 TemplateBundlePagePrintTooltip: Onderwerp afdrukken
 TemplateBundlePagePrivacy: Neem ter bescherming van uw privacy geen contactgegevens op in uw feedback. Lees ons privacybeleid.
+TemplateBundlePageProvideFeedbackCharsLeft: 500 tegn igjen
 TemplateBundlePageProvideFeedbackTooltip: Feedback geven
 TemplateBundlePageSaveAsPDF: Opslaan als PDF
 TemplateBundlePageSavePDFTooltip: Opslaan als PDF
@@ -235,7 +241,8 @@ TemplateDefaultLayoutLinksContactUs: Contact
 TemplateDefaultLayoutLinksIntelCorp: © Intel Corporation
 TemplateDefaultLayoutLinksLegalContractsandTerms: Juridische contracten en voorwaarden
 TemplateDefaultLayoutLinksLegalNotices: Juridische kennisgevingen  
-TemplateDefaultLayoutLinksPrivacy: PrivacyTemplateDefaultLayoutLinksSiteMap: Websiteoverzicht
+TemplateDefaultLayoutLinksPrivacy: Privacy
+TemplateDefaultLayoutLinksSiteMap: Websiteoverzicht
 TemplateDefaultLayoutLinksWebsiteFeedback: Websitefeedback
 TemplateDefaultLayoutLogout: Afmelden
 TemplateDefaultLayoutProfile: Profiel
@@ -269,7 +276,6 @@ TemplateUploadSitemapEnabled: Siteoverzicht ingeschakeld
 TemplateUploadSitemapEnabledWord: Ingeschakeld
 TemplateUploadSitemapLegend: sitemap.xml uploaden
 TemplateUploadSitemapStatus sts@Text: Siteoverzicht is #{sts}
-TemplTemplateBundlePageProvideFeedbackTooltip: Feedback indienen
 TextPass txt@Text: #{txt}
 Upload: Uploaden
 UploadLink: Publicatie uploaden

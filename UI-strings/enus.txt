@@ -1,4 +1,4 @@
-﻿AdvancedSearch: Advanced Search 
+﻿AdvancedSearch: Advanced Search
 AdvancedSearchTooltip: Select content filters
 BreadcrumbsProductDocumentationHome: Product Documentation Home
 BreadcrumbsSearch: Search
@@ -73,6 +73,11 @@ HandlerRolesNoRoleNameFound: No role name found
 HandlerRolesNotEnoughAdminUsersRemaining: Unable to assign users
 HandlerRolesSelectedPermissionsLessThenDefault: Unable to assign permissions: Selected permissions are less than default permission set
 HandlerSearchAllResults: All results
+HandlerSearchNoResultsMsgTryFollowing: No results found. Try the following:
+HandlerSearchNoResultsMsgSpelledCorrectly: Make sure all words are spelled correctly.
+HandlerSearchNoResultsMsgTryDifferent: Try different keywords.
+HandlerSearchNoResultsMsgMoreGeneral: Try more general keywords.
+HandlerSearchNoResultsMsgNoFindProdVer: Don’t find your product or version? Go to the Intel Security ServicePortal.
 HandlerSearchNoResults: No results
 HandlerSearchOneResult: One result
 HandlerSitemapFile: Sitemap file
@@ -200,6 +205,7 @@ TemplateBundlePagePrevTopicTooltip: Go to Previous Topic
 TemplateBundlePagePrint: Print
 TemplateBundlePagePrintTooltip: Print Topic
 TemplateBundlePagePrivacy: To protect your privacy, do not include contact information in your feedback. Review our privacy policy.
+TemplateBundlePageProvideFeedbackCharsLeft: 500 characters left
 TemplateBundlePageProvideFeedbackTooltip: Provide Feedback
 TemplateBundlePageSaveAsPDF: Save as PDF
 TemplateBundlePageSavePDFTooltip: Save as PDF
@@ -270,7 +276,6 @@ TemplateUploadSitemapEnabled: Sitemap enabled
 TemplateUploadSitemapEnabledWord: Enabled
 TemplateUploadSitemapLegend: Upload sitemap.xml
 TemplateUploadSitemapStatus sts@Text: Sitemap is #{sts}
-TemplTemplateBundlePageProvideFeedbackTooltip: Submit feedback
 TextPass txt@Text: #{txt}
 Upload: Upload
 UploadLink: Upload publication

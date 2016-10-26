@@ -73,6 +73,11 @@ HandlerRolesNoRoleNameFound: Finner ikke rollenavn
 HandlerRolesNotEnoughAdminUsersRemaining: Kan ikke tildele brukere
 HandlerRolesSelectedPermissionsLessThenDefault: Kan ikke tildele tillatelser: Valgte tillatelser er færre enn standard tillatelsessett
 HandlerSearchAllResults: Alle resultater
+HandlerSearchNoResultsMsgTryFollowing: Ingen resultater. Prøv følgende:
+HandlerSearchNoResultsMsgSpelledCorrectly: Kontroller at alle ordene er stavet riktig.
+HandlerSearchNoResultsMsgTryDifferent: Prøv andre søkeord.
+HandlerSearchNoResultsMsgMoreGeneral: Prøv mer generelle søkeord.
+HandlerSearchNoResultsMsgNoFindProdVer: Du må ikke finne produktet eller versjonen? Gå til Intel Security ServicePortal.
 HandlerSearchNoResults: Ingen resultater
 HandlerSearchOneResult: Ett resultat
 HandlerSitemapFile: Områdekartfil
@@ -200,6 +205,7 @@ TemplateBundlePagePrevTopicTooltip: Gå til forrige emne
 TemplateBundlePagePrint: Skriv ut
 TemplateBundlePagePrintTooltip: Skriv ut emne
 TemplateBundlePagePrivacy: Unngå å ta med kontaktinformasjon i tilbakemeldingen, slik at personvernet ditt opprettholdes. Se retningslinjene våre for personvern.
+TemplateBundlePageProvideFeedbackCharsLeft: 500 tekens over
 TemplateBundlePageProvideFeedbackTooltip: Gi tilbakemeldinger
 TemplateBundlePageSaveAsPDF: Lagre som PDF
 TemplateBundlePageSavePDFTooltip: Lagre som PDF
@@ -270,7 +276,6 @@ TemplateUploadSitemapEnabled: Områdekart aktivert
 TemplateUploadSitemapEnabledWord: Aktivert
 TemplateUploadSitemapLegend: Last opp sitemap.xml
 TemplateUploadSitemapStatus sts@Text: Områdekart er #{sts}
-TemplTemplateBundlePageProvideFeedbackTooltip: Send inn tilbakemeldinger
 TextPass txt@Text: #{txt}
 Upload: Last opp
 UploadLink: Last opp publikasjon

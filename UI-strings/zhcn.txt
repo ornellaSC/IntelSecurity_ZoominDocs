@@ -73,6 +73,11 @@ HandlerRolesNoRoleNameFound: 未找到角色名
 HandlerRolesNotEnoughAdminUsersRemaining: 无法分配用户
 HandlerRolesSelectedPermissionsLessThenDefault: 无法分配权限: 选定权限数少于默认权限集中的权限数
 HandlerSearchAllResults: 所有结果
+HandlerSearchNoResultsMsgTryFollowing: 未找到结果。 尝试以下操作：
+HandlerSearchNoResultsMsgSpelledCorrectly: 确保所有字词拼写正确。
+HandlerSearchNoResultsMsgTryDifferent: 尝试其他关键字。
+HandlerSearchNoResultsMsgMoreGeneral: 尝试使用更宽泛的关键字。
+HandlerSearchNoResultsMsgNoFindProdVer: 找不到您的产品或版本？ 转到Intel Security ServicePortal。
 HandlerSearchNoResults: 无结果
 HandlerSearchOneResult: 一个结果
 HandlerSitemapFile: 站点地图文件
@@ -200,6 +205,7 @@ TemplateBundlePagePrevTopicTooltip: 转至上一个主题
 TemplateBundlePagePrint: 打印
 TemplateBundlePagePrintTooltip: 打印主题
 TemplateBundlePagePrivacy: 为保护您的隐私权，请勿在反馈中包含联系信息。 查看我们的隐私权政策。
+TemplateBundlePageProvideFeedbackCharsLeft: 剩余500个字符
 TemplateBundlePageProvideFeedbackTooltip: 提供反馈
 TemplateBundlePageSaveAsPDF: 另存为 PDF
 TemplateBundlePageSavePDFTooltip: 另存为 PDF
@@ -270,7 +276,6 @@ TemplateUploadSitemapEnabled: 已启用站点地图
 TemplateUploadSitemapEnabledWord: 已启用
 TemplateUploadSitemapLegend: 上传 sitemap.xml
 TemplateUploadSitemapStatus sts@Text: 站点地图为 #{sts}
-TemplTemplateBundlePageProvideFeedbackTooltip: 提交反馈
 TextPass txt@Text: #{txt}
 Upload: 上传
 UploadLink: 上传发布内容

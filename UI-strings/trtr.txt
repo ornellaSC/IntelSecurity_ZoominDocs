@@ -73,6 +73,11 @@ HandlerRolesNoRoleNameFound: Rol adı bulunamadı
 HandlerRolesNotEnoughAdminUsersRemaining: Kullanıcılar atanamıyor
 HandlerRolesSelectedPermissionsLessThenDefault: İzinler atanamıyor: Seçili izinler, varsayılan izin setinden daha az
 HandlerSearchAllResults: Tüm sonuçlar
+HandlerSearchNoResultsMsgTryFollowing: Sonuç bulunamadı. aşağıdakileri deneyin:
+HandlerSearchNoResultsMsgSpelledCorrectly: Bütün kelimelerin doğru hecelendiğinden emin ol.
+HandlerSearchNoResultsMsgTryDifferent: Farklı anahtar kelimeler deneyin.
+HandlerSearchNoResultsMsgMoreGeneral: Daha genel anahtar kelimeler deneyin.
+HandlerSearchNoResultsMsgNoFindProdVer: ürün veya sürüm bulamıyor musunuz? Intel Güvenlik ServicePortal gidin.
 HandlerSearchNoResults: Sonuç yok
 HandlerSearchOneResult: Bir sonuç
 HandlerSitemapFile: Site haritası dosyası
@@ -200,6 +205,7 @@ TemplateBundlePagePrevTopicTooltip: Önceki Konuya Git
 TemplateBundlePagePrint: Yazdır
 TemplateBundlePagePrintTooltip: Konuyu Yazdır
 TemplateBundlePagePrivacy: Gizliliğinizi korumak için geri bildiriminize iletişim bilgileri eklemeyin. Gizlilik ilkemizi inceleyin.
+TemplateBundlePageProvideFeedbackCharsLeft: 500 karakter kaldı
 TemplateBundlePageProvideFeedbackTooltip: Geri Bildirim Ver
 TemplateBundlePageSaveAsPDF: PDF Olarak Kaydet
 TemplateBundlePageSavePDFTooltip: PDF Olarak Kaydet
@@ -270,7 +276,6 @@ TemplateUploadSitemapEnabled: Site haritası etkinleştirildi
 TemplateUploadSitemapEnabledWord: Etkin
 TemplateUploadSitemapLegend: Sitemap.xml dosyasını yükle
 TemplateUploadSitemapStatus sts@Text: Site haritası #{sts}
-TemplTemplateBundlePageProvideFeedbackTooltip: Geri Bildirim gönder
 TextPass txt@Text: #{txt}
 Upload: Yükle
 UploadLink: Yayını yükle
