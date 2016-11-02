@@ -207,7 +207,7 @@ TemplateBundlePagePrint: Drucken
 TemplateBundlePagePrintTooltip: Thema drucken
 TemplateBundlePagePrivacy: Fügen Sie aus Datenschutzgründen Ihrem Feedback keine Kontaktinformationen hinzu. Lesen Sie unsere
 TemplateBundlePagePrivacyLast: Datenschutzrichtlinien.
-TemplateBundlePageProvideFeedbackCharsLeft: 500 Zeichen übrig
+TemplateBundlePageProvideFeedbackCharsLeft: Zeichen übrig
 TemplateBundlePageProvideFeedbackTooltip: Feedback geben
 TemplateBundlePageSaveAsPDF: Als PDF speichern
 TemplateBundlePageSavePDFTooltip: Als PDF speichern
