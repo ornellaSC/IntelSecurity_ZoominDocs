@@ -207,7 +207,7 @@ TemplateBundlePagePrint: Udskriv
 TemplateBundlePagePrintTooltip: Udskriv emne
 TemplateBundlePagePrivacy: For at beskytte dine personlige oplysninger skal du ikke inkludere kontaktoplysninger i din feedback. Gennemse vores politik om
 TemplateBundlePagePrivacyLast: personlige oplysninger.
-TemplateBundlePageProvideFeedbackCharsLeft: 500 tegn tilbage
+TemplateBundlePageProvideFeedbackCharsLeft: tegn tilbage
 TemplateBundlePageProvideFeedbackTooltip: Giv feedback
 TemplateBundlePageSaveAsPDF: Gem som PDF
 TemplateBundlePageSavePDFTooltip: Gem som PDF
