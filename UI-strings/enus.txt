@@ -285,3 +285,49 @@ UploadLink: Upload publication
 YesodAuthStormPathSSOErrorOccured: An error occured
 YesodAuthStormPathSSOLoginParamError: There was an error with SSO login parameters
 YesodAuthStormPathSSOLoginTryAgain: Please login again in with
+
+
+LoginSite: Login
+LoginSiteEmail: Email address
+LoginSiteForgotPassword: Forgot password
+LoginSiteMessage: You are now logged in
+LoginSiteZD: ZoominDocs Login
+TemplateAdminCategoryfile: Category XML File
+TemplateAdminCshCurrent: Current CSH Rules
+TemplateAdminCshDownload: Download current CSH Configuration File
+TemplateAdminCshRuleContents: Rule Contents
+TemplateAdminCshRuleName: Rule Name
+TemplateAdminCshRulePriority: Rule Priority
+TemplateAdminCshUpload: Upload CSH Config file
+TemplateAdminCurrentContentRoleGroups:  Current Content Role Groups
+TemplateAdminDownloadDefaultLanguage: Download Current Default Language File
+TemplateAdminDownloadcurrentCategory: Download current categories XML file
+TemplateAdminListGroupCurrentGroups: Current Groups
+TemplateAdminListGroupDefineNewGroup: Define New Group
+TemplateAdminListRoleAdmin: admin
+TemplateAdminListRoleCurrentRoles: Current Roles
+TemplateAdminListRoleDefineNewRole: Define New Role
+TemplateAdminListRoleRolesPublic : Public
+TemplateAdminListRoleViewer: viewer
+TemplateAdminListUsersAction: Action
+TemplateAdminListUsersDeleteUser: Delete User
+TemplateAdminListUsersEditPermissions: Edit Permissions
+TemplateAdminListUsersEmail: Email
+TemplateAdminListUsersFullName: Full Name
+TemplateAdminListUsersResetPassword: Reset Password
+TemplateAdminSubjectSchemeDeleteLanguage: Delete Language File
+TemplateAdminSubjectSchemeDownload: Download
+TemplateAdminSubjectSchemeDownloadLanguage: Download Language File
+TemplateAdminSubjectSchemeExistingLocalizations: Existing Localizations
+TemplateAdminSubjectSchemeLanguage: Language
+TemplateAdminSubjectSchemeLocalizationTitle: Subject Scheme Localization
+TemplateAdminSubjectSchemeUpdate: Update
+TemplateAdminSubjectSchemeUpdateLanguage: Update Language File
+TemplateAdminUploadCategoryfile: Upload Category file
+TemplateAdminUploadDefaultLanguage: Upload Default Language File
+TemplateAdminUploadSiteMapFile: Upload Sitemap File
+TemplateSubjectSchemeUpload: Upload Subject Scheme
+TemplateSubjectSchemeWarnReindex: NOTE: Uploading a new subject scheme will cause the entire site to be re-indexed. This may take several minutes.
+TemplatesSubjectSchemeChooseFile: Choose File (ask Vlatko, not in html)
+TemplatesSubjectSchemeDownloadcurrent: Download current Subject Scheme
+TemplatesSubjectSchemeNoFileChosen: No file chosen
