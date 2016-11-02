@@ -207,7 +207,7 @@ TemplateBundlePagePrint: Print
 TemplateBundlePagePrintTooltip: Print Topic
 TemplateBundlePagePrivacy: To protect your privacy, do not include contact information in your feedback. Review our
 TemplateBundlePagePrivacyLast: privacy policy.
-TemplateBundlePageProvideFeedbackCharsLeft: 500 characters left
+TemplateBundlePageProvideFeedbackCharsLeft: characters left
 TemplateBundlePageProvideFeedbackTooltip: Provide Feedback
 TemplateBundlePageSaveAsPDF: Save as PDF
 TemplateBundlePageSavePDFTooltip: Save as PDF
